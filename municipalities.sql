@@ -1930,7 +1930,7 @@ INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1930,'Vilafamés','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1931,'Vilanova d''Alcolea','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1932,'Vilar de Canes','ES');
-INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1933,'Vila-real','ES');
+INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1933,'Vila-real / Villareal','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1934,'Vilavella, la','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1935,'Villafranca del Cid/Vilafranca','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (1936,'Villahermosa del Río','ES');
@@ -3157,7 +3157,7 @@ INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3157,'Berrobi','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3158,'Bidegoian','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3159,'Deba','ES');
-INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3160,'Donostia/San Sebastián','ES');
+INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3160,'San Sebastián / Donostia','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3161,'Eibar','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3162,'Elduain','ES');
 INSERT INTO `municipalities` (`municipality_id`,`name`,`country_code`) VALUES (3163,'Elgeta','ES');
