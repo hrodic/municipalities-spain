@@ -1,0 +1,8118 @@
+municipality_id,name,country_code
+1,Alegría-Dulantzi,ES
+2,Amurrio,ES
+3,Añana,ES
+4,Aramaio,ES
+5,Armiñón,ES
+6,Arraia-Maeztu,ES
+7,Arratzua-Ubarrundia,ES
+8,Artziniega,ES
+9,Asparrena,ES
+10,Ayala/Aiara,ES
+11,"Baños de Ebro/Mañueta",ES
+12,Barrundia,ES
+13,Berantevilla,ES
+14,Bernedo,ES
+15,Campezo/Kanpezu,ES
+16,Elburgo/Burgelu,ES
+17,Elciego,ES
+18,Elvillar/Bilar,ES
+19,"Erriberagoitia/Ribera Alta",ES
+20,"Harana/Valle de Arana",ES
+21,"Iruña Oka/Iruña de Oca",ES
+22,Iruraiz-Gauna,ES
+23,Kripan,ES
+24,Kuartango,ES
+25,Labastida/Bastida,ES
+26,Lagrán,ES
+27,Laguardia,ES
+28,Lanciego/Lantziego,ES
+29,Lantarón,ES
+30,"Lapuebla de Labarca",ES
+31,Laudio/Llodio,ES
+32,Legutio,ES
+33,Leza,ES
+34,"Moreda de Álava/Moreda Araba",ES
+35,Navaridas,ES
+36,Okondo,ES
+37,Oyón-Oion,ES
+38,Peñacerrada-Urizaharra,ES
+39,"Ribera Baja/Erribera Beitia",ES
+40,Salvatierra/Agurain,ES
+41,Samaniego,ES
+42,"San Millán/Donemiliaga",ES
+43,Urkabustaiz,ES
+44,Valdegovía/Gaubea,ES
+45,"Villabuena de Álava/Eskuernaga",ES
+46,Vitoria-Gasteiz,ES
+47,Yécora/Iekora,ES
+48,Zalduondo,ES
+49,Zambrana,ES
+50,Zigoitia,ES
+51,Zuia,ES
+52,Abengibre,ES
+53,Alatoz,ES
+54,Albacete,ES
+55,Albatana,ES
+56,Alborea,ES
+57,Alcadozo,ES
+58,"Alcalá del Júcar",ES
+59,Alcaraz,ES
+60,Almansa,ES
+61,Alpera,ES
+62,Ayna,ES
+63,Balazote,ES
+64,"Ballestero, El",ES
+65,"Balsa de Ves",ES
+66,Barrax,ES
+67,Bienservida,ES
+68,Bogarra,ES
+69,Bonete,ES
+70,"Bonillo, El",ES
+71,Carcelén,ES
+72,"Casas de Juan Núñez",ES
+73,"Casas de Lázaro",ES
+74,"Casas de Ves",ES
+75,Casas-Ibáñez,ES
+76,Caudete,ES
+77,Cenizate,ES
+78,"Chinchilla de Monte-Aragón",ES
+79,Corral-Rubio,ES
+80,Cotillas,ES
+81,"Elche de la Sierra",ES
+82,Férez,ES
+83,Fuensanta,ES
+84,Fuente-Álamo,ES
+85,Fuentealbilla,ES
+86,"Gineta, La",ES
+87,Golosalvo,ES
+88,Hellín,ES
+89,"Herrera, La",ES
+90,Higueruela,ES
+91,Hoya-Gonzalo,ES
+92,Jorquera,ES
+93,Letur,ES
+94,Lezuza,ES
+95,Liétor,ES
+96,Madrigueras,ES
+97,Mahora,ES
+98,Masegoso,ES
+99,Minaya,ES
+100,Molinicos,ES
+101,Montalvos,ES
+102,"Montealegre del Castillo",ES
+103,Motilleja,ES
+104,Munera,ES
+105,"Navas de Jorquera",ES
+106,Nerpio,ES
+107,Ontur,ES
+108,"Ossa de Montiel",ES
+109,"Paterna del Madera",ES
+110,"Peñas de San Pedro",ES
+111,Peñascosa,ES
+112,Pétrola,ES
+113,Povedilla,ES
+114,"Pozo Cañada",ES
+115,Pozohondo,ES
+116,Pozo-Lorente,ES
+117,Pozuelo,ES
+118,"Recueja, La",ES
+119,Riópar,ES
+120,Robledo,ES
+121,"Roda, La",ES
+122,Salobre,ES
+123,"San Pedro",ES
+124,Socovos,ES
+125,"Tarazona de la Mancha",ES
+126,Tobarra,ES
+127,Valdeganga,ES
+128,Vianos,ES
+129,"Villa de Ves",ES
+130,"Villalgordo del Júcar",ES
+131,Villamalea,ES
+132,Villapalacios,ES
+133,Villarrobledo,ES
+134,Villatoya,ES
+135,Villavaliente,ES
+136,"Villaverde de Guadalimar",ES
+137,Viveros,ES
+138,Yeste,ES
+139,Adsubia,ES
+140,Agost,ES
+141,Agres,ES
+142,Aigües,ES
+143,Albatera,ES
+144,Alcalalí,ES
+145,"Alcocer de Planes",ES
+146,Alcoleja,ES
+147,Alcoy/Alcoi,ES
+148,Alfafara,ES
+149,"Alfàs del Pi, l'",ES
+150,Algorfa,ES
+151,Algueña,ES
+152,Alicante/Alacant,ES
+153,Almoradí,ES
+154,Almudaina,ES
+155,"Alqueria d'Asnar, l'",ES
+156,Altea,ES
+157,Aspe,ES
+158,Balones,ES
+159,"Banyeres de Mariola",ES
+160,Benasau,ES
+161,Beneixama,ES
+162,Benejúzar,ES
+163,Benferri,ES
+164,Beniarbeig,ES
+165,Beniardá,ES
+166,Beniarrés,ES
+167,Benidoleig,ES
+168,Benidorm,ES
+169,Benifallim,ES
+170,Benifato,ES
+171,Benigembla,ES
+172,Benijófar,ES
+173,Benilloba,ES
+174,Benillup,ES
+175,Benimantell,ES
+176,Benimarfull,ES
+177,Benimassot,ES
+178,Benimeli,ES
+179,Benissa,ES
+180,"Benitachell/Poble Nou de Benitatxell, el",ES
+181,Biar,ES
+182,Bigastro,ES
+183,Bolulla,ES
+184,Busot,ES
+185,"Callosa de Segura",ES
+186,"Callosa d'en Sarrià",ES
+187,Calp,ES
+188,"Campello, el",ES
+189,"Campo de Mirra/Camp de Mirra, el",ES
+190,Cañada,ES
+191,Castalla,ES
+192,"Castell de Castells",ES
+193,"Castell de Guadalest, el",ES
+194,Catral,ES
+195,Cocentaina,ES
+196,Confrides,ES
+197,Cox,ES
+198,Crevillent,ES
+199,"Daya Nueva",ES
+200,"Daya Vieja",ES
+201,Dénia,ES
+202,Dolores,ES
+203,Elche/Elx,ES
+204,Elda,ES
+205,Facheca,ES
+206,Famorca,ES
+207,Finestrat,ES
+208,"Fondó de les Neus, el/Hondón de las Nieves",ES
+209,"Formentera del Segura",ES
+210,Gaianes,ES
+211,"Gata de Gorgos",ES
+212,Gorga,ES
+213,"Granja de Rocamora",ES
+214,"Guardamar del Segura",ES
+215,"Hondón de los Frailes",ES
+216,Ibi,ES
+217,Jacarilla,ES
+218,Jávea/Xàbia,ES
+219,Jijona/Xixona,ES
+220,Llíber,ES
+221,"Lorcha/Orxa, l'",ES
+222,Millena,ES
+223,"Monforte del Cid",ES
+224,Monóvar/Monòver,ES
+225,"Montesinos, Los",ES
+226,Murla,ES
+227,"Muro de Alcoy",ES
+228,Mutxamel,ES
+229,Novelda,ES
+230,"Nucia, la",ES
+231,Ondara,ES
+232,Onil,ES
+233,Orba,ES
+234,Orihuela,ES
+235,Orxeta,ES
+236,Parcent,ES
+237,Pedreguer,ES
+238,Pego,ES
+239,Penàguila,ES
+240,Petrer,ES
+241,"Pilar de la Horadada",ES
+242,"Pinós, el/Pinoso",ES
+243,Planes,ES
+244,"Poblets, els",ES
+245,Polop,ES
+246,Quatretondeta,ES
+247,Rafal,ES
+248,"Ràfol d'Almúnia, el",ES
+249,Redován,ES
+250,Relleu,ES
+251,Rojales,ES
+252,"Romana, la",ES
+253,Sagra,ES
+254,Salinas,ES
+255,"San Fulgencio",ES
+256,"San Isidro",ES
+257,"San Miguel de Salinas",ES
+258,"San Vicente del Raspeig/Sant Vicent del Raspeig",ES
+259,"Sanet y Negrals",ES
+260,"Sant Joan d'Alacant",ES
+261,"Santa Pola",ES
+262,Sax,ES
+263,Sella,ES
+264,Senija,ES
+265,Tàrbena,ES
+266,Teulada,ES
+267,Tibi,ES
+268,Tollos,ES
+269,Tormos,ES
+270,"Torremanzanas/Torre de les Maçanes, la",ES
+271,Torrevieja,ES
+272,"Vall d'Alcalà, la",ES
+273,"Vall de Gallinera",ES
+274,"Vall de Laguar, la",ES
+275,"Vall d'Ebo, la",ES
+276,"Verger, el",ES
+277,"Villajoyosa/Vila Joiosa, la",ES
+278,Villena,ES
+279,Xaló,ES
+280,Abla,ES
+281,Abrucena,ES
+282,Adra,ES
+283,Albánchez,ES
+284,Alboloduy,ES
+285,Albox,ES
+286,Alcolea,ES
+287,Alcóntar,ES
+288,"Alcudia de Monteagud",ES
+289,Alhabia,ES
+290,"Alhama de Almería",ES
+291,Alicún,ES
+292,Almería,ES
+293,Almócita,ES
+294,Alsodux,ES
+295,Antas,ES
+296,Arboleas,ES
+297,"Armuña de Almanzora",ES
+298,Bacares,ES
+299,Bayárcal,ES
+300,Bayarque,ES
+301,Bédar,ES
+302,Beires,ES
+303,Benahadux,ES
+304,Benitagla,ES
+305,Benizalón,ES
+306,Bentarique,ES
+307,Berja,ES
+308,Canjáyar,ES
+309,Cantoria,ES
+310,Carboneras,ES
+311,"Castro de Filabres",ES
+312,Chercos,ES
+313,Chirivel,ES
+314,Cóbdar,ES
+315,"Cuevas del Almanzora",ES
+316,Dalías,ES
+317,"Ejido, El",ES
+318,Enix,ES
+319,Felix,ES
+320,Fines,ES
+321,Fiñana,ES
+322,Fondón,ES
+323,Gádor,ES
+324,"Gallardos, Los",ES
+325,Garrucha,ES
+326,Gérgal,ES
+327,Huécija,ES
+328,"Huércal de Almería",ES
+329,Huércal-Overa,ES
+330,Illar,ES
+331,Instinción,ES
+332,Laroya,ES
+333,"Láujar de Andarax",ES
+334,Líjar,ES
+335,Lubrín,ES
+336,"Lucainena de las Torres",ES
+337,Lúcar,ES
+338,Macael,ES
+339,María,ES
+340,Mojácar,ES
+341,"Mojonera, La",ES
+342,Nacimiento,ES
+343,Níjar,ES
+344,Ohanes,ES
+345,"Olula de Castro",ES
+346,"Olula del Río",ES
+347,Oria,ES
+348,Padules,ES
+349,Partaloa,ES
+350,"Paterna del Río",ES
+351,Pechina,ES
+352,Pulpí,ES
+353,Purchena,ES
+354,Rágol,ES
+355,Rioja,ES
+356,"Roquetas de Mar",ES
+357,"Santa Cruz de Marchena",ES
+358,"Santa Fe de Mondújar",ES
+359,Senés,ES
+360,Serón,ES
+361,Sierro,ES
+362,Somontín,ES
+363,Sorbas,ES
+364,Suflí,ES
+365,Tabernas,ES
+366,Taberno,ES
+367,Tahal,ES
+368,Terque,ES
+369,Tíjola,ES
+370,"Tres Villas, Las",ES
+371,Turre,ES
+372,Turrillas,ES
+373,"Uleila del Campo",ES
+374,Urrácal,ES
+375,Velefique,ES
+376,Vélez-Blanco,ES
+377,Vélez-Rubio,ES
+378,Vera,ES
+379,Viator,ES
+380,Vícar,ES
+381,Zurgena,ES
+382,Adanero,ES
+383,"Adrada, La",ES
+384,Albornos,ES
+385,"Aldeanueva de Santa Cruz",ES
+386,Aldeaseca,ES
+387,"Aldehuela, La",ES
+388,Amavida,ES
+389,"Arenal, El",ES
+390,"Arenas de San Pedro",ES
+391,Arevalillo,ES
+392,Arévalo,ES
+393,Aveinte,ES
+394,Avellaneda,ES
+395,Ávila,ES
+396,"Barco de Ávila, El",ES
+397,"Barraco, El",ES
+398,Barromán,ES
+399,Becedas,ES
+400,Becedillas,ES
+401,"Bercial de Zapardiel",ES
+402,"Berlanas, Las",ES
+403,Bernuy-Zapardiel,ES
+404,"Berrocalejo de Aragona",ES
+405,Blascomillán,ES
+406,"Blasconuño de Matacabras",ES
+407,Blascosancho,ES
+408,"Bohodón, El",ES
+409,Bohoyo,ES
+410,"Bonilla de la Sierra",ES
+411,Brabos,ES
+412,Bularros,ES
+413,Burgohondo,ES
+414,"Cabezas de Alambre",ES
+415,"Cabezas del Pozo",ES
+416,"Cabezas del Villar",ES
+417,Cabizuela,ES
+418,Canales,ES
+419,Candeleda,ES
+420,Cantiveros,ES
+421,Cardeñosa,ES
+422,"Carrera, La",ES
+423,"Casas del Puerto",ES
+424,Casasola,ES
+425,Casavieja,ES
+426,Casillas,ES
+427,"Castellanos de Zapardiel",ES
+428,Cebreros,ES
+429,"Cepeda la Mora",ES
+430,Chamartín,ES
+431,Cillán,ES
+432,Cisla,ES
+433,"Colilla, La",ES
+434,"Collado de Contreras",ES
+435,"Collado del Mirón",ES
+436,Constanzana,ES
+437,Crespos,ES
+438,"Cuevas del Valle",ES
+439,"Diego del Carpio",ES
+440,Donjimeno,ES
+441,Donvidas,ES
+442,"Espinosa de los Caballeros",ES
+443,"Flores de Ávila",ES
+444,Fontiveros,ES
+445,Fresnedilla,ES
+446,"Fresno, El",ES
+447,"Fuente el Saúz",ES
+448,"Fuentes de Año",ES
+449,"Gallegos de Altamiros",ES
+450,"Gallegos de Sobrinos",ES
+451,"Garganta del Villar",ES
+452,Gavilanes,ES
+453,Gemuño,ES
+454,"Gil García",ES
+455,Gilbuena,ES
+456,Gimialcón,ES
+457,Gotarrendura,ES
+458,"Grandes y San Martín",ES
+459,Guisando,ES
+460,Gutierre-Muñoz,ES
+461,Hernansancho,ES
+462,"Herradón de Pinares",ES
+463,"Herreros de Suso",ES
+464,"Higuera de las Dueñas",ES
+465,"Hija de Dios, La",ES
+466,"Horcajada, La",ES
+467,"Horcajo de las Torres",ES
+468,"Hornillo, El",ES
+469,"Hoyo de Pinares, El",ES
+470,Hoyocasero,ES
+471,Hoyorredondo,ES
+472,"Hoyos de Miguel Muñoz",ES
+473,"Hoyos del Collado",ES
+474,"Hoyos del Espino",ES
+475,Hurtumpascual,ES
+476,Junciana,ES
+477,Langa,ES
+478,Lanzahíta,ES
+479,"Llanos de Tormes, Los",ES
+480,"Losar del Barco, El",ES
+481,"Madrigal de las Altas Torres",ES
+482,Maello,ES
+483,"Malpartida de Corneja",ES
+484,Mamblas,ES
+485,"Mancera de Arriba",ES
+486,"Manjabálago y Ortigosa de Rioalmar",ES
+487,Marlín,ES
+488,Martiherrero,ES
+489,Martínez,ES
+490,"Mediana de Voltoya",ES
+491,Medinilla,ES
+492,Mengamuñoz,ES
+493,"Mesegar de Corneja",ES
+494,Mijares,ES
+495,Mingorría,ES
+496,"Mirón, El",ES
+497,Mironcillo,ES
+498,"Mirueña de los Infanzones",ES
+499,Mombeltrán,ES
+500,Monsalupe,ES
+501,"Moraleja de Matacabras",ES
+502,Muñana,ES
+503,Muñico,ES
+504,Muñogalindo,ES
+505,Muñogrande,ES
+506,"Muñomer del Peco",ES
+507,Muñopepe,ES
+508,Muñosancho,ES
+509,Muñotello,ES
+510,"Narrillos del Álamo",ES
+511,"Narrillos del Rebollar",ES
+512,"Narros de Saldueña",ES
+513,"Narros del Castillo",ES
+514,"Narros del Puerto",ES
+515,"Nava de Arévalo",ES
+516,"Nava del Barco",ES
+517,"Navacepedilla de Corneja",ES
+518,Navadijos,ES
+519,Navaescurial,ES
+520,Navahondilla,ES
+521,Navalacruz,ES
+522,Navalmoral,ES
+523,Navalonguilla,ES
+524,Navalosa,ES
+525,"Navalperal de Pinares",ES
+526,"Navalperal de Tormes",ES
+527,Navaluenga,ES
+528,Navaquesera,ES
+529,"Navarredonda de Gredos",ES
+530,Navarredondilla,ES
+531,Navarrevisca,ES
+532,"Navas del Marqués, Las",ES
+533,Navatalgordo,ES
+534,Navatejares,ES
+535,"Neila de San Miguel",ES
+536,Niharra,ES
+537,Ojos-Albos,ES
+538,Orbita,ES
+539,"Oso, El",ES
+540,Padiernos,ES
+541,"Pajares de Adaja",ES
+542,"Palacios de Goda",ES
+543,Papatrigo,ES
+544,"Parral, El",ES
+545,Pascualcobo,ES
+546,"Pedro Bernardo",ES
+547,Pedro-Rodríguez,ES
+548,Peguerinos,ES
+549,"Peñalba de Ávila",ES
+550,Piedrahíta,ES
+551,Piedralaves,ES
+552,Poveda,ES
+553,"Poyales del Hoyo",ES
+554,Pozanco,ES
+555,Pradosegar,ES
+556,"Puerto Castilla",ES
+557,Rasueros,ES
+558,Riocabado,ES
+559,Riofrío,ES
+560,"Rivilla de Barajas",ES
+561,Salobral,ES
+562,Salvadiós,ES
+563,"San Bartolomé de Béjar",ES
+564,"San Bartolomé de Corneja",ES
+565,"San Bartolomé de Pinares",ES
+566,"San Esteban de los Patos",ES
+567,"San Esteban de Zapardiel",ES
+568,"San Esteban del Valle",ES
+569,"San García de Ingelmos",ES
+570,"San Juan de Gredos",ES
+571,"San Juan de la Encinilla",ES
+572,"San Juan de la Nava",ES
+573,"San Juan del Molinillo",ES
+574,"San Juan del Olmo",ES
+575,"San Lorenzo de Tormes",ES
+576,"San Martín de la Vega del Alberche",ES
+577,"San Martín del Pimpollar",ES
+578,"San Miguel de Corneja",ES
+579,"San Miguel de Serrezuela",ES
+580,"San Pascual",ES
+581,"San Pedro del Arroyo",ES
+582,"San Vicente de Arévalo",ES
+583,Sanchidrián,ES
+584,Sanchorreja,ES
+585,"Santa Cruz de Pinares",ES
+586,"Santa Cruz del Valle",ES
+587,"Santa María de los Caballeros",ES
+588,"Santa María del Arroyo",ES
+589,"Santa María del Berrocal",ES
+590,"Santa María del Cubillo",ES
+591,"Santa María del Tiétar",ES
+592,"Santiago del Collado",ES
+593,"Santiago del Tormes",ES
+594,"Santo Domingo de las Posadas",ES
+595,"Santo Tomé de Zabarcos",ES
+596,"Serrada, La",ES
+597,Serranillos,ES
+598,Sigeres,ES
+599,Sinlabajos,ES
+600,"Solana de Ávila",ES
+601,"Solana de Rioalmar",ES
+602,Solosancho,ES
+603,Sotalbo,ES
+604,"Sotillo de la Adrada",ES
+605,"Tiemblo, El",ES
+606,Tiñosillos,ES
+607,Tolbaños,ES
+608,Tormellas,ES
+609,"Tornadizos de Ávila",ES
+610,"Torre, La",ES
+611,Tórtoles,ES
+612,Umbrías,ES
+613,"Vadillo de la Sierra",ES
+614,Valdecasa,ES
+615,"Vega de Santa María",ES
+616,Velayos,ES
+617,Villaflor,ES
+618,"Villafranca de la Sierra",ES
+619,"Villanueva de Ávila",ES
+620,"Villanueva de Gómez",ES
+621,"Villanueva del Aceral",ES
+622,"Villanueva del Campillo",ES
+623,"Villar de Corneja",ES
+624,"Villarejo del Valle",ES
+625,Villatoro,ES
+626,"Viñegra de Moraña",ES
+627,Vita,ES
+628,"Zapardiel de la Cañada",ES
+629,"Zapardiel de la Ribera",ES
+630,Acedera,ES
+631,Aceuchal,ES
+632,Ahillones,ES
+633,Alange,ES
+634,"Albuera, La",ES
+635,Alburquerque,ES
+636,Alconchel,ES
+637,Alconera,ES
+638,Aljucén,ES
+639,Almendral,ES
+640,Almendralejo,ES
+641,"Arroyo de San Serván",ES
+642,Atalaya,ES
+643,Azuaga,ES
+644,Badajoz,ES
+645,Barcarrota,ES
+646,Baterno,ES
+647,"Benquerencia de la Serena",ES
+648,Berlanga,ES
+649,Bienvenida,ES
+650,"Bodonal de la Sierra",ES
+651,"Burguillos del Cerro",ES
+652,"Cabeza del Buey",ES
+653,"Cabeza la Vaca",ES
+654,Calamonte,ES
+655,"Calera de León",ES
+656,"Calzadilla de los Barros",ES
+657,Campanario,ES
+658,"Campillo de Llerena",ES
+659,Capilla,ES
+660,Carmonita,ES
+661,"Carrascalejo, El",ES
+662,"Casas de Don Pedro",ES
+663,"Casas de Reina",ES
+664,Castilblanco,ES
+665,Castuera,ES
+666,Cheles,ES
+667,"Codosera, La",ES
+668,"Cordobilla de Lácara",ES
+669,"Coronada, La",ES
+670,"Corte de Peleas",ES
+671,Cristina,ES
+672,"Don Álvaro",ES
+673,"Don Benito",ES
+674,"Entrín Bajo",ES
+675,Esparragalejo,ES
+676,"Esparragosa de la Serena",ES
+677,"Esparragosa de Lares",ES
+678,Feria,ES
+679,"Fregenal de la Sierra",ES
+680,"Fuenlabrada de los Montes",ES
+681,"Fuente de Cantos",ES
+682,"Fuente del Arco",ES
+683,"Fuente del Maestre",ES
+684,"Fuentes de León",ES
+685,Garbayuela,ES
+686,Garlitos,ES
+687,"Garrovilla, La",ES
+688,"Granja de Torrehermosa",ES
+689,"Guadiana del Caudillo",ES
+690,Guareña,ES
+691,"Haba, La",ES
+692,"Helechosa de los Montes",ES
+693,"Herrera del Duque",ES
+694,"Higuera de la Serena",ES
+695,"Higuera de Llerena",ES
+696,"Higuera de Vargas",ES
+697,"Higuera la Real",ES
+698,"Hinojosa del Valle",ES
+699,Hornachos,ES
+700,"Jerez de los Caballeros",ES
+701,"Lapa, La",ES
+702,Llera,ES
+703,Llerena,ES
+704,Lobón,ES
+705,Magacela,ES
+706,Maguilla,ES
+707,Malcocinado,ES
+708,"Malpartida de la Serena",ES
+709,Manchita,ES
+710,Medellín,ES
+711,"Medina de las Torres",ES
+712,Mengabril,ES
+713,Mérida,ES
+714,Mirandilla,ES
+715,Monesterio,ES
+716,Montemolín,ES
+717,"Monterrubio de la Serena",ES
+718,Montijo,ES
+719,"Morera, La",ES
+720,"Nava de Santiago, La",ES
+721,"Navalvillar de Pela",ES
+722,Nogales,ES
+723,"Oliva de la Frontera",ES
+724,"Oliva de Mérida",ES
+725,Olivenza,ES
+726,"Orellana de la Sierra",ES
+727,"Orellana la Vieja",ES
+728,Palomas,ES
+729,"Parra, La",ES
+730,Peñalsordo,ES
+731,"Peraleda del Zaucejo",ES
+732,"Puebla de Alcocer",ES
+733,"Puebla de la Calzada",ES
+734,"Puebla de la Reina",ES
+735,"Puebla de Obando",ES
+736,"Puebla de Sancho Pérez",ES
+737,"Puebla del Maestre",ES
+738,"Puebla del Prior",ES
+739,"Pueblonuevo del Guadiana",ES
+740,"Quintana de la Serena",ES
+741,Reina,ES
+742,Rena,ES
+743,"Retamal de Llerena",ES
+744,"Ribera del Fresno",ES
+745,Risco,ES
+746,"Roca de la Sierra, La",ES
+747,Salvaleón,ES
+748,"Salvatierra de los Barros",ES
+749,"San Pedro de Mérida",ES
+750,"San Vicente de Alcántara",ES
+751,"Sancti-Spíritus (Badajoz)",ES
+752,"Santa Amalia",ES
+753,"Santa Marta",ES
+754,"Santos de Maimona, Los",ES
+755,"Segura de León",ES
+756,Siruela,ES
+757,"Solana de los Barros",ES
+758,Talarrubias,ES
+759,"Talavera la Real",ES
+760,Táliga,ES
+761,Tamurejo,ES
+762,"Torre de Miguel Sesmero",ES
+763,Torremayor,ES
+764,Torremejía,ES
+765,Trasierra,ES
+766,Trujillanos,ES
+767,Usagre,ES
+768,Valdecaballeros,ES
+769,Valdelacalzada,ES
+770,Valdetorres,ES
+771,"Valencia de las Torres",ES
+772,"Valencia del Mombuey",ES
+773,"Valencia del Ventoso",ES
+774,"Valle de la Serena",ES
+775,"Valle de Matamoros",ES
+776,"Valle de Santa Ana",ES
+777,"Valverde de Burguillos",ES
+778,"Valverde de Leganés",ES
+779,"Valverde de Llerena",ES
+780,"Valverde de Mérida",ES
+781,"Villafranca de los Barros",ES
+782,"Villagarcía de la Torre",ES
+783,Villagonzalo,ES
+784,"Villalba de los Barros",ES
+785,"Villanueva de la Serena",ES
+786,"Villanueva del Fresno",ES
+787,"Villar de Rena",ES
+788,"Villar del Rey",ES
+789,"Villarta de los Montes",ES
+790,Zafra,ES
+791,Zahínos,ES
+792,"Zalamea de la Serena",ES
+793,"La Zarza (Valladolid)",ES
+794,Zarza-Capilla,ES
+795,Alaior,ES
+796,Alaró,ES
+797,Alcúdia,ES
+798,Algaida,ES
+799,Andratx,ES
+800,Ariany,ES
+801,Artà,ES
+802,Banyalbufar,ES
+803,Binissalem,ES
+804,Búger,ES
+805,Bunyola,ES
+806,Calvià,ES
+807,Campanet,ES
+808,Campos,ES
+809,Capdepera,ES
+810,"Castell, Es",ES
+811,"Ciutadella de Menorca",ES
+812,Consell,ES
+813,Costitx,ES
+814,Deià,ES
+815,Eivissa,ES
+816,Escorca,ES
+817,Esporles,ES
+818,Estellencs,ES
+819,Felanitx,ES
+820,Ferreries,ES
+821,Formentera,ES
+822,Fornalutx,ES
+823,Inca,ES
+824,"Lloret de Vistalegre",ES
+825,Lloseta,ES
+826,Llubí,ES
+827,Llucmajor,ES
+828,Manacor,ES
+829,"Mancor de la Vall",ES
+830,Maó-Mahón,ES
+831,"Maria de la Salut",ES
+832,Marratxí,ES
+833,"Mercadal, Es",ES
+834,"Migjorn Gran, Es",ES
+835,Montuïri,ES
+836,Muro,ES
+837,"Palma de Mallorca",ES
+838,Petra,ES
+839,"Pobla, Sa",ES
+840,Pollença,ES
+841,Porreres,ES
+842,Puigpunyent,ES
+843,"Salines, Ses",ES
+844,"Sant Antoni de Portmany",ES
+845,"Sant Joan",ES
+846,"Sant Joan de Labritja",ES
+847,"Sant Josep de sa Talaia",ES
+848,"Sant Llorenç des Cardassar",ES
+849,"Sant Lluís",ES
+850,"Santa Eugènia",ES
+851,"Santa Eulalia del Río",ES
+852,"Santa Margalida",ES
+853,"Santa María del Camí",ES
+854,Santanyí,ES
+855,Selva,ES
+856,Sencelles,ES
+857,Sineu,ES
+858,Sóller,ES
+859,"Son Servera",ES
+860,Valldemossa,ES
+861,"Vilafranca de Bonany",ES
+862,Abrera,ES
+863,"Aguilar de Segarra",ES
+864,Aiguafreda,ES
+865,Alella,ES
+866,Alpens,ES
+867,"Ametlla del Vallès, L'",ES
+868,"Arenys de Mar",ES
+869,"Arenys de Munt",ES
+870,Argençola,ES
+871,Argentona,ES
+872,Artés,ES
+873,Avià,ES
+874,Avinyó,ES
+875,"Avinyonet del Penedès",ES
+876,Badalona,ES
+877,"Badia del Vallès",ES
+878,Bagà,ES
+879,Balenyà,ES
+880,Balsareny,ES
+881,"Barberà del Vallès",ES
+882,Barcelona,ES
+883,Begues,ES
+884,Bellprat,ES
+885,Berga,ES
+886,"Bigues i Riells",ES
+887,Borredà,ES
+888,"Bruc, El",ES
+889,"Brull, El",ES
+890,"Cabanyes, Les",ES
+891,"Cabrera d'Anoia",ES
+892,"Cabrera de Mar",ES
+893,Cabrils,ES
+894,Calaf,ES
+895,Calders,ES
+896,"Caldes de Montbui",ES
+897,"Caldes d'Estrac",ES
+898,Calella,ES
+899,Calldetenes,ES
+900,Callús,ES
+901,"Calonge de Segarra",ES
+902,Campins,ES
+903,"Canet de Mar",ES
+904,Canovelles,ES
+905,"Cànoves i Samalús",ES
+906,Canyelles,ES
+907,Capellades,ES
+908,Capolat,ES
+909,Cardedeu,ES
+910,Cardona,ES
+911,Carme,ES
+912,Casserres,ES
+913,"Castell de l'Areny",ES
+914,"Castellar de n'Hug",ES
+915,"Castellar del Riu",ES
+916,"Castellar del Vallès",ES
+917,"Castellbell i el Vilar",ES
+918,Castellbisbal,ES
+919,Castellcir,ES
+920,Castelldefels,ES
+921,"Castellet i la Gornal",ES
+922,"Castellfollit de Riubregós",ES
+923,"Castellfollit del Boix",ES
+924,Castellgalí,ES
+925,"Castellnou de Bages",ES
+926,Castellolí,ES
+927,Castellterçol,ES
+928,"Castellví de la Marca",ES
+929,"Castellví de Rosanes",ES
+930,Centelles,ES
+931,Cercs,ES
+932,"Cerdanyola del Vallès",ES
+933,Cervelló,ES
+934,Collbató,ES
+935,Collsuspina,ES
+936,Copons,ES
+937,"Corbera de Llobregat",ES
+938,"Cornellà de Llobregat",ES
+939,Cubelles,ES
+940,Dosrius,ES
+941,Esparreguera,ES
+942,"Esplugues de Llobregat",ES
+943,"Espunyola, L'",ES
+944,"Estany, L'",ES
+945,Figaró-Montmany,ES
+946,Fígols,ES
+947,"Fogars de la Selva",ES
+948,"Fogars de Montclús",ES
+949,Folgueroles,ES
+950,Fonollosa,ES
+951,Font-rubí,ES
+952,"Franqueses del Vallès, Les",ES
+953,Gaià,ES
+954,Gallifa,ES
+955,"Garriga, La",ES
+956,Gavà,ES
+957,Gelida,ES
+958,Gironella,ES
+959,Gisclareny,ES
+960,"Granada, La",ES
+961,Granera,ES
+962,Granollers,ES
+963,Gualba,ES
+964,"Guardiola de Berguedà",ES
+965,Gurb,ES
+966,"Hospitalet de Llobregat, L'",ES
+967,"Hostalets de Pierola, Els",ES
+968,Igualada,ES
+969,Jorba,ES
+970,"Llacuna, La",ES
+971,"Llagosta, La",ES
+972,"Lliçà d'Amunt",ES
+973,"Lliçà de Vall",ES
+974,"Llinars del Vallès",ES
+975,Lluçà,ES
+976,"Malgrat de Mar",ES
+977,Malla,ES
+978,Manlleu,ES
+979,Manresa,ES
+980,Marganell,ES
+981,Martorell,ES
+982,Martorelles,ES
+983,"Masies de Roda, Les",ES
+984,"Masies de Voltregà, Les",ES
+985,"Masnou, El",ES
+986,Masquefa,ES
+987,Matadepera,ES
+988,Mataró,ES
+989,Mediona,ES
+990,Moià,ES
+991,"Molins de Rei",ES
+992,"Mollet del Vallès",ES
+993,"Monistrol de Calders",ES
+994,"Monistrol de Montserrat",ES
+995,"Montcada i Reixac",ES
+996,Montclar,ES
+997,Montesquiu,ES
+998,Montgat,ES
+999,Montmajor,ES
+1000,Montmaneu,ES
+1001,Montmeló,ES
+1002,"Montornès del Vallès",ES
+1003,Montseny,ES
+1004,Muntanyola,ES
+1005,Mura,ES
+1006,Navarcles,ES
+1007,Navàs,ES
+1008,"Nou de Berguedà, La",ES
+1009,Òdena,ES
+1010,Olèrdola,ES
+1011,"Olesa de Bonesvalls",ES
+1012,"Olesa de Montserrat",ES
+1013,Olivella,ES
+1014,Olost,ES
+1015,Olvan,ES
+1016,Orís,ES
+1017,Oristà,ES
+1018,Orpí,ES
+1019,Òrrius,ES
+1020,"Pacs del Penedès",ES
+1021,Palafolls,ES
+1022,"Palau-solità i Plegamans",ES
+1023,Pallejà,ES
+1024,"Palma de Cervelló, La",ES
+1025,"Papiol, El",ES
+1026,"Parets del Vallès",ES
+1027,Perafita,ES
+1028,Piera,ES
+1029,"Pineda de Mar",ES
+1030,"Pla del Penedès, El",ES
+1031,"Pobla de Claramunt, La",ES
+1032,"Pobla de Lillet, La",ES
+1033,Polinyà,ES
+1034,"Pont de Vilomara i Rocafort, El",ES
+1035,Pontons,ES
+1036,"Prat de Llobregat, El",ES
+1037,"Prats de Lluçanès",ES
+1038,"Prats de Rei, Els",ES
+1039,"Premià de Dalt",ES
+1040,"Premià de Mar",ES
+1041,Puigdàlber,ES
+1042,Puig-reig,ES
+1043,Pujalt,ES
+1044,"Quar, La",ES
+1045,Rajadell,ES
+1046,Rellinars,ES
+1047,Ripollet,ES
+1048,"Roca del Vallès, La",ES
+1049,"Roda de Ter",ES
+1050,Rubí,ES
+1051,Rubió,ES
+1052,"Rupit i Pruit",ES
+1053,Sabadell,ES
+1054,Sagàs,ES
+1055,Saldes,ES
+1056,Sallent,ES
+1057,"Sant Adrià de Besòs",ES
+1058,"Sant Agustí de Lluçanès",ES
+1059,"Sant Andreu de la Barca",ES
+1060,"Sant Andreu de Llavaneres",ES
+1061,"Sant Antoni de Vilamajor",ES
+1062,"Sant Bartomeu del Grau",ES
+1063,"Sant Boi de Llobregat",ES
+1064,"Sant Boi de Lluçanès",ES
+1065,"Sant Cebrià de Vallalta",ES
+1066,"Sant Celoni",ES
+1067,"Sant Climent de Llobregat",ES
+1068,"Sant Cugat del Vallès",ES
+1069,"Sant Cugat Sesgarrigues",ES
+1070,"Sant Esteve de Palautordera",ES
+1071,"Sant Esteve Sesrovires",ES
+1072,"Sant Feliu de Codines",ES
+1073,"Sant Feliu de Llobregat",ES
+1074,"Sant Feliu Sasserra",ES
+1075,"Sant Fost de Campsentelles",ES
+1076,"Sant Fruitós de Bages",ES
+1077,"Sant Hipòlit de Voltregà",ES
+1078,"Sant Iscle de Vallalta",ES
+1079,"Sant Jaume de Frontanyà",ES
+1080,"Sant Joan de Vilatorrada",ES
+1081,"Sant Joan Despí",ES
+1082,"Sant Julià de Cerdanyola",ES
+1083,"Sant Julià de Vilatorta",ES
+1084,"Sant Just Desvern",ES
+1085,"Sant Llorenç d'Hortons",ES
+1086,"Sant Llorenç Savall",ES
+1087,"Sant Martí d'Albars",ES
+1088,"Sant Martí de Centelles",ES
+1089,"Sant Martí de Tous",ES
+1090,"Sant Martí Sarroca",ES
+1091,"Sant Martí Sesgueioles",ES
+1092,"Sant Mateu de Bages",ES
+1093,"Sant Pere de Ribes",ES
+1094,"Sant Pere de Riudebitlles",ES
+1095,"Sant Pere de Torelló",ES
+1096,"Sant Pere de Vilamajor",ES
+1097,"Sant Pere Sallavinera",ES
+1098,"Sant Pol de Mar",ES
+1099,"Sant Quintí de Mediona",ES
+1100,"Sant Quirze de Besora",ES
+1101,"Sant Quirze del Vallès",ES
+1102,"Sant Quirze Safaja",ES
+1103,"Sant Sadurní d'Anoia",ES
+1104,"Sant Sadurní d'Osormort",ES
+1105,"Sant Salvador de Guardiola",ES
+1106,"Sant Vicenç de Castellet",ES
+1107,"Sant Vicenç de Montalt",ES
+1108,"Sant Vicenç de Torelló",ES
+1109,"Sant Vicenç dels Horts",ES
+1110,"Santa Cecília de Voltregà",ES
+1111,"Santa Coloma de Cervelló",ES
+1112,"Santa Coloma de Gramenet",ES
+1113,"Santa Eugènia de Berga",ES
+1114,"Santa Eulàlia de Riuprimer",ES
+1115,"Santa Eulàlia de Ronçana",ES
+1116,"Santa Fe del Penedès",ES
+1117,"Santa Margarida de Montbui",ES
+1118,"Santa Margarida i els Monjos",ES
+1119,"Santa Maria de Besora",ES
+1120,"Santa Maria de Corcó",ES
+1121,"Santa Maria de Martorelles",ES
+1122,"Santa Maria de Merlès",ES
+1123,"Santa Maria de Miralles",ES
+1124,"Santa Maria de Palautordera",ES
+1125,"Santa Maria d'Oló",ES
+1126,"Santa Perpètua de Mogoda",ES
+1127,"Santa Susanna",ES
+1128,Santpedor,ES
+1129,Sentmenat,ES
+1130,Seva,ES
+1131,Sitges,ES
+1132,Sobremunt,ES
+1133,Sora,ES
+1134,Subirats,ES
+1135,Súria,ES
+1136,Tagamanent,ES
+1137,Talamanca,ES
+1138,Taradell,ES
+1139,Tavèrnoles,ES
+1140,Tavertet,ES
+1141,Teià,ES
+1142,Terrassa,ES
+1143,Tiana,ES
+1144,Tona,ES
+1145,Tordera,ES
+1146,Torelló,ES
+1147,"Torre de Claramunt, La",ES
+1148,Torrelavit,ES
+1149,"Torrelles de Foix",ES
+1150,"Torrelles de Llobregat",ES
+1151,Ullastrell,ES
+1152,Vacarisses,ES
+1153,"Vallbona d'Anoia",ES
+1154,Vallcebre,ES
+1155,Vallgorguina,ES
+1156,Vallirana,ES
+1157,Vallromanes,ES
+1158,Veciana,ES
+1159,Vic,ES
+1160,Vilada,ES
+1161,Viladecans,ES
+1162,Viladecavalls,ES
+1163,"Vilafranca del Penedès",ES
+1164,"Vilalba Sasserra",ES
+1165,"Vilanova de Sau",ES
+1166,"Vilanova del Camí",ES
+1167,"Vilanova del Vallès",ES
+1168,"Vilanova i la Geltrú",ES
+1169,"Vilassar de Dalt",ES
+1170,"Vilassar de Mar",ES
+1171,"Vilobí del Penedès",ES
+1172,"Viver i Serrateix",ES
+1173,Abajas,ES
+1174,"Adrada de Haza",ES
+1175,"Aguas Cándidas",ES
+1176,"Aguilar de Bureba",ES
+1177,Albillos,ES
+1178,"Alcocero de Mola",ES
+1179,"Alfoz de Bricia",ES
+1180,"Alfoz de Quintanadueñas",ES
+1181,"Alfoz de Santa Gadea",ES
+1182,Altable,ES
+1183,"Altos, Los",ES
+1184,Ameyugo,ES
+1185,Anguix,ES
+1186,"Aranda de Duero",ES
+1187,Arandilla,ES
+1188,"Arauzo de Miel",ES
+1189,"Arauzo de Salce",ES
+1190,"Arauzo de Torre",ES
+1191,Arcos,ES
+1192,"Arenillas de Riopisuerga",ES
+1193,Arija,ES
+1194,Arlanzón,ES
+1195,"Arraya de Oca",ES
+1196,Atapuerca,ES
+1197,"Ausines, Los",ES
+1198,"Avellanosa de Muñó",ES
+1199,"Bahabón de Esgueva",ES
+1200,"Balbases, Los",ES
+1201,"Baños de Valdearados",ES
+1202,"Bañuelos de Bureba",ES
+1203,"Barbadillo de Herreros",ES
+1204,"Barbadillo del Mercado",ES
+1205,"Barbadillo del Pez",ES
+1206,"Barrio de Muñó",ES
+1207,"Barrios de Bureba, Los",ES
+1208,"Barrios de Colina",ES
+1209,"Basconcillos del Tozo",ES
+1210,Bascuñana,ES
+1211,Belbimbre,ES
+1212,Belorado,ES
+1213,Berberana,ES
+1214,"Berlangas de Roa",ES
+1215,"Berzosa de Bureba",ES
+1216,Bozoó,ES
+1217,Brazacorta,ES
+1218,Briviesca,ES
+1219,Bugedo,ES
+1220,Buniel,ES
+1221,Burgos,ES
+1222,"Busto de Bureba",ES
+1223,"Cabañes de Esgueva",ES
+1224,"Cabezón de la Sierra",ES
+1225,Caleruega,ES
+1226,"Campillo de Aranda",ES
+1227,Campolara,ES
+1228,"Canicosa de la Sierra",ES
+1229,Cantabrana,ES
+1230,Carazo,ES
+1231,"Carcedo de Bureba",ES
+1232,"Carcedo de Burgos",ES
+1233,Cardeñadijo,ES
+1234,Cardeñajimeno,ES
+1235,"Cardeñuela Riopico",ES
+1236,Carrias,ES
+1237,"Cascajares de Bureba",ES
+1238,"Cascajares de la Sierra",ES
+1239,"Castellanos de Castro",ES
+1240,"Castil de Peones",ES
+1241,Castildelgado,ES
+1242,"Castrillo de la Reina",ES
+1243,"Castrillo de la Vega",ES
+1244,"Castrillo de Riopisuerga",ES
+1245,"Castrillo del Val",ES
+1246,"Castrillo Matajudíos",ES
+1247,Castrojeriz,ES
+1248,Cavia,ES
+1249,Cayuela,ES
+1250,Cebrecos,ES
+1251,"Celada del Camino",ES
+1252,"Cerezo de Río Tirón",ES
+1253,"Cerratón de Juarros",ES
+1254,Ciadoncha,ES
+1255,Cillaperlata,ES
+1256,"Cilleruelo de Abajo",ES
+1257,"Cilleruelo de Arriba",ES
+1258,"Ciruelos de Cervera",ES
+1259,Cogollos,ES
+1260,"Condado de Treviño",ES
+1261,Contreras,ES
+1262,"Coruña del Conde",ES
+1263,Covarrubias,ES
+1264,"Cubillo del Campo",ES
+1265,"Cubo de Bureba",ES
+1266,"Cueva de Roa, La",ES
+1267,"Cuevas de San Clemente",ES
+1268,Encío,ES
+1269,"Espinosa de Cervera",ES
+1270,"Espinosa de los Monteros",ES
+1271,"Espinosa del Camino",ES
+1272,Estépar,ES
+1273,Fontioso,ES
+1274,Frandovínez,ES
+1275,"Fresneda de la Sierra Tirón",ES
+1276,Fresneña,ES
+1277,"Fresnillo de las Dueñas",ES
+1278,"Fresno de Río Tirón",ES
+1279,"Fresno de Rodilla",ES
+1280,Frías,ES
+1281,Fuentebureba,ES
+1282,Fuentecén,ES
+1283,Fuentelcésped,ES
+1284,Fuentelisendo,ES
+1285,Fuentemolinos,ES
+1286,Fuentenebro,ES
+1287,Fuentespina,ES
+1288,Galbarros,ES
+1289,"Gallega, La",ES
+1290,Grijalba,ES
+1291,Grisaleña,ES
+1292,"Gumiel de Izán",ES
+1293,"Gumiel de Mercado",ES
+1294,Hacinas,ES
+1295,Haza,ES
+1296,Hontanas,ES
+1297,Hontangas,ES
+1298,"Hontoria de la Cantera",ES
+1299,"Hontoria de Valdearados",ES
+1300,"Hontoria del Pinar",ES
+1301,"Hormazas, Las",ES
+1302,"Hornillos del Camino",ES
+1303,"Horra, La",ES
+1304,Hortigüela,ES
+1305,"Hoyales de Roa",ES
+1306,Huérmeces,ES
+1307,"Huerta de Arriba",ES
+1308,"Huerta de Rey",ES
+1309,Humada,ES
+1310,Hurones,ES
+1311,"Ibeas de Juarros",ES
+1312,Ibrillos,ES
+1313,Iglesiarrubia,ES
+1314,Iglesias,ES
+1315,Isar,ES
+1316,"Itero del Castillo",ES
+1317,"Jaramillo de la Fuente",ES
+1318,"Jaramillo Quemado",ES
+1319,"Junta de Traslaloma",ES
+1320,"Junta de Villalba de Losa",ES
+1321,"Jurisdicción de Lara",ES
+1322,"Jurisdicción de San Zadornil",ES
+1323,Lerma,ES
+1324,"Llano de Bureba",ES
+1325,"Madrigal del Monte",ES
+1326,"Madrigalejo del Monte",ES
+1327,Mahamud,ES
+1328,"Mambrilla de Castrejón",ES
+1329,"Mambrillas de Lara",ES
+1330,Mamolar,ES
+1331,Manciles,ES
+1332,Mazuela,ES
+1333,Mecerreyes,ES
+1334,"Medina de Pomar",ES
+1335,"Melgar de Fernamental",ES
+1336,"Merindad de Cuesta-Urria",ES
+1337,"Merindad de Montija",ES
+1338,"Merindad de Río Ubierna",ES
+1339,"Merindad de Sotoscueva",ES
+1340,"Merindad de Valdeporres",ES
+1341,"Merindad de Valdivielso",ES
+1342,Milagros,ES
+1343,"Miranda de Ebro",ES
+1344,Miraveche,ES
+1345,"Modúbar de la Emparedada",ES
+1346,"Monasterio de la Sierra",ES
+1347,"Monasterio de Rodilla",ES
+1348,Moncalvillo,ES
+1349,"Monterrubio de la Demanda",ES
+1350,Montorio,ES
+1351,"Moradillo de Roa",ES
+1352,"Nava de Roa",ES
+1353,"Navas de Bureba",ES
+1354,Nebreda,ES
+1355,Neila,ES
+1356,"Olmedillo de Roa",ES
+1357,"Olmillos de Muñó",ES
+1358,Oña,ES
+1359,Oquillas,ES
+1360,"Orbaneja Riopico",ES
+1361,"Padilla de Abajo",ES
+1362,"Padilla de Arriba",ES
+1363,"Padrones de Bureba",ES
+1364,"Palacios de la Sierra",ES
+1365,"Palacios de Riopisuerga",ES
+1366,"Palazuelos de la Sierra",ES
+1367,"Palazuelos de Muñó",ES
+1368,Pampliega,ES
+1369,Pancorbo,ES
+1370,Pardilla,ES
+1371,"Partido de la Sierra en Tobalina",ES
+1372,"Pedrosa de Duero",ES
+1373,"Pedrosa de Río Úrbel",ES
+1374,"Pedrosa del Páramo",ES
+1375,"Pedrosa del Príncipe",ES
+1376,"Peñaranda de Duero",ES
+1377,"Peral de Arlanza",ES
+1378,Piérnigas,ES
+1379,"Pineda de la Sierra",ES
+1380,"Pineda Trasmonte",ES
+1381,"Pinilla de los Barruecos",ES
+1382,"Pinilla de los Moros",ES
+1383,"Pinilla Trasmonte",ES
+1384,"Poza de la Sal",ES
+1385,"Prádanos de Bureba",ES
+1386,Pradoluengo,ES
+1387,Presencio,ES
+1388,"Puebla de Arganzón, La",ES
+1389,Puentedura,ES
+1390,Quemada,ES
+1391,"Quintana del Pidio",ES
+1392,Quintanabureba,ES
+1393,Quintanaélez,ES
+1394,Quintanaortuño,ES
+1395,Quintanapalla,ES
+1396,"Quintanar de la Sierra",ES
+1397,Quintanavides,ES
+1398,"Quintanilla de la Mata",ES
+1399,"Quintanilla del Agua y Tordueles",ES
+1400,"Quintanilla del Coco",ES
+1401,"Quintanilla San García",ES
+1402,"Quintanilla Vivar",ES
+1403,"Quintanillas, Las",ES
+1404,"Rabanera del Pinar",ES
+1405,Rábanos,ES
+1406,"Rabé de las Calzadas",ES
+1407,"Rebolledo de la Torre",ES
+1408,"Redecilla del Camino",ES
+1409,"Redecilla del Campo",ES
+1410,"Regumiel de la Sierra",ES
+1411,Reinoso,ES
+1412,Retuerta,ES
+1413,"Revilla del Campo",ES
+1414,"Revilla Vallejera",ES
+1415,"Revilla y Ahedo, La",ES
+1416,Revillarruz,ES
+1417,Rezmondo,ES
+1418,"Riocavado de la Sierra",ES
+1419,Roa,ES
+1420,Rojas,ES
+1421,"Royuela de Río Franco",ES
+1422,Rubena,ES
+1423,"Rublacedo de Abajo",ES
+1424,Rucandio,ES
+1425,"Salas de Bureba",ES
+1426,"Salas de los Infantes",ES
+1427,"Saldaña de Burgos",ES
+1428,"Salinillas de Bureba",ES
+1429,"San Adrián de Juarros",ES
+1430,"San Juan del Monte",ES
+1431,"San Mamés de Burgos",ES
+1432,"San Martín de Rubiales",ES
+1433,"San Millán de Lara",ES
+1434,"San Vicente del Valle",ES
+1435,"Santa Cecilia",ES
+1436,"Santa Cruz de la Salceda",ES
+1437,"Santa Cruz del Valle Urbión",ES
+1438,"Santa Gadea del Cid",ES
+1439,"Santa Inés",ES
+1440,"Santa María del Campo",ES
+1441,"Santa María del Invierno",ES
+1442,"Santa María del Mercadillo",ES
+1443,"Santa María Rivarredonda",ES
+1444,"Santa Olalla de Bureba",ES
+1445,"Santibáñez de Esgueva",ES
+1446,"Santibáñez del Val",ES
+1447,"Santo Domingo de Silos",ES
+1448,"Sargentes de la Lora",ES
+1449,Sarracín,ES
+1450,Sasamón,ES
+1451,"Sequera de Haza, La",ES
+1452,Solarana,ES
+1453,Sordillos,ES
+1454,"Sotillo de la Ribera",ES
+1455,Sotragero,ES
+1456,Sotresgudo,ES
+1457,"Susinos del Páramo",ES
+1458,Tamarón,ES
+1459,Tardajos,ES
+1460,Tejada,ES
+1461,"Terradillos de Esgueva",ES
+1462,"Tinieblas de la Sierra",ES
+1463,Tobar,ES
+1464,Tordómar,ES
+1465,"Torrecilla del Monte",ES
+1466,Torregalindo,ES
+1467,Torrelara,ES
+1468,Torrepadre,ES
+1469,Torresandino,ES
+1470,"Tórtoles de Esgueva",ES
+1471,Tosantos,ES
+1472,Trespaderne,ES
+1473,"Tubilla del Agua",ES
+1474,"Tubilla del Lago",ES
+1475,"Úrbel del Castillo",ES
+1476,Vadocondes,ES
+1477,Valdeande,ES
+1478,Valdezate,ES
+1479,Valdorros,ES
+1480,"Vallarta de Bureba",ES
+1481,"Valle de las Navas",ES
+1482,"Valle de Losa",ES
+1483,"Valle de Manzanedo",ES
+1484,"Valle de Mena",ES
+1485,"Valle de Oca",ES
+1486,"Valle de Santibáñez",ES
+1487,"Valle de Sedano",ES
+1488,"Valle de Tobalina",ES
+1489,"Valle de Valdebezana",ES
+1490,"Valle de Valdelaguna",ES
+1491,"Valle de Valdelucio",ES
+1492,"Valle de Zamanzas",ES
+1493,Vallejera,ES
+1494,"Valles de Palenzuela",ES
+1495,Valluércanes,ES
+1496,Valmala,ES
+1497,"Vid de Bureba, La",ES
+1498,"Vid y Barrios, La",ES
+1499,Vileña,ES
+1500,Villadiego,ES
+1501,"Villaescusa de Roa",ES
+1502,"Villaescusa la Sombría",ES
+1503,Villaespasa,ES
+1504,"Villafranca Montes de Oca",ES
+1505,Villafruela,ES
+1506,Villagalijo,ES
+1507,"Villagonzalo Pedernales",ES
+1508,Villahoz,ES
+1509,"Villalba de Duero",ES
+1510,"Villalbilla de Burgos",ES
+1511,"Villalbilla de Gumiel",ES
+1512,Villaldemiro,ES
+1513,Villalmanzo,ES
+1514,"Villamayor de los Montes",ES
+1515,"Villamayor de Treviño",ES
+1516,Villambistia,ES
+1517,Villamedianilla,ES
+1518,"Villamiel de la Sierra",ES
+1519,Villangómez,ES
+1520,"Villanueva de Argaño",ES
+1521,"Villanueva de Carazo",ES
+1522,"Villanueva de Gumiel",ES
+1523,"Villanueva de Teba",ES
+1524,"Villaquirán de la Puebla",ES
+1525,"Villaquirán de los Infantes",ES
+1526,"Villarcayo de Merindad de Castilla la Vieja",ES
+1527,Villariezo,ES
+1528,Villasandino,ES
+1529,"Villasur de Herreros",ES
+1530,Villatuelda,ES
+1531,"Villaverde del Monte",ES
+1532,Villaverde-Mogina,ES
+1533,"Villayerno Morquillas",ES
+1534,Villazopeque,ES
+1535,Villegas,ES
+1536,Villoruebo,ES
+1537,"Viloria de Rioja",ES
+1538,"Vilviestre del Pinar",ES
+1539,Vizcaínos,ES
+1540,Zael,ES
+1541,"Zarzosa de Río Pisuerga",ES
+1542,Zazuar,ES
+1543,Zuñeda,ES
+1544,Abadía,ES
+1545,Abertura,ES
+1546,Acebo,ES
+1547,Acehúche,ES
+1548,Aceituna,ES
+1549,Ahigal,ES
+1550,"Alagón del Río",ES
+1551,Albalá,ES
+1552,Alcántara,ES
+1553,Alcollarín,ES
+1554,Alcuéscar,ES
+1555,"Aldea del Cano",ES
+1556,"Aldea del Obispo, La",ES
+1557,Aldeacentenera,ES
+1558,"Aldeanueva de la Vera",ES
+1559,"Aldeanueva del Camino",ES
+1560,"Aldehuela de Jerte",ES
+1561,Alía,ES
+1562,Aliseda,ES
+1563,Almaraz,ES
+1564,Almoharín,ES
+1565,"Arroyo de la Luz",ES
+1566,"Arroyomolinos (Madrid)",ES
+1567,"Arroyomolinos de la Vera",ES
+1568,"Baños de Montemayor",ES
+1569,Barrado,ES
+1570,"Belvís de Monroy",ES
+1571,Benquerencia,ES
+1572,Berrocalejo,ES
+1573,Berzocana,ES
+1574,"Bohonal de Ibor",ES
+1575,Botija,ES
+1576,Brozas,ES
+1577,"Cabañas del Castillo",ES
+1578,Cabezabellosa,ES
+1579,"Cabezuela del Valle",ES
+1580,Cabrero,ES
+1581,Cáceres,ES
+1582,Cachorrilla,ES
+1583,Cadalso,ES
+1584,Calzadilla,ES
+1585,Caminomorisco,ES
+1586,"Campillo de Deleitosa",ES
+1587,"Campo Lugar",ES
+1588,Cañamero,ES
+1589,Cañaveral,ES
+1590,Carbajo,ES
+1591,Carcaboso,ES
+1592,Carrascalejo,ES
+1593,"Casar de Cáceres",ES
+1594,"Casar de Palomero",ES
+1595,"Casares de las Hurdes",ES
+1596,"Casas de Don Antonio",ES
+1597,"Casas de Don Gómez",ES
+1598,"Casas de Millán",ES
+1599,"Casas de Miravete",ES
+1600,"Casas del Castañar",ES
+1601,"Casas del Monte",ES
+1602,Casatejada,ES
+1603,"Casillas de Coria",ES
+1604,"Castañar de Ibor",ES
+1605,Ceclavín,ES
+1606,Cedillo,ES
+1607,Cerezo,ES
+1608,Cilleros,ES
+1609,"Collado de la Vera",ES
+1610,"Conquista de la Sierra",ES
+1611,Coria,ES
+1612,"Cuacos de Yuste",ES
+1613,"Cumbre, La",ES
+1614,Deleitosa,ES
+1615,Descargamaría,ES
+1616,Eljas,ES
+1617,Escurial,ES
+1618,"Fresnedoso de Ibor",ES
+1619,Galisteo,ES
+1620,Garciaz,ES
+1621,"Garganta la Olla",ES
+1622,"Garganta, La",ES
+1623,Gargantilla,ES
+1624,Gargüera,ES
+1625,"Garrovillas de Alconétar",ES
+1626,Garvín,ES
+1627,Gata,ES
+1628,"Gordo, El",ES
+1629,"Granja, La",ES
+1630,Guadalupe,ES
+1631,"Guijo de Coria",ES
+1632,"Guijo de Galisteo",ES
+1633,"Guijo de Granadilla",ES
+1634,"Guijo de Santa Bárbara",ES
+1635,Herguijuela,ES
+1636,Hernán-Pérez,ES
+1637,"Herrera de Alcántara",ES
+1638,Herreruela,ES
+1639,Hervás,ES
+1640,Higuera,ES
+1641,Hinojal,ES
+1642,Holguera,ES
+1643,Hoyos,ES
+1644,Huélaga,ES
+1645,Ibahernando,ES
+1646,Jaraicejo,ES
+1647,"Jaraíz de la Vera",ES
+1648,"Jarandilla de la Vera",ES
+1649,Jarilla,ES
+1650,Jerte,ES
+1651,Ladrillar,ES
+1652,Logrosán,ES
+1653,"Losar de la Vera",ES
+1654,"Madrigal de la Vera",ES
+1655,Madrigalejo,ES
+1656,Madroñera,ES
+1657,Majadas,ES
+1658,"Malpartida de Cáceres",ES
+1659,"Malpartida de Plasencia",ES
+1660,Marchagaz,ES
+1661,"Mata de Alcántara",ES
+1662,Membrío,ES
+1663,"Mesas de Ibor",ES
+1664,Miajadas,ES
+1665,Millanes,ES
+1666,Mirabel,ES
+1667,"Mohedas de Granadilla",ES
+1668,Monroy,ES
+1669,Montánchez,ES
+1670,Montehermoso,ES
+1671,Moraleja,ES
+1672,Morcillo,ES
+1673,Navaconcejo,ES
+1674,"Navalmoral de la Mata",ES
+1675,"Navalvillar de Ibor",ES
+1676,"Navas del Madroño",ES
+1677,Navezuelas,ES
+1678,Nuñomoral,ES
+1679,"Oliva de Plasencia",ES
+1680,Palomero,ES
+1681,"Pasarón de la Vera",ES
+1682,"Pedroso de Acim",ES
+1683,"Peraleda de la Mata",ES
+1684,"Peraleda de San Román",ES
+1685,"Perales del Puerto",ES
+1686,Pescueza,ES
+1687,"Pesga, La",ES
+1688,"Piedras Albas",ES
+1689,Pinofranqueado,ES
+1690,Piornal,ES
+1691,Plasencia,ES
+1692,Plasenzuela,ES
+1693,Portaje,ES
+1694,Portezuelo,ES
+1695,"Pozuelo de Zarzón",ES
+1696,"Puerto de Santa Cruz",ES
+1697,"Rebollar (Cáceres)",ES
+1698,Riolobos,ES
+1699,"Robledillo de Gata",ES
+1700,"Robledillo de la Vera",ES
+1701,"Robledillo de Trujillo",ES
+1702,Robledollano,ES
+1703,Romangordo,ES
+1704,Rosalejo,ES
+1705,Ruanes,ES
+1706,Salorino,ES
+1707,"Salvatierra de Santiago",ES
+1708,"San Martín de Trevejo",ES
+1709,"Santa Ana",ES
+1710,"Santa Cruz de la Sierra",ES
+1711,"Santa Cruz de Paniagua",ES
+1712,"Santa Marta de Magasca",ES
+1713,"Santiago de Alcántara",ES
+1714,"Santiago del Campo",ES
+1715,"Santibáñez el Alto",ES
+1716,"Santibáñez el Bajo",ES
+1717,Saucedilla,ES
+1718,"Segura de Toro",ES
+1719,Serradilla,ES
+1720,Serrejón,ES
+1721,"Sierra de Fuentes",ES
+1722,Talaván,ES
+1723,"Talaveruela de la Vera",ES
+1724,Talayuela,ES
+1725,"Tejeda de Tiétar",ES
+1726,Tiétar,ES
+1727,Toril,ES
+1728,Tornavacas,ES
+1729,"Torno, El",ES
+1730,"Torre de Don Miguel",ES
+1731,"Torre de Santa María",ES
+1732,"Torrecilla de los Ángeles",ES
+1733,"Torrecillas de la Tiesa",ES
+1734,"Torrejón el Rubio",ES
+1735,Torrejoncillo,ES
+1736,Torremenga,ES
+1737,Torremocha,ES
+1738,Torreorgaz,ES
+1739,Torrequemada,ES
+1740,Trujillo,ES
+1741,Valdastillas,ES
+1742,"Valdecañas de Tajo",ES
+1743,Valdefuentes,ES
+1744,Valdehúncar,ES
+1745,"Valdelacasa de Tajo",ES
+1746,Valdemorales,ES
+1747,Valdeobispo,ES
+1748,"Valencia de Alcántara",ES
+1749,"Valverde de la Vera",ES
+1750,"Valverde del Fresno",ES
+1751,Vegaviana,ES
+1752,"Viandar de la Vera",ES
+1753,"Villa del Campo",ES
+1754,"Villa del Rey",ES
+1755,Villamesías,ES
+1756,Villamiel,ES
+1757,"Villanueva de la Sierra",ES
+1758,"Villanueva de la Vera",ES
+1759,"Villar de Plasencia",ES
+1760,"Villar del Pedroso",ES
+1761,"Villasbuenas de Gata",ES
+1762,"Zarza de Granadilla",ES
+1763,"Zarza de Montánchez",ES
+1764,"Zarza la Mayor",ES
+1765,Zorita,ES
+1766,"Alcalá de los Gazules",ES
+1767,"Alcalá del Valle",ES
+1768,Algar,ES
+1769,Algeciras,ES
+1770,Algodonales,ES
+1771,"Arcos de la Frontera",ES
+1772,Barbate,ES
+1773,"Barrios, Los",ES
+1774,"Benalup-Casas Viejas",ES
+1775,Benaocaz,ES
+1776,Bornos,ES
+1777,"Bosque, El",ES
+1778,Cádiz,ES
+1779,"Castellar de la Frontera",ES
+1780,"Chiclana de la Frontera",ES
+1781,Chipiona,ES
+1782,"Conil de la Frontera",ES
+1783,Espera,ES
+1784,"Gastor, El",ES
+1785,Grazalema,ES
+1786,"Jerez de la Frontera",ES
+1787,"Jimena de la Frontera",ES
+1788,"Línea de la Concepción, La",ES
+1789,Medina-Sidonia,ES
+1790,Olvera,ES
+1791,"Paterna de Rivera",ES
+1792,"Prado del Rey",ES
+1793,"Puerto de Santa María, El",ES
+1794,"Puerto Real",ES
+1795,"Puerto Serrano",ES
+1796,Rota,ES
+1797,"San Fernando",ES
+1798,"San José del Valle",ES
+1799,"San Roque",ES
+1800,"Sanlúcar de Barrameda",ES
+1801,"Setenil de las Bodegas",ES
+1802,Tarifa,ES
+1803,"Torre Alháquime",ES
+1804,Trebujena,ES
+1805,Ubrique,ES
+1806,"Vejer de la Frontera",ES
+1807,"Villaluenga del Rosario",ES
+1808,Villamartín,ES
+1809,Zahara,ES
+1810,Aín,ES
+1811,Albocàsser,ES
+1812,"Alcalà de Xivert",ES
+1813,"Alcora, l'",ES
+1814,"Alcudia de Veo",ES
+1815,Alfondeguilla,ES
+1816,"Algimia de Almonacid",ES
+1817,Almazora/Almassora,ES
+1818,Almedíjar,ES
+1819,Almenara,ES
+1820,"Alquerías del Niño Perdido",ES
+1821,Altura,ES
+1822,Arañuel,ES
+1823,"Ares del Maestrat",ES
+1824,Argelita,ES
+1825,Artana,ES
+1826,"Atzeneta del Maestrat",ES
+1827,Ayódar,ES
+1828,Azuébar,ES
+1829,Barracas,ES
+1830,Bejís,ES
+1831,Benafer,ES
+1832,Benafigos,ES
+1833,Benasal,ES
+1834,Benicarló,ES
+1835,Benicasim/Benicàssim,ES
+1836,Benlloch,ES
+1837,Betxí,ES
+1838,Borriana/Burriana,ES
+1839,Borriol,ES
+1840,"Cabanes (Castellón)",ES
+1841,Càlig,ES
+1842,"Canet lo Roig",ES
+1843,"Castell de Cabres",ES
+1844,Castellfort,ES
+1845,Castellnovo,ES
+1846,"Castellón de la Plana/Castelló de la Plana",ES
+1847,"Castillo de Villamalefa",ES
+1848,Catí,ES
+1849,Caudiel,ES
+1850,"Cervera del Maestre",ES
+1851,Chert/Xert,ES
+1852,Chilches/Xilxes,ES
+1853,Chodos/Xodos,ES
+1854,Chóvar,ES
+1855,Cinctorres,ES
+1856,Cirat,ES
+1857,"Cortes de Arenoso",ES
+1858,Costur,ES
+1859,"Coves de Vinromà, les",ES
+1860,Culla,ES
+1861,Eslida,ES
+1862,Espadilla,ES
+1863,Fanzara,ES
+1864,Figueroles,ES
+1865,Forcall,ES
+1866,"Fuente la Reina",ES
+1867,"Fuentes de Ayódar",ES
+1868,Gaibiel,ES
+1869,Geldo,ES
+1870,Herbés,ES
+1871,Higueras,ES
+1872,"Jana, la",ES
+1873,Jérica,ES
+1874,"Llosa, la",ES
+1875,"Lucena del Cid",ES
+1876,Ludiente,ES
+1877,"Mata de Morella, la",ES
+1878,Matet,ES
+1879,Moncofa,ES
+1880,Montán,ES
+1881,Montanejos,ES
+1882,Morella,ES
+1883,Navajas,ES
+1884,Nules,ES
+1885,"Olocau del Rey",ES
+1886,Onda,ES
+1887,"Oropesa del Mar/Orpesa",ES
+1888,Palanques,ES
+1889,Pavías,ES
+1890,Peníscola/Peñíscola,ES
+1891,"Pina de Montalgrao",ES
+1892,"Pobla de Benifassà, la",ES
+1893,"Pobla Tornesa, la",ES
+1894,"Portell de Morella",ES
+1895,"Puebla de Arenoso",ES
+1896,Ribesalbes,ES
+1897,Rossell,ES
+1898,Sacañet,ES
+1899,"Salzadella, la",ES
+1900,"San Rafael del Río",ES
+1901,"Sant Joan de Moró",ES
+1902,"Sant Jordi/San Jorge",ES
+1903,"Sant Mateu",ES
+1904,"Santa Magdalena de Pulpis",ES
+1905,Segorbe,ES
+1906,"Serratella, la",ES
+1907,"Sierra Engarcerán",ES
+1908,Soneja,ES
+1909,"Sot de Ferrer",ES
+1910,Sueras/Suera,ES
+1911,Tales,ES
+1912,Teresa,ES
+1913,Tírig,ES
+1914,Todolella,ES
+1915,Toga,ES
+1916,Torás,ES
+1917,"Toro, El",ES
+1918,"Torralba del Pinar",ES
+1919,"Torre d'En Besora, la",ES
+1920,"Torre d'en Doménec, la",ES
+1921,Torreblanca,ES
+1922,Torrechiva,ES
+1923,Traiguera,ES
+1924,"Useras/Useres, les",ES
+1925,"Vall d'Alba",ES
+1926,"Vall de Almonacid",ES
+1927,"Vall d'Uixó, la",ES
+1928,Vallat,ES
+1929,Vallibona,ES
+1930,Vilafamés,ES
+1931,"Vilanova d'Alcolea",ES
+1932,"Vilar de Canes",ES
+1933,Vila-real,ES
+1934,"Vilavella, la",ES
+1935,"Villafranca del Cid/Vilafranca",ES
+1936,"Villahermosa del Río",ES
+1937,Villamalur,ES
+1938,"Villanueva de Viver",ES
+1939,Villores,ES
+1940,Vinaròs,ES
+1941,"Vistabella del Maestrazgo",ES
+1942,Viver,ES
+1943,"Zorita del Maestrazgo",ES
+1944,Zucaina,ES
+1945,Abenójar,ES
+1946,Agudo,ES
+1947,Alamillo,ES
+1948,Albaladejo,ES
+1949,"Alcázar de San Juan",ES
+1950,Alcoba,ES
+1951,"Alcolea de Calatrava",ES
+1952,Alcubillas,ES
+1953,"Aldea del Rey",ES
+1954,Alhambra,ES
+1955,Almadén,ES
+1956,Almadenejos,ES
+1957,Almagro,ES
+1958,Almedina,ES
+1959,"Almodóvar del Campo",ES
+1960,Almuradiel,ES
+1961,Anchuras,ES
+1962,"Arenales de San Gregorio",ES
+1963,"Arenas de San Juan",ES
+1964,"Argamasilla de Alba",ES
+1965,"Argamasilla de Calatrava",ES
+1966,"Arroba de los Montes",ES
+1967,"Ballesteros de Calatrava",ES
+1968,"Bolaños de Calatrava",ES
+1969,Brazatortas,ES
+1970,Cabezarados,ES
+1971,"Cabezarrubias del Puerto",ES
+1972,"Calzada de Calatrava",ES
+1973,"Campo de Criptana",ES
+1974,"Cañada de Calatrava",ES
+1975,"Caracuel de Calatrava",ES
+1976,"Carrión de Calatrava",ES
+1977,Carrizosa,ES
+1978,"Castellar de Santiago",ES
+1979,Chillón,ES
+1980,"Ciudad Real",ES
+1981,"Corral de Calatrava",ES
+1982,"Cortijos, Los",ES
+1983,Cózar,ES
+1984,Daimiel,ES
+1985,"Fernán Caballero",ES
+1986,Fontanarejo,ES
+1987,Fuencaliente,ES
+1988,Fuenllana,ES
+1989,"Fuente el Fresno",ES
+1990,"Granátula de Calatrava",ES
+1991,Guadalmez,ES
+1992,Herencia,ES
+1993,"Hinojosas de Calatrava",ES
+1994,"Horcajo de los Montes",ES
+1995,"Labores, Las",ES
+1996,"Llanos del Caudillo",ES
+1997,Luciana,ES
+1998,Malagón,ES
+1999,Manzanares,ES
+2000,Membrilla,ES
+2001,Mestanza,ES
+2002,Miguelturra,ES
+2003,Montiel,ES
+2004,"Moral de Calatrava",ES
+2005,Navalpino,ES
+2006,"Navas de Estena",ES
+2007,"Pedro Muñoz",ES
+2008,Picón,ES
+2009,Piedrabuena,ES
+2010,Poblete,ES
+2011,Porzuna,ES
+2012,"Pozuelo de Calatrava",ES
+2013,"Pozuelos de Calatrava, Los",ES
+2014,"Puebla de Don Rodrigo",ES
+2015,"Puebla del Príncipe",ES
+2016,"Puerto Lápice",ES
+2017,Puertollano,ES
+2018,"Retuerta del Bullaque",ES
+2019,"Robledo, El",ES
+2020,Ruidera,ES
+2021,Saceruela,ES
+2022,"San Carlos del Valle",ES
+2023,"San Lorenzo de Calatrava",ES
+2024,"Santa Cruz de los Cáñamos",ES
+2025,"Santa Cruz de Mudela",ES
+2026,Socuéllamos,ES
+2027,"Solana del Pino",ES
+2028,"Solana, La",ES
+2029,Terrinches,ES
+2030,Tomelloso,ES
+2031,"Torralba de Calatrava",ES
+2032,"Torre de Juan Abad",ES
+2033,Torrenueva,ES
+2034,"Valdemanco del Esteras",ES
+2035,Valdepeñas,ES
+2036,"Valenzuela de Calatrava",ES
+2037,Villahermosa,ES
+2038,Villamanrique,ES
+2039,"Villamayor de Calatrava",ES
+2040,"Villanueva de la Fuente",ES
+2041,"Villanueva de los Infantes (Valladolid)",ES
+2042,"Villanueva de San Carlos",ES
+2043,"Villar del Pozo",ES
+2044,"Villarrubia de los Ojos",ES
+2045,"Villarta de San Juan",ES
+2046,"Viso del Marqués",ES
+2047,Adamuz,ES
+2048,"Aguilar de la Frontera",ES
+2049,Alcaracejos,ES
+2050,Almedinilla,ES
+2051,"Almodóvar del Río",ES
+2052,Añora,ES
+2053,Baena,ES
+2054,Belalcázar,ES
+2055,Belmez,ES
+2056,Benamejí,ES
+2057,"Blázquez, Los",ES
+2058,Bujalance,ES
+2059,Cabra,ES
+2060,"Cañete de las Torres",ES
+2061,Carcabuey,ES
+2062,Cardeña,ES
+2063,"Carlota, La",ES
+2064,"Carpio, El",ES
+2065,"Castro del Río",ES
+2066,Conquista,ES
+2067,Córdoba,ES
+2068,"Doña Mencía",ES
+2069,"Dos Torres",ES
+2070,"Encinas Reales",ES
+2071,Espejo,ES
+2072,Espiel,ES
+2073,Fernán-Núñez,ES
+2074,"Fuente la Lancha",ES
+2075,"Fuente Obejuna",ES
+2076,"Fuente Palmera",ES
+2077,Fuente-Tójar,ES
+2078,"Granjuela, La",ES
+2079,Guadalcázar,ES
+2080,"Guijo, El",ES
+2081,"Hinojosa del Duque",ES
+2082,Hornachuelos,ES
+2083,Iznájar,ES
+2084,Lucena,ES
+2085,Luque,ES
+2086,"Montalbán de Córdoba",ES
+2087,Montemayor,ES
+2088,Montilla,ES
+2089,Montoro,ES
+2090,Monturque,ES
+2091,Moriles,ES
+2092,"Nueva Carteya",ES
+2093,Obejo,ES
+2094,Palenciana,ES
+2095,"Palma del Río",ES
+2096,"Pedro Abad",ES
+2097,Pedroche,ES
+2098,Peñarroya-Pueblonuevo,ES
+2099,Posadas,ES
+2100,Pozoblanco,ES
+2101,"Priego de Córdoba",ES
+2102,"Puente Genil",ES
+2103,"Rambla, La",ES
+2104,Rute,ES
+2105,"San Sebastián de los Ballesteros",ES
+2106,"Santa Eufemia",ES
+2107,Santaella,ES
+2108,Torrecampo,ES
+2109,Valenzuela,ES
+2110,Valsequillo,ES
+2111,"Victoria, La",ES
+2112,"Villa del Río",ES
+2113,"Villafranca de Córdoba",ES
+2114,Villaharta,ES
+2115,"Villanueva de Córdoba",ES
+2116,"Villanueva del Duque",ES
+2117,"Villanueva del Rey",ES
+2118,Villaralto,ES
+2119,"Villaviciosa de Córdoba",ES
+2120,"Viso, El",ES
+2121,Zuheros,ES
+2122,Abegondo,ES
+2123,Ames,ES
+2124,Aranga,ES
+2125,Ares,ES
+2126,Arteixo,ES
+2127,Arzúa,ES
+2128,"Baña, A",ES
+2129,Bergondo,ES
+2130,Betanzos,ES
+2131,Boimorto,ES
+2132,Boiro,ES
+2133,Boqueixón,ES
+2134,Brión,ES
+2135,"Cabana de Bergantiños",ES
+2136,Cabanas,ES
+2137,Camariñas,ES
+2138,Cambre,ES
+2139,"Capela, A",ES
+2140,Carballo,ES
+2141,Cariño,ES
+2142,Carnota,ES
+2143,Carral,ES
+2144,Cedeira,ES
+2145,Cee,ES
+2146,Cerceda,ES
+2147,Cerdido,ES
+2148,Coirós,ES
+2149,Corcubión,ES
+2150,Coristanco,ES
+2151,"Coruña, A",ES
+2152,Culleredo,ES
+2153,Curtis,ES
+2154,Dodro,ES
+2155,Dumbría,ES
+2156,Fene,ES
+2157,Ferrol,ES
+2158,Fisterra,ES
+2159,Frades,ES
+2160,Irixoa,ES
+2161,"Laracha, A",ES
+2162,Laxe,ES
+2163,Lousame,ES
+2164,"Malpica de Bergantiños",ES
+2165,Mañón,ES
+2166,Mazaricos,ES
+2167,Melide,ES
+2168,Mesía,ES
+2169,Miño,ES
+2170,Moeche,ES
+2171,Monfero,ES
+2172,Mugardos,ES
+2173,Muros,ES
+2174,Muxía,ES
+2175,Narón,ES
+2176,Neda,ES
+2177,Negreira,ES
+2178,Noia,ES
+2179,Oleiros,ES
+2180,Ordes,ES
+2181,Oroso,ES
+2182,Ortigueira,ES
+2183,Outes,ES
+2184,Oza-Cesuras,ES
+2185,Paderne,ES
+2186,Padrón,ES
+2187,"Pino, O",ES
+2188,"Pobra do Caramiñal, A",ES
+2189,Ponteceso,ES
+2190,Pontedeume,ES
+2191,"Pontes de García Rodríguez, As",ES
+2192,"Porto do Son",ES
+2193,Rianxo,ES
+2194,Ribeira,ES
+2195,Rois,ES
+2196,"Sada (La Coruña)",ES
+2197,"San Sadurniño",ES
+2198,"Santa Comba",ES
+2199,"Santiago de Compostela",ES
+2200,Santiso,ES
+2201,"Sobrado (León)",ES
+2202,"Somozas, As",ES
+2203,Teo,ES
+2204,Toques,ES
+2205,Tordoia,ES
+2206,Touro,ES
+2207,Trazo,ES
+2208,"Val do Dubra",ES
+2209,Valdoviño,ES
+2210,Vedra,ES
+2211,Vilarmaior,ES
+2212,Vilasantar,ES
+2213,Vimianzo,ES
+2214,Zas,ES
+2215,"Abia de la Obispalía",ES
+2216,"Acebrón, El",ES
+2217,Alarcón,ES
+2218,"Albaladejo del Cuende",ES
+2219,"Albalate de las Nogueras",ES
+2220,Albendea,ES
+2221,"Alberca de Záncara, La",ES
+2222,"Alcalá de la Vega",ES
+2223,Alcantud,ES
+2224,"Alcázar del Rey",ES
+2225,Alcohujate,ES
+2226,"Alconchel de la Estrella",ES
+2227,Algarra,ES
+2228,Aliaguilla,ES
+2229,"Almarcha, La",ES
+2230,Almendros,ES
+2231,"Almodóvar del Pinar",ES
+2232,"Almonacid del Marquesado",ES
+2233,Altarejos,ES
+2234,"Arandilla del Arroyo",ES
+2235,Arcas,ES
+2236,"Arcos de la Sierra",ES
+2237,Arguisuelas,ES
+2238,Arrancacepas,ES
+2239,"Atalaya del Cañavate",ES
+2240,"Barajas de Melo",ES
+2241,"Barchín del Hoyo",ES
+2242,"Bascuñana de San Pedro",ES
+2243,Beamud,ES
+2244,Belinchón,ES
+2245,Belmonte,ES
+2246,Belmontejo,ES
+2247,Beteta,ES
+2248,Boniches,ES
+2249,Buciegas,ES
+2250,"Buenache de Alarcón",ES
+2251,"Buenache de la Sierra",ES
+2252,Buendía,ES
+2253,"Campillo de Altobuey",ES
+2254,Campillos-Paravientos,ES
+2255,Campillos-Sierra,ES
+2256,"Campos del Paraíso",ES
+2257,"Canalejas del Arroyo",ES
+2258,"Cañada del Hoyo",ES
+2259,"Cañada Juncosa",ES
+2260,Cañamares,ES
+2261,"Cañavate, El",ES
+2262,Cañaveras,ES
+2263,Cañaveruelas,ES
+2264,Cañete,ES
+2265,Cañizares,ES
+2266,"Carboneras de Guadazaón",ES
+2267,Cardenete,ES
+2268,Carrascosa,ES
+2269,"Carrascosa de Haro",ES
+2270,"Casas de Benítez",ES
+2271,"Casas de Fernando Alonso",ES
+2272,"Casas de Garcimolina",ES
+2273,"Casas de Guijarro",ES
+2274,"Casas de Haro",ES
+2275,"Casas de los Pinos",ES
+2276,Casasimarro,ES
+2277,"Castejón (Cuenca)",ES
+2278,"Castillejo de Iniesta",ES
+2279,Castillejo-Sierra,ES
+2280,"Castillo de Garcimuñoz",ES
+2281,Castillo-Albaráñez,ES
+2282,"Cervera del Llano",ES
+2283,"Chillarón de Cuenca",ES
+2284,Chumillas,ES
+2285,"Cierva, La",ES
+2286,Cuenca,ES
+2287,"Cueva del Hierro",ES
+2288,Enguídanos,ES
+2289,"Fresneda de Altarejos",ES
+2290,"Fresneda de la Sierra",ES
+2291,"Frontera, La",ES
+2292,"Fuente de Pedro Naharro",ES
+2293,"Fuentelespino de Haro",ES
+2294,"Fuentelespino de Moya",ES
+2295,"Fuentenava de Jábaga",ES
+2296,Fuentes,ES
+2297,Fuertescusa,ES
+2298,Gabaldón,ES
+2299,Garaballa,ES
+2300,Gascueña,ES
+2301,"Graja de Campalbo",ES
+2302,"Graja de Iniesta",ES
+2303,Henarejos,ES
+2304,"Herrumblar, El",ES
+2305,"Hinojosa, La",ES
+2306,"Hinojosos, Los",ES
+2307,"Hito, El",ES
+2308,Honrubia,ES
+2309,Hontanaya,ES
+2310,Hontecillas,ES
+2311,"Horcajo de Santiago",ES
+2312,Huélamo,ES
+2313,Huelves,ES
+2314,Huérguina,ES
+2315,"Huerta de la Obispalía",ES
+2316,"Huerta del Marquesado",ES
+2317,Huete,ES
+2318,Iniesta,ES
+2319,"Laguna del Marquesado",ES
+2320,Lagunaseca,ES
+2321,Landete,ES
+2322,Ledaña,ES
+2323,Leganiel,ES
+2324,"Majadas, Las",ES
+2325,Mariana,ES
+2326,Masegosa,ES
+2327,"Mesas, Las",ES
+2328,Minglanilla,ES
+2329,Mira,ES
+2330,"Monreal del Llano",ES
+2331,Montalbanejo,ES
+2332,Montalbo,ES
+2333,"Monteagudo de las Salinas",ES
+2334,"Mota de Altarejos",ES
+2335,"Mota del Cuervo",ES
+2336,"Motilla del Palancar",ES
+2337,"Moya (Cuenca)",ES
+2338,Narboneta,ES
+2339,"Olivares de Júcar",ES
+2340,"Olmeda de la Cuesta",ES
+2341,"Olmeda del Rey",ES
+2342,"Olmedilla de Alarcón",ES
+2343,"Olmedilla de Eliz",ES
+2344,"Osa de la Vega",ES
+2345,Pajarón,ES
+2346,Pajaroncillo,ES
+2347,"Palomares del Campo",ES
+2348,Palomera,ES
+2349,Paracuellos,ES
+2350,Paredes,ES
+2351,"Parra de las Vegas, La",ES
+2352,"Pedernoso, El",ES
+2353,"Pedroñeras, Las",ES
+2354,"Peral, El",ES
+2355,"Peraleja, La",ES
+2356,"Pesquera, La",ES
+2357,"Picazo, El",ES
+2358,Pinarejo,ES
+2359,"Pineda de Gigüela",ES
+2360,"Piqueras del Castillo",ES
+2361,"Portalrubio de Guadamejud",ES
+2362,Portilla,ES
+2363,Poyatos,ES
+2364,Pozoamargo,ES
+2365,"Pozorrubielos de la Mancha",ES
+2366,"Pozorrubio de Santiago",ES
+2367,"Pozuelo, El",ES
+2368,Priego,ES
+2369,"Provencio, El",ES
+2370,"Puebla de Almenara",ES
+2371,"Puebla del Salvador",ES
+2372,"Quintanar del Rey",ES
+2373,"Rada de Haro",ES
+2374,Reíllo,ES
+2375,"Rozalén del Monte",ES
+2376,Saceda-Trasierra,ES
+2377,Saelices,ES
+2378,"Salinas del Manzano",ES
+2379,Salmeroncillos,ES
+2380,Salvacañete,ES
+2381,"San Clemente",ES
+2382,"San Lorenzo de la Parrilla",ES
+2383,"San Martín de Boniches",ES
+2384,"San Pedro Palmiches",ES
+2385,"Santa Cruz de Moya",ES
+2386,"Santa María de los Llanos",ES
+2387,"Santa María del Campo Rus",ES
+2388,"Santa María del Val",ES
+2389,Sisante,ES
+2390,"Solera de Gabaldón",ES
+2391,Sotorribas,ES
+2392,Talayuelas,ES
+2393,Tarancón,ES
+2394,Tébar,ES
+2395,Tejadillos,ES
+2396,Tinajas,ES
+2397,Torralba,ES
+2398,"Torrejoncillo del Rey",ES
+2399,"Torrubia del Campo",ES
+2400,"Torrubia del Castillo",ES
+2401,Tragacete,ES
+2402,Tresjuncos,ES
+2403,Tribaldos,ES
+2404,Uclés,ES
+2405,Uña,ES
+2406,"Valdecolmenas, Los",ES
+2407,Valdemeca,ES
+2408,"Valdemorillo de la Sierra",ES
+2409,Valdemoro-Sierra,ES
+2410,Valdeolivas,ES
+2411,Valdetórtola,ES
+2412,"Valeras, Las",ES
+2413,"Valhermoso de la Fuente",ES
+2414,"Valle de Altomira, El",ES
+2415,Valsalobre,ES
+2416,"Valverde de Júcar",ES
+2417,Valverdejo,ES
+2418,"Vara de Rey",ES
+2419,"Vega del Codorno",ES
+2420,Vellisca,ES
+2421,"Villaconejos de Trabaque",ES
+2422,"Villaescusa de Haro",ES
+2423,"Villagarcía del Llano",ES
+2424,"Villalba de la Sierra",ES
+2425,"Villalba del Rey",ES
+2426,"Villalgordo del Marquesado",ES
+2427,Villalpardo,ES
+2428,"Villamayor de Santiago",ES
+2429,"Villanueva de Guadamejud",ES
+2430,"Villanueva de la Jara",ES
+2431,"Villar de Cañas",ES
+2432,"Villar de Domingo García",ES
+2433,"Villar de la Encina",ES
+2434,"Villar de Olalla",ES
+2435,"Villar del Humo",ES
+2436,"Villar del Infantado",ES
+2437,"Villar y Velasco",ES
+2438,"Villarejo de Fuentes",ES
+2439,"Villarejo de la Peñuela",ES
+2440,Villarejo-Periesteban,ES
+2441,"Villares del Saz",ES
+2442,Villarrubio,ES
+2443,Villarta,ES
+2444,"Villas de la Ventosa",ES
+2445,"Villaverde y Pasaconsol",ES
+2446,Víllora,ES
+2447,Vindel,ES
+2448,Yémeda,ES
+2449,"Zafra de Záncara",ES
+2450,Zafrilla,ES
+2451,"Zarza de Tajo",ES
+2452,Zarzuela,ES
+2453,Agullana,ES
+2454,Aiguaviva,ES
+2455,Albanyà,ES
+2456,Albons,ES
+2457,Alp,ES
+2458,Amer,ES
+2459,Anglès,ES
+2460,Arbúcies,ES
+2461,Argelaguer,ES
+2462,"Armentera, L'",ES
+2463,"Avinyonet de Puigventós",ES
+2464,Banyoles,ES
+2465,Bàscara,ES
+2466,Begur,ES
+2467,"Bellcaire d'Empordà",ES
+2468,Besalú,ES
+2469,Bescanó,ES
+2470,Beuda,ES
+2471,"Bisbal d'Empordà, La",ES
+2472,Biure,ES
+2473,Blanes,ES
+2474,"Boadella i les Escaules",ES
+2475,Bolvir,ES
+2476,Bordils,ES
+2477,Borrassà,ES
+2478,Breda,ES
+2479,Brunyola,ES
+2480,Cabanelles,ES
+2481,"Cabanes (Girona)",ES
+2482,Cadaqués,ES
+2483,"Caldes de Malavella",ES
+2484,Calonge,ES
+2485,Camós,ES
+2486,Campdevànol,ES
+2487,Campelles,ES
+2488,Campllong,ES
+2489,Camprodon,ES
+2490,"Canet d'Adri",ES
+2491,Cantallops,ES
+2492,Capmany,ES
+2493,"Cassà de la Selva",ES
+2494,"Castellfollit de la Roca",ES
+2495,"Castelló d'Empúries",ES
+2496,"Castell-Platja d'Aro",ES
+2497,"Cellera de Ter, La",ES
+2498,Celrà,ES
+2499,"Cervià de Ter",ES
+2500,Cistella,ES
+2501,Colera,ES
+2502,Colomers,ES
+2503,Corçà,ES
+2504,"Cornellà del Terri",ES
+2505,Crespià,ES
+2506,"Cruïlles, Monells i Sant Sadurní de l'Heura",ES
+2507,Darnius,ES
+2508,Das,ES
+2509,"Escala, L'",ES
+2510,Espinelves,ES
+2511,Espolla,ES
+2512,Esponellà,ES
+2513,"Far d'Empordà, El",ES
+2514,Figueres,ES
+2515,Flaçà,ES
+2516,Foixà,ES
+2517,"Fontanals de Cerdanya",ES
+2518,Fontanilles,ES
+2519,Fontcoberta,ES
+2520,Forallac,ES
+2521,"Fornells de la Selva",ES
+2522,Fortià,ES
+2523,Garrigàs,ES
+2524,Garrigoles,ES
+2525,Garriguella,ES
+2526,Ger,ES
+2527,Girona,ES
+2528,Gombrèn,ES
+2529,Gualta,ES
+2530,"Guils de Cerdanya",ES
+2531,Hostalric,ES
+2532,Isòvol,ES
+2533,Jafre,ES
+2534,"Jonquera, La",ES
+2535,Juià,ES
+2536,Lladó,ES
+2537,Llagostera,ES
+2538,Llambilles,ES
+2539,Llanars,ES
+2540,Llançà,ES
+2541,Llers,ES
+2542,Llívia,ES
+2543,"Lloret de Mar",ES
+2544,"Llosses, Les",ES
+2545,"Maçanet de Cabrenys",ES
+2546,"Maçanet de la Selva",ES
+2547,Madremanya,ES
+2548,"Maià de Montcal",ES
+2549,Masarac,ES
+2550,Massanes,ES
+2551,Meranges,ES
+2552,"Mieres (Girona)",ES
+2553,"Mollet de Peralada",ES
+2554,Molló,ES
+2555,"Montagut i Oix",ES
+2556,Mont-ras,ES
+2557,Navata,ES
+2558,Ogassa,ES
+2559,Olot,ES
+2560,Ordis,ES
+2561,Osor,ES
+2562,Palafrugell,ES
+2563,Palamós,ES
+2564,"Palau de Santa Eulàlia",ES
+2565,Palau-sator,ES
+2566,Palau-saverdera,ES
+2567,"Palol de Revardit",ES
+2568,Pals,ES
+2569,Pardines,ES
+2570,Parlavà,ES
+2571,Pau,ES
+2572,"Pedret i Marzà",ES
+2573,"Pera, La",ES
+2574,Peralada,ES
+2575,"Planes d'Hostoles, Les",ES
+2576,Planoles,ES
+2577,"Pont de Molins",ES
+2578,Pontós,ES
+2579,Porqueres,ES
+2580,"Port de la Selva, El",ES
+2581,Portbou,ES
+2582,"Preses, Les",ES
+2583,Puigcerdà,ES
+2584,Quart,ES
+2585,Queralbs,ES
+2586,Rabós,ES
+2587,Regencós,ES
+2588,"Ribes de Freser",ES
+2589,"Riells i Viabrea",ES
+2590,Ripoll,ES
+2591,Riudarenes,ES
+2592,Riudaura,ES
+2593,"Riudellots de la Selva",ES
+2594,Riumors,ES
+2595,Roses,ES
+2596,Rupià,ES
+2597,"Sales de Llierca",ES
+2598,Salt,ES
+2599,"Sant Andreu Salou",ES
+2600,"Sant Aniol de Finestres",ES
+2601,"Sant Climent Sescebes",ES
+2602,"Sant Feliu de Buixalleu",ES
+2603,"Sant Feliu de Guíxols",ES
+2604,"Sant Feliu de Pallerols",ES
+2605,"Sant Ferriol",ES
+2606,"Sant Gregori",ES
+2607,"Sant Hilari Sacalm",ES
+2608,"Sant Jaume de Llierca",ES
+2609,"Sant Joan de les Abadesses",ES
+2610,"Sant Joan de Mollet",ES
+2611,"Sant Joan les Fonts",ES
+2612,"Sant Jordi Desvalls",ES
+2613,"Sant Julià de Ramis",ES
+2614,"Sant Julià del Llor i Bonmatí",ES
+2615,"Sant Llorenç de la Muga",ES
+2616,"Sant Martí de Llémena",ES
+2617,"Sant Martí Vell",ES
+2618,"Sant Miquel de Campmajor",ES
+2619,"Sant Miquel de Fluvià",ES
+2620,"Sant Mori",ES
+2621,"Sant Pau de Segúries",ES
+2622,"Sant Pere Pescador",ES
+2623,"Santa Coloma de Farners",ES
+2624,"Santa Cristina d'Aro",ES
+2625,"Santa Llogaia d'Àlguema",ES
+2626,"Santa Pau",ES
+2627,"Sarrià de Ter",ES
+2628,"Saus, Camallera i Llampaies",ES
+2629,"Selva de Mar, La",ES
+2630,Serinyà,ES
+2631,"Serra de Daró",ES
+2632,Setcases,ES
+2633,Sils,ES
+2634,Siurana,ES
+2635,Susqueda,ES
+2636,"Tallada d'Empordà, La",ES
+2637,Terrades,ES
+2638,"Torrent (Valencia)",ES
+2639,"Torroella de Fluvià",ES
+2640,"Torroella de Montgrí",ES
+2641,Tortellà,ES
+2642,Toses,ES
+2643,"Tossa de Mar",ES
+2644,Ullà,ES
+2645,Ullastret,ES
+2646,Ultramort,ES
+2647,Urús,ES
+2648,"Vajol, La",ES
+2649,"Vall de Bianya, La",ES
+2650,"Vall d'en Bas, La",ES
+2651,"Vallfogona de Ripollès",ES
+2652,Vall-llobrega,ES
+2653,Ventalló,ES
+2654,Verges,ES
+2655,Vidrà,ES
+2656,Vidreres,ES
+2657,Vilabertran,ES
+2658,Vilablareix,ES
+2659,Viladamat,ES
+2660,Viladasens,ES
+2661,Vilademuls,ES
+2662,Viladrau,ES
+2663,Vilafant,ES
+2664,Vilajuïga,ES
+2665,"Vilallonga de Ter",ES
+2666,Vilamacolum,ES
+2667,Vilamalla,ES
+2668,Vilamaniscle,ES
+2669,Vilanant,ES
+2670,Vila-sacra,ES
+2671,Vilaür,ES
+2672,"Vilobí d'Onyar",ES
+2673,Vilopriu,ES
+2674,Agrón,ES
+2675,Alamedilla,ES
+2676,Albolote,ES
+2677,Albondón,ES
+2678,Albuñán,ES
+2679,Albuñol,ES
+2680,Albuñuelas,ES
+2681,Aldeire,ES
+2682,Alfacar,ES
+2683,Algarinejo,ES
+2684,"Alhama de Granada",ES
+2685,Alhendín,ES
+2686,"Alicún de Ortega",ES
+2687,Almegíjar,ES
+2688,Almuñécar,ES
+2689,"Alpujarra de la Sierra",ES
+2690,Alquife,ES
+2691,"Arenas del Rey",ES
+2692,Armilla,ES
+2693,Atarfe,ES
+2694,Baza,ES
+2695,"Beas de Granada",ES
+2696,"Beas de Guadix",ES
+2697,Benalúa,ES
+2698,"Benalúa de las Villas",ES
+2699,Benamaurel,ES
+2700,Bérchules,ES
+2701,Bubión,ES
+2702,Busquístar,ES
+2703,Cacín,ES
+2704,Cádiar,ES
+2705,Cájar,ES
+2706,"Calahorra, La",ES
+2707,Calicasas,ES
+2708,Campotéjar,ES
+2709,Caniles,ES
+2710,Cáñar,ES
+2711,Capileira,ES
+2712,Carataunas,ES
+2713,Cástaras,ES
+2714,Castilléjar,ES
+2715,Castril,ES
+2716,"Cenes de la Vega",ES
+2717,Chauchina,ES
+2718,Chimeneas,ES
+2719,"Churriana de la Vega",ES
+2720,Cijuela,ES
+2721,"Cogollos de Guadix",ES
+2722,"Cogollos de la Vega",ES
+2723,Colomera,ES
+2724,"Cortes de Baza",ES
+2725,"Cortes y Graena",ES
+2726,"Cuevas del Campo",ES
+2727,Cúllar,ES
+2728,"Cúllar Vega",ES
+2729,Darro,ES
+2730,"Dehesas de Guadix",ES
+2731,Deifontes,ES
+2732,Diezma,ES
+2733,Dílar,ES
+2734,Dólar,ES
+2735,Dúdar,ES
+2736,Dúrcal,ES
+2737,Escúzar,ES
+2738,Ferreira,ES
+2739,Fonelas,ES
+2740,Freila,ES
+2741,"Fuente Vaqueros",ES
+2742,"Gabias, Las",ES
+2743,Galera,ES
+2744,Gobernador,ES
+2745,Gójar,ES
+2746,Gor,ES
+2747,Gorafe,ES
+2748,Granada,ES
+2749,Guadahortuna,ES
+2750,Guadix,ES
+2751,"Guajares, Los",ES
+2752,Gualchos,ES
+2753,"Güejar Sierra",ES
+2754,Güevéjar,ES
+2755,Huélago,ES
+2756,Huéneja,ES
+2757,Huéscar,ES
+2758,"Huétor de Santillán",ES
+2759,"Huétor Tájar",ES
+2760,"Huétor Vega",ES
+2761,Illora,ES
+2762,Itrabo,ES
+2763,Iznalloz,ES
+2764,Jayena,ES
+2765,"Jerez del Marquesado",ES
+2766,Jete,ES
+2767,Jun,ES
+2768,Juviles,ES
+2769,Láchar,ES
+2770,Lanjarón,ES
+2771,Lanteira,ES
+2772,Lecrín,ES
+2773,Lentegí,ES
+2774,Lobras,ES
+2775,Loja,ES
+2776,Lugros,ES
+2777,Lújar,ES
+2778,"Malahá, La",ES
+2779,Maracena,ES
+2780,Marchal,ES
+2781,Moclín,ES
+2782,Molvízar,ES
+2783,Monachil,ES
+2784,Montefrío,ES
+2785,Montejícar,ES
+2786,Montillana,ES
+2787,"Moraleda de Zafayona",ES
+2788,Morelábor,ES
+2789,Motril,ES
+2790,Murtas,ES
+2791,Nevada,ES
+2792,Nigüelas,ES
+2793,Nívar,ES
+2794,Ogíjares,ES
+2795,Orce,ES
+2796,Órgiva,ES
+2797,Otívar,ES
+2798,Padul,ES
+2799,Pampaneira,ES
+2800,"Pedro Martínez",ES
+2801,Peligros,ES
+2802,"Peza, La",ES
+2803,"Pinar, El",ES
+2804,"Pinos Genil",ES
+2805,"Pinos Puente",ES
+2806,Píñar,ES
+2807,Polícar,ES
+2808,Polopos,ES
+2809,Pórtugos,ES
+2810,"Puebla de Don Fadrique",ES
+2811,Pulianas,ES
+2812,Purullena,ES
+2813,Quéntar,ES
+2814,Rubite,ES
+2815,Salar,ES
+2816,Salobreña,ES
+2817,"Santa Cruz del Comercio",ES
+2818,"Santa Fe",ES
+2819,Soportújar,ES
+2820,Sorvilán,ES
+2821,"Taha, La",ES
+2822,Torre-Cardela,ES
+2823,Torvizcón,ES
+2824,Trevélez,ES
+2825,Turón,ES
+2826,Ugíjar,ES
+2827,"Valle del Zalabí",ES
+2828,"Valle, El",ES
+2829,Válor,ES
+2830,"Vegas del Genil",ES
+2831,"Vélez de Benaudalla",ES
+2832,"Ventas de Huelma",ES
+2833,"Villa de Otura",ES
+2834,Villamena,ES
+2835,"Villanueva de las Torres",ES
+2836,"Villanueva Mesía",ES
+2837,Víznar,ES
+2838,Zafarraya,ES
+2839,Zagra,ES
+2840,"Zubia, La",ES
+2841,Zújar,ES
+2842,Abánades,ES
+2843,Ablanque,ES
+2844,Adobes,ES
+2845,Alaminos,ES
+2846,Alarilla,ES
+2847,"Albalate de Zorita",ES
+2848,Albares,ES
+2849,Albendiego,ES
+2850,Alcocer,ES
+2851,"Alcolea de las Peñas",ES
+2852,"Alcolea del Pinar",ES
+2853,Alcoroches,ES
+2854,"Aldeanueva de Guadalajara",ES
+2855,"Algar de Mesa",ES
+2856,Algora,ES
+2857,Alhóndiga,ES
+2858,Alique,ES
+2859,Almadrones,ES
+2860,Almoguera,ES
+2861,"Almonacid de Zorita",ES
+2862,Alocén,ES
+2863,Alovera,ES
+2864,Alustante,ES
+2865,Angón,ES
+2866,Anguita,ES
+2867,"Anquela del Ducado",ES
+2868,"Anquela del Pedregal",ES
+2869,Aranzueque,ES
+2870,Arbancón,ES
+2871,Arbeteta,ES
+2872,Argecilla,ES
+2873,Armallones,ES
+2874,"Armuña de Tajuña",ES
+2875,"Arroyo de las Fraguas",ES
+2876,Atanzón,ES
+2877,Atienza,ES
+2878,Auñón,ES
+2879,"Azuqueca de Henares",ES
+2880,Baides,ES
+2881,"Baños de Tajo",ES
+2882,Bañuelos,ES
+2883,Barriopedro,ES
+2884,Berninches,ES
+2885,"Bodera, La",ES
+2886,Brihuega,ES
+2887,Budia,ES
+2888,Bujalaro,ES
+2889,Bustares,ES
+2890,"Cabanillas del Campo",ES
+2891,"Campillo de Dueñas",ES
+2892,"Campillo de Ranas",ES
+2893,Campisábalos,ES
+2894,Canredondo,ES
+2895,Cantalojas,ES
+2896,Cañizar,ES
+2897,"Cardoso de la Sierra, El",ES
+2898,"Casa de Uceda",ES
+2899,"Casar, El",ES
+2900,"Casas de San Galindo",ES
+2901,Caspueñas,ES
+2902,"Castejón de Henares",ES
+2903,"Castellar de la Muela",ES
+2904,Castilforte,ES
+2905,Castilnuevo,ES
+2906,"Cendejas de Enmedio",ES
+2907,"Cendejas de la Torre",ES
+2908,Centenera,ES
+2909,Checa,ES
+2910,Chequilla,ES
+2911,"Chillarón del Rey",ES
+2912,Chiloeches,ES
+2913,Cifuentes,ES
+2914,Cincovillas,ES
+2915,Ciruelas,ES
+2916,"Ciruelos del Pinar",ES
+2917,Cobeta,ES
+2918,Cogollor,ES
+2919,Cogolludo,ES
+2920,"Condemios de Abajo",ES
+2921,"Condemios de Arriba",ES
+2922,Congostrina,ES
+2923,Copernal,ES
+2924,Corduente,ES
+2925,"Cubillo de Uceda, El",ES
+2926,Driebes,ES
+2927,Durón,ES
+2928,Embid,ES
+2929,Escamilla,ES
+2930,Escariche,ES
+2931,Escopete,ES
+2932,"Espinosa de Henares",ES
+2933,Esplegares,ES
+2934,Establés,ES
+2935,Estriégana,ES
+2936,Fontanar,ES
+2937,Fuembellida,ES
+2938,Fuencemillán,ES
+2939,"Fuentelahiguera de Albatages",ES
+2940,Fuentelencina,ES
+2941,Fuentelsaz,ES
+2942,Fuentelviejo,ES
+2943,Fuentenovilla,ES
+2944,Gajanejos,ES
+2945,Galápagos,ES
+2946,"Galve de Sorbe",ES
+2947,"Gascueña de Bornova",ES
+2948,Guadalajara,ES
+2949,Henche,ES
+2950,"Heras de Ayuso",ES
+2951,Herrería,ES
+2952,Hiendelaencina,ES
+2953,Hijes,ES
+2954,Hita,ES
+2955,Hombrados,ES
+2956,Hontoba,ES
+2957,Horche,ES
+2958,"Hortezuela de Océn",ES
+2959,"Huerce, La",ES
+2960,"Huérmeces del Cerro",ES
+2961,Huertahernando,ES
+2962,Hueva,ES
+2963,Humanes,ES
+2964,Illana,ES
+2965,Iniéstola,ES
+2966,"Inviernas, Las",ES
+2967,Irueste,ES
+2968,Jadraque,ES
+2969,Jirueque,ES
+2970,Ledanca,ES
+2971,"Loranca de Tajuña",ES
+2972,Lupiana,ES
+2973,Luzaga,ES
+2974,Luzón,ES
+2975,Majaelrayo,ES
+2976,"Málaga del Fresno",ES
+2977,Malaguilla,ES
+2978,Mandayona,ES
+2979,Mantiel,ES
+2980,Maranchón,ES
+2981,Marchamalo,ES
+2982,"Masegoso de Tajuña",ES
+2983,Matarrubia,ES
+2984,Matillas,ES
+2985,Mazarete,ES
+2986,Mazuecos,ES
+2987,Medranda,ES
+2988,Megina,ES
+2989,Membrillera,ES
+2990,"Miedes de Atienza",ES
+2991,"Mierla, La",ES
+2992,Millana,ES
+2993,Milmarcos,ES
+2994,"Miñosa, La",ES
+2995,Mirabueno,ES
+2996,Miralrío,ES
+2997,Mochales,ES
+2998,Mohernando,ES
+2999,"Molina de Aragón",ES
+3000,Monasterio,ES
+3001,Mondéjar,ES
+3002,Montarrón,ES
+3003,"Moratilla de los Meleros",ES
+3004,Morenilla,ES
+3005,Muduex,ES
+3006,"Navas de Jadraque, Las",ES
+3007,Negredo,ES
+3008,Ocentejo,ES
+3009,"Olivar, El",ES
+3010,"Olmeda de Cobeta",ES
+3011,"Olmeda de Jadraque, La",ES
+3012,"Ordial, El",ES
+3013,Orea,ES
+3014,"Pálmaces de Jadraque",ES
+3015,Pardos,ES
+3016,"Paredes de Sigüenza",ES
+3017,Pareja,ES
+3018,Pastrana,ES
+3019,"Pedregal, El",ES
+3020,Peñalén,ES
+3021,Peñalver,ES
+3022,"Peralejos de las Truchas",ES
+3023,Peralveche,ES
+3024,"Pinilla de Jadraque",ES
+3025,"Pinilla de Molina",ES
+3026,Pioz,ES
+3027,Piqueras,ES
+3028,"Pobo de Dueñas, El",ES
+3029,"Poveda de la Sierra",ES
+3030,"Pozo de Almoguera",ES
+3031,"Pozo de Guadalajara",ES
+3032,"Prádena de Atienza",ES
+3033,"Prados Redondos",ES
+3034,"Puebla de Beleña",ES
+3035,"Puebla de Valles",ES
+3036,Quer,ES
+3037,"Rebollosa de Jadraque",ES
+3038,"Recuenco, El",ES
+3039,Renera,ES
+3040,Retiendas,ES
+3041,"Riba de Saelices",ES
+3042,"Rillo de Gallo",ES
+3043,"Riofrío del Llano",ES
+3044,"Robledillo de Mohernando",ES
+3045,"Robledo de Corpes",ES
+3046,"Romanillos de Atienza",ES
+3047,Romanones,ES
+3048,"Rueda de la Sierra",ES
+3049,Sacecorbo,ES
+3050,Sacedón,ES
+3051,"Saelices de la Sal",ES
+3052,Salmerón,ES
+3053,"San Andrés del Congosto",ES
+3054,"San Andrés del Rey",ES
+3055,Santiuste,ES
+3056,Saúca,ES
+3057,Sayatón,ES
+3058,Selas,ES
+3059,Semillas,ES
+3060,Setiles,ES
+3061,Sienes,ES
+3062,Sigüenza,ES
+3063,"Solanillos del Extremo",ES
+3064,Somolinos,ES
+3065,"Sotillo, El",ES
+3066,Sotodosos,ES
+3067,Tamajón,ES
+3068,Taragudo,ES
+3069,Taravilla,ES
+3070,Tartanedo,ES
+3071,Tendilla,ES
+3072,Terzaga,ES
+3073,Tierzo,ES
+3074,"Toba, La",ES
+3075,Tordellego,ES
+3076,Tordelrábano,ES
+3077,Tordesilos,ES
+3078,Torija,ES
+3079,"Torre del Burgo",ES
+3080,"Torrecuadrada de Molina",ES
+3081,Torrecuadradilla,ES
+3082,"Torrejón del Rey",ES
+3083,"Torremocha de Jadraque",ES
+3084,"Torremocha del Campo",ES
+3085,"Torremocha del Pinar",ES
+3086,Torremochuela,ES
+3087,Torrubia,ES
+3088,"Tórtola de Henares",ES
+3089,Tortuera,ES
+3090,Tortuero,ES
+3091,Traíd,ES
+3092,Trijueque,ES
+3093,Trillo,ES
+3094,Uceda,ES
+3095,Ujados,ES
+3096,Utande,ES
+3097,Valdarachas,ES
+3098,Valdearenas,ES
+3099,Valdeavellano,ES
+3100,Valdeaveruelo,ES
+3101,Valdeconcha,ES
+3102,Valdegrudas,ES
+3103,Valdelcubo,ES
+3104,"Valdenuño Fernández",ES
+3105,"Valdepeñas de la Sierra",ES
+3106,Valderrebollo,ES
+3107,Valdesotos,ES
+3108,"Valfermoso de Tajuña",ES
+3109,Valhermoso,ES
+3110,"Valtablado del Río",ES
+3111,"Valverde de los Arroyos",ES
+3112,"Viana de Jadraque",ES
+3113,"Villanueva de Alcorón",ES
+3114,"Villanueva de Argecilla",ES
+3115,"Villanueva de la Torre",ES
+3116,"Villares de Jadraque",ES
+3117,"Villaseca de Henares",ES
+3118,"Villaseca de Uceda",ES
+3119,"Villel de Mesa",ES
+3120,Viñuelas,ES
+3121,Yebes,ES
+3122,Yebra,ES
+3123,"Yélamos de Abajo",ES
+3124,"Yélamos de Arriba",ES
+3125,"Yunquera de Henares",ES
+3126,"Yunta, La",ES
+3127,Zaorejas,ES
+3128,"Zarzuela de Jadraque",ES
+3129,"Zorita de los Canes",ES
+3130,Abaltzisketa,ES
+3131,Aduna,ES
+3132,Aia,ES
+3133,Aizarnazabal,ES
+3134,Albiztur,ES
+3135,Alegia,ES
+3136,Alkiza,ES
+3137,Altzaga,ES
+3138,Altzo,ES
+3139,Amezketa,ES
+3140,Andoain,ES
+3141,Anoeta,ES
+3142,Antzuola,ES
+3143,Arama,ES
+3144,Aretxabaleta,ES
+3145,Arrasate/Mondragón,ES
+3146,Asteasu,ES
+3147,Astigarraga,ES
+3148,Ataun,ES
+3149,Azkoitia,ES
+3150,Azpeitia,ES
+3151,Baliarrain,ES
+3152,Beasain,ES
+3153,Beizama,ES
+3154,Belauntza,ES
+3155,Berastegi,ES
+3156,Bergara,ES
+3157,Berrobi,ES
+3158,Bidegoian,ES
+3159,Deba,ES
+3160,"Donostia/San Sebastián",ES
+3161,Eibar,ES
+3162,Elduain,ES
+3163,Elgeta,ES
+3164,Elgoibar,ES
+3165,Errenteria,ES
+3166,Errezil,ES
+3167,Eskoriatza,ES
+3168,Ezkio-Itsaso,ES
+3169,Gabiria,ES
+3170,Gaintza,ES
+3171,Gaztelu,ES
+3172,Getaria,ES
+3173,Hernani,ES
+3174,Hernialde,ES
+3175,Hondarribia,ES
+3176,Ibarra,ES
+3177,Idiazabal,ES
+3178,Ikaztegieta,ES
+3179,Irun,ES
+3180,Irura,ES
+3181,Itsasondo,ES
+3182,Larraul,ES
+3183,Lasarte-Oria,ES
+3184,Lazkao,ES
+3185,Leaburu,ES
+3186,Legazpi,ES
+3187,Legorreta,ES
+3188,Leintz-Gatzaga,ES
+3189,Lezo,ES
+3190,Lizartza,ES
+3191,Mendaro,ES
+3192,Mutiloa,ES
+3193,Mutriku,ES
+3194,Oiartzun,ES
+3195,Olaberria,ES
+3196,Oñati,ES
+3197,Ordizia,ES
+3198,Orendain,ES
+3199,Orexa,ES
+3200,Orio,ES
+3201,Ormaiztegi,ES
+3202,Pasaia,ES
+3203,Segura,ES
+3204,"Soraluze/Placencia de las Armas",ES
+3205,Tolosa,ES
+3206,Urnieta,ES
+3207,Urretxu,ES
+3208,Usurbil,ES
+3209,Villabona,ES
+3210,Zaldibia,ES
+3211,Zarautz,ES
+3212,Zegama,ES
+3213,Zerain,ES
+3214,Zestoa,ES
+3215,Zizurkil,ES
+3216,Zumaia,ES
+3217,Zumarraga,ES
+3218,Alájar,ES
+3219,Aljaraque,ES
+3220,"Almendro, El",ES
+3221,"Almonaster la Real",ES
+3222,Almonte,ES
+3223,Alosno,ES
+3224,Aracena,ES
+3225,Aroche,ES
+3226,"Arroyomolinos de León",ES
+3227,Ayamonte,ES
+3228,Beas,ES
+3229,Berrocal,ES
+3230,"Bollullos Par del Condado",ES
+3231,Bonares,ES
+3232,"Cabezas Rubias",ES
+3233,Cala,ES
+3234,Calañas,ES
+3235,"El Campillo (Huelva)",ES
+3236,Campofrío,ES
+3237,"Cañaveral de León",ES
+3238,Cartaya,ES
+3239,"Castaño del Robledo",ES
+3240,"Cerro de Andévalo, El",ES
+3241,Chucena,ES
+3242,Corteconcepción,ES
+3243,Cortegana,ES
+3244,Cortelazor,ES
+3245,"Cumbres de Enmedio",ES
+3246,"Cumbres de San Bartolomé",ES
+3247,"Cumbres Mayores",ES
+3248,Encinasola,ES
+3249,"Escacena del Campo",ES
+3250,Fuenteheridos,ES
+3251,Galaroza,ES
+3252,Gibraleón,ES
+3253,"Granada de Río-Tinto, La",ES
+3254,"Granado, El",ES
+3255,"Higuera de la Sierra",ES
+3256,Hinojales,ES
+3257,Hinojos,ES
+3258,Huelva,ES
+3259,"Isla Cristina",ES
+3260,Jabugo,ES
+3261,Lepe,ES
+3262,"Linares de la Sierra",ES
+3263,"Lucena del Puerto",ES
+3264,Manzanilla,ES
+3265,"Marines, Los",ES
+3266,"Minas de Riotinto",ES
+3267,Moguer,ES
+3268,"Nava, La",ES
+3269,Nerva,ES
+3270,Niebla,ES
+3271,"Palma del Condado, La",ES
+3272,"Palos de la Frontera",ES
+3273,"Paterna del Campo",ES
+3274,Paymogo,ES
+3275,"Puebla de Guzmán",ES
+3276,"Puerto Moral",ES
+3277,"Punta Umbría",ES
+3278,"Rociana del Condado",ES
+3279,"Rosal de la Frontera",ES
+3280,"San Bartolomé de la Torre",ES
+3281,"San Juan del Puerto",ES
+3282,"San Silvestre de Guzmán",ES
+3283,"Sanlúcar de Guadiana",ES
+3284,"Santa Ana la Real",ES
+3285,"Santa Bárbara de Casa",ES
+3286,"Santa Olalla del Cala",ES
+3287,Trigueros,ES
+3288,Valdelarco,ES
+3289,"Valverde del Camino",ES
+3290,Villablanca,ES
+3291,"Villalba del Alcor",ES
+3292,"Villanueva de las Cruces",ES
+3293,"Villanueva de los Castillejos",ES
+3294,Villarrasa,ES
+3295,"Zalamea la Real",ES
+3296,Zufre,ES
+3297,Abiego,ES
+3298,Abizanda,ES
+3299,Adahuesca,ES
+3300,Agüero,ES
+3301,Aínsa-Sobrarbe,ES
+3302,Aisa,ES
+3303,"Albalate de Cinca",ES
+3304,Albalatillo,ES
+3305,Albelda,ES
+3306,"Albero Alto",ES
+3307,"Albero Bajo",ES
+3308,"Alberuela de Tubo",ES
+3309,"Alcalá de Gurrea",ES
+3310,"Alcalá del Obispo",ES
+3311,Alcampell,ES
+3312,"Alcolea de Cinca",ES
+3313,Alcubierre,ES
+3314,Alerre,ES
+3315,Alfántega,ES
+3316,Almudévar,ES
+3317,"Almunia de San Juan",ES
+3318,Almuniente,ES
+3319,Alquézar,ES
+3320,Altorricón,ES
+3321,Angüés,ES
+3322,Ansó,ES
+3323,Antillón,ES
+3324,"Aragüés del Puerto",ES
+3325,Arén,ES
+3326,Argavieso,ES
+3327,Arguis,ES
+3328,Ayerbe,ES
+3329,Azanuy-Alins,ES
+3330,Azara,ES
+3331,Azlor,ES
+3332,Baélls,ES
+3333,Bailo,ES
+3334,Baldellou,ES
+3335,Ballobar,ES
+3336,Banastás,ES
+3337,Barbastro,ES
+3338,Barbués,ES
+3339,Barbuñales,ES
+3340,Bárcabo,ES
+3341,"Belver de Cinca",ES
+3342,Benabarre,ES
+3343,Benasque,ES
+3344,Beranuy,ES
+3345,Berbegal,ES
+3346,Bielsa,ES
+3347,Bierge,ES
+3348,Biescas,ES
+3349,Binaced,ES
+3350,Binéfar,ES
+3351,Bisaurri,ES
+3352,Biscarrués,ES
+3353,"Blecua y Torres",ES
+3354,Boltaña,ES
+3355,Bonansa,ES
+3356,Borau,ES
+3357,Broto,ES
+3358,Caldearenas,ES
+3359,Campo,ES
+3360,Camporrélls,ES
+3361,"Canal de Berdún",ES
+3362,Candasnos,ES
+3363,Canfranc,ES
+3364,Capdesaso,ES
+3365,Capella,ES
+3366,"Casbas de Huesca",ES
+3367,"Castejón de Monegros",ES
+3368,"Castejón de Sos",ES
+3369,"Castejón del Puente",ES
+3370,Castelflorite,ES
+3371,"Castiello de Jaca",ES
+3372,Castigaleu,ES
+3373,Castillazuelo,ES
+3374,Castillonroy,ES
+3375,Chalamera,ES
+3376,Chía,ES
+3377,Chimillas,ES
+3378,Colungo,ES
+3379,Esplús,ES
+3380,Estada,ES
+3381,Estadilla,ES
+3382,"Estopiñán del Castillo",ES
+3383,Fago,ES
+3384,Fanlo,ES
+3385,Fiscal,ES
+3386,Fonz,ES
+3387,"Foradada del Toscar",ES
+3388,Fraga,ES
+3389,"Fueva, La",ES
+3390,Gistaín,ES
+3391,"Grado, El",ES
+3392,Grañén,ES
+3393,Graus,ES
+3394,"Gurrea de Gállego",ES
+3395,"Hoz de Jaca",ES
+3396,"Hoz y Costean",ES
+3397,Huerto,ES
+3398,Huesca,ES
+3399,Ibieca,ES
+3400,Igriés,ES
+3401,Ilche,ES
+3402,Isábena,ES
+3403,Jaca,ES
+3404,Jasa,ES
+3405,Labuerda,ES
+3406,Laluenga,ES
+3407,Lalueza,ES
+3408,Lanaja,ES
+3409,Laperdiguera,ES
+3410,Lascellas-Ponzano,ES
+3411,Lascuarre,ES
+3412,Laspaúles,ES
+3413,Laspuña,ES
+3414,Loarre,ES
+3415,Loporzano,ES
+3416,Loscorrales,ES
+3417,Lupiñén-Ortilla,ES
+3418,"Monesma y Cajigar",ES
+3419,Monflorite-Lascasas,ES
+3420,Montanuy,ES
+3421,Monzón,ES
+3422,Naval,ES
+3423,Novales,ES
+3424,Nueno,ES
+3425,Olvena,ES
+3426,Ontiñena,ES
+3427,"Osso de Cinca",ES
+3428,Palo,ES
+3429,Panticosa,ES
+3430,Peñalba,ES
+3431,"Peñas de Riglos, Las",ES
+3432,"Peralta de Alcofea",ES
+3433,"Peralta de Calasanz",ES
+3434,Peraltilla,ES
+3435,Perarrúa,ES
+3436,Pertusa,ES
+3437,Piracés,ES
+3438,Plan,ES
+3439,Poleñino,ES
+3440,"Pozán de Vero",ES
+3441,"Puebla de Castro, La",ES
+3442,"Puente de Montañana",ES
+3443,"Puente la Reina de Jaca",ES
+3444,Puértolas,ES
+3445,"Pueyo de Araguás, El",ES
+3446,"Pueyo de Santa Cruz",ES
+3447,Quicena,ES
+3448,Robres,ES
+3449,Sabiñánigo,ES
+3450,Sahún,ES
+3451,"Salas Altas",ES
+3452,"Salas Bajas",ES
+3453,Salillas,ES
+3454,"Sallent de Gállego",ES
+3455,"San Esteban de Litera",ES
+3456,"San Juan de Plan",ES
+3457,"San Miguel del Cinca",ES
+3458,Sangarrén,ES
+3459,"Santa Cilia",ES
+3460,"Santa Cruz de la Serós",ES
+3461,"Santa María de Dulcis",ES
+3462,"Santaliestra y San Quílez",ES
+3463,Sariñena,ES
+3464,Secastilla,ES
+3465,Seira,ES
+3466,Sena,ES
+3467,"Senés de Alcubierre",ES
+3468,Sesa,ES
+3469,Sesué,ES
+3470,Siétamo,ES
+3471,Sopeira,ES
+3472,"Sotonera, La",ES
+3473,"Tamarite de Litera",ES
+3474,Tardienta,ES
+3475,Tella-Sin,ES
+3476,Tierz,ES
+3477,Tolva,ES
+3478,Torla,ES
+3479,"Torralba de Aragón",ES
+3480,"Torre la Ribera",ES
+3481,"Torrente de Cinca",ES
+3482,"Torres de Alcanadre",ES
+3483,"Torres de Barbués",ES
+3484,Tramaced,ES
+3485,Valfarta,ES
+3486,"Valle de Bardají",ES
+3487,"Valle de Hecho",ES
+3488,"Valle de Lierp",ES
+3489,"Velilla de Cinca",ES
+3490,Vencillón,ES
+3491,"Viacamp y Litera",ES
+3492,Vicién,ES
+3493,Villanova,ES
+3494,Villanúa,ES
+3495,"Villanueva de Sigena",ES
+3496,"Yebra de Basa",ES
+3497,Yésero,ES
+3498,Zaidín,ES
+3499,"Albanchez de Mágina",ES
+3500,"Alcalá la Real",ES
+3501,Alcaudete,ES
+3502,Aldeaquemada,ES
+3503,Andújar,ES
+3504,Arjona,ES
+3505,Arjonilla,ES
+3506,Arquillos,ES
+3507,"Arroyo del Ojanco",ES
+3508,Baeza,ES
+3509,Bailén,ES
+3510,"Baños de la Encina",ES
+3511,"Beas de Segura",ES
+3512,"Bedmar y Garcíez",ES
+3513,Begíjar,ES
+3514,"Bélmez de la Moraleda",ES
+3515,Benatae,ES
+3516,"Cabra del Santo Cristo",ES
+3517,Cambil,ES
+3518,"Campillo de Arenas",ES
+3519,Canena,ES
+3520,Carboneros,ES
+3521,Cárcheles,ES
+3522,"Carolina, La",ES
+3523,Castellar,ES
+3524,"Castillo de Locubín",ES
+3525,Cazalilla,ES
+3526,Cazorla,ES
+3527,"Chiclana de Segura",ES
+3528,Chilluévar,ES
+3529,Escañuela,ES
+3530,Espelúy,ES
+3531,Frailes,ES
+3532,"Fuensanta de Martos",ES
+3533,"Fuerte del Rey",ES
+3534,Génave,ES
+3535,"Guardia de Jaén, La",ES
+3536,Guarromán,ES
+3537,"Higuera de Calatrava",ES
+3538,Hinojares,ES
+3539,Hornos,ES
+3540,Huelma,ES
+3541,Huesa,ES
+3542,Ibros,ES
+3543,"Iruela, La",ES
+3544,Iznatoraf,ES
+3545,Jabalquinto,ES
+3546,Jaén,ES
+3547,Jamilena,ES
+3548,Jimena,ES
+3549,Jódar,ES
+3550,Lahiguera,ES
+3551,Larva,ES
+3552,Linares,ES
+3553,Lopera,ES
+3554,Lupión,ES
+3555,"Mancha Real",ES
+3556,Marmolejo,ES
+3557,Martos,ES
+3558,Mengíbar,ES
+3559,Montizón,ES
+3560,"Navas de San Juan",ES
+3561,Noalejo,ES
+3562,Orcera,ES
+3563,"Peal de Becerro",ES
+3564,Pegalajar,ES
+3565,Porcuna,ES
+3566,"Pozo Alcón",ES
+3567,"Puente de Génave",ES
+3568,"Puerta de Segura, La",ES
+3569,Quesada,ES
+3570,Rus,ES
+3571,Sabiote,ES
+3572,"Santa Elena",ES
+3573,"Santiago de Calatrava",ES
+3574,Santiago-Pontones,ES
+3575,"Santisteban del Puerto",ES
+3576,"Santo Tomé",ES
+3577,"Segura de la Sierra",ES
+3578,Siles,ES
+3579,"Sorihuela del Guadalimar",ES
+3580,"Torre del Campo",ES
+3581,Torreblascopedro,ES
+3582,Torredonjimeno,ES
+3583,Torreperogil,ES
+3584,Torres,ES
+3585,"Torres de Albánchez",ES
+3586,Úbeda,ES
+3587,"Valdepeñas de Jaén",ES
+3588,Vilches,ES
+3589,Villacarrillo,ES
+3590,"Villanueva de la Reina",ES
+3591,"Villanueva del Arzobispo",ES
+3592,Villardompardo,ES
+3593,"Villares, Los",ES
+3594,Villarrodrigo,ES
+3595,Villatorres,ES
+3596,Acebedo,ES
+3597,Algadefe,ES
+3598,"Alija del Infantado",ES
+3599,Almanza,ES
+3600,"Antigua, La",ES
+3601,Ardón,ES
+3602,Arganza,ES
+3603,Astorga,ES
+3604,Balboa,ES
+3605,"Bañeza, La",ES
+3606,Barjas,ES
+3607,"Barrios de Luna, Los",ES
+3608,Bembibre,ES
+3609,Benavides,ES
+3610,Benuza,ES
+3611,"Bercianos del Páramo",ES
+3612,"Bercianos del Real Camino",ES
+3613,"Berlanga del Bierzo",ES
+3614,"Boca de Huérgano",ES
+3615,Boñar,ES
+3616,Borrenes,ES
+3617,Brazuelo,ES
+3618,"Burgo Ranero, El",ES
+3619,Burón,ES
+3620,"Bustillo del Páramo",ES
+3621,"Cabañas Raras",ES
+3622,"Cabreros del Río",ES
+3623,Cabrillanes,ES
+3624,Cacabelos,ES
+3625,"Calzada del Coto",ES
+3626,Campazas,ES
+3627,"Campo de Villavidel",ES
+3628,Camponaraya,ES
+3629,Candín,ES
+3630,Cármenes,ES
+3631,Carracedelo,ES
+3632,Carrizo,ES
+3633,Carrocera,ES
+3634,Carucedo,ES
+3635,Castilfalé,ES
+3636,"Castrillo de Cabrera",ES
+3637,"Castrillo de la Valduerna",ES
+3638,Castrocalbón,ES
+3639,Castrocontrigo,ES
+3640,Castropodame,ES
+3641,"Castrotierra de Valmadrigal",ES
+3642,Cea,ES
+3643,Cebanico,ES
+3644,"Cebrones del Río",ES
+3645,"Chozas de Abajo",ES
+3646,"Cimanes de la Vega",ES
+3647,"Cimanes del Tejar",ES
+3648,Cistierna,ES
+3649,Congosto,ES
+3650,"Corbillos de los Oteros",ES
+3651,Corullón,ES
+3652,Crémenes,ES
+3653,Cuadros,ES
+3654,"Cubillas de los Oteros",ES
+3655,"Cubillas de Rueda",ES
+3656,"Cubillos del Sil",ES
+3657,Destriana,ES
+3658,Encinedo,ES
+3659,"Ercina, La",ES
+3660,"Escobar de Campos",ES
+3661,Fabero,ES
+3662,"Folgoso de la Ribera",ES
+3663,"Fresno de la Vega",ES
+3664,"Fuentes de Carbajal",ES
+3665,"Garrafe de Torío",ES
+3666,"Gordaliza del Pino",ES
+3667,Gordoncillo,ES
+3668,Gradefes,ES
+3669,"Grajal de Campos",ES
+3670,"Gusendos de los Oteros",ES
+3671,"Hospital de Órbigo",ES
+3672,Igüeña,ES
+3673,Izagre,ES
+3674,"Joarilla de las Matas",ES
+3675,"Laguna Dalga",ES
+3676,"Laguna de Negrillos",ES
+3677,León,ES
+3678,"Llamas de la Ribera",ES
+3679,Lucillo,ES
+3680,Luyego,ES
+3681,"Magaz de Cepeda",ES
+3682,"Mansilla de las Mulas",ES
+3683,"Mansilla Mayor",ES
+3684,Maraña,ES
+3685,"Matadeón de los Oteros",ES
+3686,"Matallana de Torío",ES
+3687,Matanza,ES
+3688,Molinaseca,ES
+3689,"Murias de Paredes",ES
+3690,"Noceda del Bierzo",ES
+3691,Oencia,ES
+3692,"Omañas, Las",ES
+3693,Onzonilla,ES
+3694,"Oseja de Sajambre",ES
+3695,"Pajares de los Oteros",ES
+3696,"Palacios de la Valduerna",ES
+3697,"Palacios del Sil",ES
+3698,"Páramo del Sil",ES
+3699,Peranzanes,ES
+3700,"Pobladura de Pelayo García",ES
+3701,"Pola de Gordón, La",ES
+3702,Ponferrada,ES
+3703,"Posada de Valdeón",ES
+3704,"Pozuelo del Páramo",ES
+3705,"Prado de la Guzpeña",ES
+3706,"Priaranza del Bierzo",ES
+3707,Prioro,ES
+3708,"Puebla de Lillo",ES
+3709,"Puente de Domingo Flórez",ES
+3710,"Quintana del Castillo",ES
+3711,"Quintana del Marco",ES
+3712,"Quintana y Congosto",ES
+3713,"Regueras de Arriba",ES
+3714,Reyero,ES
+3715,Riaño,ES
+3716,"Riego de la Vega",ES
+3717,Riello,ES
+3718,"Rioseco de Tapia",ES
+3719,"Robla, La",ES
+3720,"Roperuelos del Páramo",ES
+3721,Sabero,ES
+3722,Sahagún,ES
+3723,"San Adrián del Valle",ES
+3724,"San Andrés del Rabanedo",ES
+3725,"San Cristóbal de la Polantera",ES
+3726,"San Emiliano",ES
+3727,"San Esteban de Nogales",ES
+3728,"San Justo de la Vega",ES
+3729,"San Millán de los Caballeros",ES
+3730,"San Pedro Bercianos",ES
+3731,Sancedo,ES
+3732,"Santa Colomba de Curueño",ES
+3733,"Santa Colomba de Somoza",ES
+3734,"Santa Cristina de Valmadrigal",ES
+3735,"Santa Elena de Jamuz",ES
+3736,"Santa María de la Isla",ES
+3737,"Santa María de Ordás",ES
+3738,"Santa María del Monte de Cea",ES
+3739,"Santa María del Páramo",ES
+3740,"Santa Marina del Rey",ES
+3741,"Santas Martas",ES
+3742,"Santiago Millas",ES
+3743,"Santovenia de la Valdoncina",ES
+3744,Sariegos,ES
+3745,"Sena de Luna",ES
+3746,"Sobrado (La Coruña)",ES
+3747,"Soto de la Vega",ES
+3748,"Soto y Amío",ES
+3749,"Toral de los Guzmanes",ES
+3750,"Toral de los Vados",ES
+3751,Toreno,ES
+3752,"Torre del Bierzo",ES
+3753,Trabadelo,ES
+3754,Truchas,ES
+3755,Turcia,ES
+3756,"Urdiales del Páramo",ES
+3757,"Val de San Lorenzo",ES
+3758,Valdefresno,ES
+3759,"Valdefuentes del Páramo",ES
+3760,Valdelugueros,ES
+3761,Valdemora,ES
+3762,Valdepiélago,ES
+3763,Valdepolo,ES
+3764,Valderas,ES
+3765,Valderrey,ES
+3766,Valderrueda,ES
+3767,Valdesamario,ES
+3768,Valdevimbre,ES
+3769,"Valencia de Don Juan",ES
+3770,Vallecillo,ES
+3771,"Valverde de la Virgen",ES
+3772,Valverde-Enrique,ES
+3773,"Vecilla, La",ES
+3774,"Vega de Espinareda",ES
+3775,"Vega de Infanzones",ES
+3776,"Vega de Valcarce",ES
+3777,Vegacervera,ES
+3778,Vegaquemada,ES
+3779,"Vegas del Condado",ES
+3780,Villablino,ES
+3781,Villabraz,ES
+3782,"Villadangos del Páramo",ES
+3783,"Villademor de la Vega",ES
+3784,"Villafranca del Bierzo",ES
+3785,Villagatón,ES
+3786,Villamandos,ES
+3787,Villamanín,ES
+3788,Villamañán,ES
+3789,"Villamartín de Don Sancho",ES
+3790,Villamejil,ES
+3791,Villamol,ES
+3792,"Villamontán de la Valduerna",ES
+3793,"Villamoratiel de las Matas",ES
+3794,"Villanueva de las Manzanas",ES
+3795,"Villaobispo de Otero",ES
+3796,"Villaornate y Castro",ES
+3797,Villaquejida,ES
+3798,Villaquilambre,ES
+3799,"Villarejo de Órbigo",ES
+3800,"Villares de Órbigo",ES
+3801,Villasabariego,ES
+3802,Villaselán,ES
+3803,Villaturiel,ES
+3804,Villazala,ES
+3805,"Villazanzo de Valderaduey",ES
+3806,"Zotes del Páramo",ES
+3807,"Abella de la Conca",ES
+3808,Àger,ES
+3809,Agramunt,ES
+3810,Aitona,ES
+3811,"Alamús, Els",ES
+3812,"Alàs i Cerc",ES
+3813,"Albagés, L'",ES
+3814,Albatàrrec,ES
+3815,Albesa,ES
+3816,"Albi, L'",ES
+3817,Alcanó,ES
+3818,Alcarràs,ES
+3819,Alcoletge,ES
+3820,Alfarràs,ES
+3821,Alfés,ES
+3822,Algerri,ES
+3823,Alguaire,ES
+3824,Alins,ES
+3825,Almacelles,ES
+3826,Almatret,ES
+3827,Almenar,ES
+3828,"Alòs de Balaguer",ES
+3829,Alpicat,ES
+3830,"Alt Àneu",ES
+3831,Anglesola,ES
+3832,Arbeca,ES
+3833,Arres,ES
+3834,Arsèguel,ES
+3835,"Artesa de Lleida",ES
+3836,"Artesa de Segre",ES
+3837,Aspa,ES
+3838,"Avellanes i Santa Linya, Les",ES
+3839,"Baix Pallars",ES
+3840,Balaguer,ES
+3841,Barbens,ES
+3842,"Baronia de Rialb, La",ES
+3843,Bassella,ES
+3844,Bausen,ES
+3845,Belianes,ES
+3846,Bellaguarda,ES
+3847,"Bellcaire d'Urgell",ES
+3848,"Bell-lloc d'Urgell",ES
+3849,"Bellmunt d'Urgell",ES
+3850,Bellpuig,ES
+3851,"Bellver de Cerdanya",ES
+3852,Bellvís,ES
+3853,"Benavent de Segrià",ES
+3854,Biosca,ES
+3855,"Bòrdes, Es",ES
+3856,"Borges Blanques, Les",ES
+3857,Bossòst,ES
+3858,Bovera,ES
+3859,Cabanabona,ES
+3860,Cabó,ES
+3861,Camarasa,ES
+3862,Canejan,ES
+3863,"Castell de Mur",ES
+3864,"Castellar de la Ribera",ES
+3865,Castelldans,ES
+3866,"Castellnou de Seana",ES
+3867,"Castelló de Farfanya",ES
+3868,Castellserà,ES
+3869,Cava,ES
+3870,Cervera,ES
+3871,"Cervià de les Garrigues",ES
+3872,Ciutadilla,ES
+3873,"Clariana de Cardener",ES
+3874,"Cogul, El",ES
+3875,"Coll de Nargó",ES
+3876,"Coma i la Pedra, La",ES
+3877,"Conca de Dalt",ES
+3878,Corbins,ES
+3879,Cubells,ES
+3880,"Espluga Calba, L'",ES
+3881,Espot,ES
+3882,Estamariu,ES
+3883,Estaràs,ES
+3884,"Esterri d'Àneu",ES
+3885,"Esterri de Cardós",ES
+3886,Farrera,ES
+3887,"Fígols i Alinyà",ES
+3888,"Floresta, La",ES
+3889,Fondarella,ES
+3890,Foradada,ES
+3891,"Fuliola, La",ES
+3892,Fulleda,ES
+3893,"Gavet de la Conca",ES
+3894,"Gimenells i el Pla de la Font",ES
+3895,Golmés,ES
+3896,Gósol,ES
+3897,"Granadella, La",ES
+3898,"Granja d'Escarp, La",ES
+3899,Granyanella,ES
+3900,"Granyena de les Garrigues",ES
+3901,"Granyena de Segarra",ES
+3902,Guimerà,ES
+3903,"Guingueta d'Àneu, La",ES
+3904,Guissona,ES
+3905,Guixers,ES
+3906,"Isona i Conca Dellà",ES
+3907,"Ivars de Noguera",ES
+3908,"Ivars d'Urgell",ES
+3909,Ivorra,ES
+3910,"Josa i Tuixén",ES
+3911,Juncosa,ES
+3912,Juneda,ES
+3913,Les,ES
+3914,Linyola,ES
+3915,Lladorre,ES
+3916,Lladurs,ES
+3917,Llardecans,ES
+3918,Llavorsí,ES
+3919,Lleida,ES
+3920,"Lles de Cerdanya",ES
+3921,Llimiana,ES
+3922,Llobera,ES
+3923,Maials,ES
+3924,Maldà,ES
+3925,Massalcoreig,ES
+3926,Massoteres,ES
+3927,Menàrguens,ES
+3928,Miralcamp,ES
+3929,Mollerussa,ES
+3930,"Molsosa, La",ES
+3931,"Montellà i Martinet",ES
+3932,"Montferrer i Castellbò",ES
+3933,Montgai,ES
+3934,"Montoliu de Lleida",ES
+3935,"Montoliu de Segarra",ES
+3936,"Montornès de Segarra",ES
+3937,Nalec,ES
+3938,"Naut Aran",ES
+3939,Navès,ES
+3940,Odèn,ES
+3941,Oliana,ES
+3942,Oliola,ES
+3943,Olius,ES
+3944,"Oluges, Les",ES
+3945,"Omellons, Els",ES
+3946,"Omells de na Gaia, Els",ES
+3947,Organyà,ES
+3948,"Os de Balaguer",ES
+3949,"Ossó de Sió",ES
+3950,"Palau d'Anglesola, El",ES
+3951,Penelles,ES
+3952,Peramola,ES
+3953,"Pinell de Solsonès",ES
+3954,Pinós,ES
+3955,"Plans de Sió, Els",ES
+3956,"Poal, El",ES
+3957,"Pobla de Cérvoles, La",ES
+3958,"Pobla de Segur, La",ES
+3959,"Pont de Bar, El",ES
+3960,"Pont de Suert, El",ES
+3961,Ponts,ES
+3962,"Portella, La",ES
+3963,"Prats i Sansor",ES
+3964,Preixana,ES
+3965,Preixens,ES
+3966,Prullans,ES
+3967,Puiggròs,ES
+3968,"Puigverd d'Agramunt",ES
+3969,"Puigverd de Lleida",ES
+3970,Rialp,ES
+3971,"Ribera d'Ondara",ES
+3972,"Ribera d'Urgellet",ES
+3973,Riner,ES
+3974,"Riu de Cerdanya",ES
+3975,Rosselló,ES
+3976,"Salàs de Pallars",ES
+3977,Sanaüja,ES
+3978,"Sant Esteve de la Sarga",ES
+3979,"Sant Guim de Freixenet",ES
+3980,"Sant Guim de la Plana",ES
+3981,"Sant Llorenç de Morunys",ES
+3982,"Sant Martí de Riucorb",ES
+3983,"Sant Ramon",ES
+3984,"Sarroca de Bellera",ES
+3985,"Sarroca de Lleida",ES
+3986,Senterada,ES
+3987,"Sentiu de Sió, La",ES
+3988,Seròs,ES
+3989,"Seu d'Urgell, La",ES
+3990,Sidamon,ES
+3991,"Soleràs, El",ES
+3992,Solsona,ES
+3993,Soriguera,ES
+3994,Sort,ES
+3995,Soses,ES
+3996,Sudanell,ES
+3997,Sunyer,ES
+3998,Talarn,ES
+3999,Talavera,ES
+4000,Tàrrega,ES
+4001,Tarrés,ES
+4002,"Tarroja de Segarra",ES
+4003,Térmens,ES
+4004,Tírvia,ES
+4005,Tiurana,ES
+4006,Torà,ES
+4007,"Torms, Els",ES
+4008,Tornabous,ES
+4009,"Torre de Cabdella, La",ES
+4010,Torrebesses,ES
+4011,Torrefarrera,ES
+4012,"Torrefeta i Florejacs",ES
+4013,Torregrossa,ES
+4014,Torrelameu,ES
+4015,"Torres de Segre",ES
+4016,Torre-serona,ES
+4017,Tremp,ES
+4018,"Vall de Boí, La",ES
+4019,"Vall de Cardós",ES
+4020,"Vallbona de les Monges",ES
+4021,"Vallfogona de Balaguer",ES
+4022,"Valls d'Aguilar, Les",ES
+4023,"Valls de Valira, Les",ES
+4024,"Vansa i Fórnols, La",ES
+4025,Verdú,ES
+4026,"Vielha e Mijaran",ES
+4027,Vilagrassa,ES
+4028,Vilaller,ES
+4029,Vilamòs,ES
+4030,"Vilanova de Bellpuig",ES
+4031,"Vilanova de la Barca",ES
+4032,"Vilanova de l'Aguda",ES
+4033,"Vilanova de Meià",ES
+4034,"Vilanova de Segrià",ES
+4035,Vila-sana,ES
+4036,"Vilosell, El",ES
+4037,Vinaixa,ES
+4038,Ábalos,ES
+4039,Agoncillo,ES
+4040,"Aguilar del Río Alhama",ES
+4041,"Ajamil de Cameros",ES
+4042,"Albelda de Iregua",ES
+4043,Alberite,ES
+4044,Alcanadre,ES
+4045,"Aldeanueva de Ebro",ES
+4046,Alesanco,ES
+4047,Alesón,ES
+4048,Alfaro,ES
+4049,"Almarza de Cameros",ES
+4050,Anguciana,ES
+4051,Anguiano,ES
+4052,"Arenzana de Abajo",ES
+4053,"Arenzana de Arriba",ES
+4054,Arnedillo,ES
+4055,Arnedo,ES
+4056,Arrúbal,ES
+4057,Ausejo,ES
+4058,Autol,ES
+4059,Azofra,ES
+4060,Badarán,ES
+4061,Bañares,ES
+4062,"Baños de Río Tobía",ES
+4063,"Baños de Rioja",ES
+4064,Berceo,ES
+4065,Bergasa,ES
+4066,"Bergasillas Bajera",ES
+4067,Bezares,ES
+4068,Bobadilla,ES
+4069,"Brieva de Cameros",ES
+4070,Briñas,ES
+4071,Briones,ES
+4072,"Cabezón de Cameros",ES
+4073,Calahorra,ES
+4074,Camprovín,ES
+4075,"Canales de la Sierra",ES
+4076,"Canillas de Río Tuerto",ES
+4077,Cañas,ES
+4078,Cárdenas,ES
+4079,Casalarreina,ES
+4080,"Castañares de Rioja",ES
+4081,Castroviejo,ES
+4082,Cellorigo,ES
+4083,Cenicero,ES
+4084,"Cervera del Río Alhama",ES
+4085,Cidamón,ES
+4086,Cihuri,ES
+4087,Cirueña,ES
+4088,Clavijo,ES
+4089,Cordovín,ES
+4090,Corera,ES
+4091,Cornago,ES
+4092,Corporales,ES
+4093,"Cuzcurrita de Río Tirón",ES
+4094,"Daroca de Rioja",ES
+4095,Enciso,ES
+4096,Entrena,ES
+4097,Estollo,ES
+4098,Ezcaray,ES
+4099,Foncea,ES
+4100,Fonzaleche,ES
+4101,Fuenmayor,ES
+4102,Galbárruli,ES
+4103,Galilea,ES
+4104,"Gallinero de Cameros",ES
+4105,Gimileo,ES
+4106,Grañón,ES
+4107,Grávalos,ES
+4108,Haro,ES
+4109,Herce,ES
+4110,Herramélluri,ES
+4111,Hervías,ES
+4112,Hormilla,ES
+4113,Hormilleja,ES
+4114,"Hornillos de Cameros",ES
+4115,"Hornos de Moncalvillo",ES
+4116,Huércanos,ES
+4117,Igea,ES
+4118,"Jalón de Cameros",ES
+4119,"Laguna de Cameros",ES
+4120,"Lagunilla del Jubera",ES
+4121,Lardero,ES
+4122,"Ledesma de la Cogolla",ES
+4123,Leiva,ES
+4124,"Leza de Río Leza",ES
+4125,Logroño,ES
+4126,Lumbreras,ES
+4127,Manjarrés,ES
+4128,"Mansilla de la Sierra",ES
+4129,"Manzanares de Rioja",ES
+4130,Matute,ES
+4131,Medrano,ES
+4132,Munilla,ES
+4133,"Murillo de Río Leza",ES
+4134,"Muro de Aguas",ES
+4135,"Muro en Cameros",ES
+4136,Nájera,ES
+4137,Nalda,ES
+4138,Navajún,ES
+4139,Navarrete,ES
+4140,Nestares,ES
+4141,"Nieva de Cameros",ES
+4142,Ochánduri,ES
+4143,Ocón,ES
+4144,Ojacastro,ES
+4145,Ollauri,ES
+4146,"Ortigosa de Cameros",ES
+4147,Pazuengos,ES
+4148,Pedroso,ES
+4149,Pinillos,ES
+4150,Pradejón,ES
+4151,Pradillo,ES
+4152,Préjano,ES
+4153,Quel,ES
+4154,Rabanera,ES
+4155,"Rasillo de Cameros, El",ES
+4156,"Redal, El",ES
+4157,Ribafrecha,ES
+4158,"Rincón de Soto",ES
+4159,"Robres del Castillo",ES
+4160,Rodezno,ES
+4161,Sajazarra,ES
+4162,"San Asensio",ES
+4163,"San Millán de la Cogolla",ES
+4164,"San Millán de Yécora",ES
+4165,"San Román de Cameros",ES
+4166,"San Torcuato",ES
+4167,"San Vicente de la Sonsierra",ES
+4168,"Santa Coloma",ES
+4169,"Santa Engracia del Jubera",ES
+4170,"Santa Eulalia Bajera",ES
+4171,"Santo Domingo de la Calzada",ES
+4172,"Santurde de Rioja",ES
+4173,Santurdejo,ES
+4174,Sojuela,ES
+4175,Sorzano,ES
+4176,Sotés,ES
+4177,"Soto en Cameros",ES
+4178,Terroba,ES
+4179,Tirgo,ES
+4180,Tobía,ES
+4181,Tormantos,ES
+4182,"Torre en Cameros",ES
+4183,"Torrecilla en Cameros",ES
+4184,"Torrecilla sobre Alesanco",ES
+4185,Torremontalbo,ES
+4186,Treviana,ES
+4187,Tricio,ES
+4188,Tudelilla,ES
+4189,Uruñuela,ES
+4190,Valdemadera,ES
+4191,Valgañón,ES
+4192,Ventosa,ES
+4193,Ventrosa,ES
+4194,Viguera,ES
+4195,"Villalba de Rioja",ES
+4196,"Villalobar de Rioja",ES
+4197,"Villamediana de Iregua",ES
+4198,"Villanueva de Cameros",ES
+4199,"Villar de Arnedo, El",ES
+4200,"Villar de Torre",ES
+4201,Villarejo,ES
+4202,Villarroya,ES
+4203,Villarta-Quintana,ES
+4204,Villavelayo,ES
+4205,"Villaverde de Rioja",ES
+4206,"Villoslada de Cameros",ES
+4207,"Viniegra de Abajo",ES
+4208,"Viniegra de Arriba",ES
+4209,Zarratón,ES
+4210,Zarzosa,ES
+4211,Zorraquín,ES
+4212,Abadín,ES
+4213,Alfoz,ES
+4214,"Antas de Ulla",ES
+4215,Baleira,ES
+4216,Baralla,ES
+4217,Barreiros,ES
+4218,Becerreá,ES
+4219,Begonte,ES
+4220,Bóveda,ES
+4221,Burela,ES
+4222,Carballedo,ES
+4223,"Castro de Rei",ES
+4224,Castroverde,ES
+4225,Cervantes,ES
+4226,Cervo,ES
+4227,Chantada,ES
+4228,"Corgo, O",ES
+4229,Cospeito,ES
+4230,"Folgoso do Courel",ES
+4231,"Fonsagrada, A",ES
+4232,Foz,ES
+4233,Friol,ES
+4234,Guitiriz,ES
+4235,Guntín,ES
+4236,"Incio, O",ES
+4237,Láncara,ES
+4238,Lourenzá,ES
+4239,Lugo,ES
+4240,Meira,ES
+4241,Mondoñedo,ES
+4242,"Monforte de Lemos",ES
+4243,Monterroso,ES
+4244,Muras,ES
+4245,"Navia de Suarna",ES
+4246,"Negueira de Muñiz",ES
+4247,"Nogais, As",ES
+4248,Ourol,ES
+4249,"Outeiro de Rei",ES
+4250,"Palas de Rei",ES
+4251,Pantón,ES
+4252,Paradela,ES
+4253,"Páramo, O",ES
+4254,"Pastoriza, A",ES
+4255,"Pedrafita do Cebreiro",ES
+4256,"Pobra do Brollón, A",ES
+4257,Pol,ES
+4258,"Pontenova, A",ES
+4259,Portomarín,ES
+4260,Quiroga,ES
+4261,Rábade,ES
+4262,Ribadeo,ES
+4263,"Ribas de Sil",ES
+4264,"Ribeira de Piquín",ES
+4265,Riotorto,ES
+4266,Samos,ES
+4267,Sarria,ES
+4268,"Saviñao, O",ES
+4269,Sober,ES
+4270,Taboada,ES
+4271,Trabada,ES
+4272,Triacastela,ES
+4273,"Valadouro, O",ES
+4274,"Vicedo, O",ES
+4275,Vilalba,ES
+4276,Viveiro,ES
+4277,Xermade,ES
+4278,Xove,ES
+4279,"Acebeda, La",ES
+4280,Ajalvir,ES
+4281,"Alameda del Valle",ES
+4282,"Álamo, El",ES
+4283,"Alcalá de Henares",ES
+4284,Alcobendas,ES
+4285,Alcorcón,ES
+4286,"Aldea del Fresno",ES
+4287,Algete,ES
+4288,Alpedrete,ES
+4289,Ambite,ES
+4290,Anchuelo,ES
+4291,Aranjuez,ES
+4292,"Arganda del Rey",ES
+4293,"Arroyomolinos (Cáceres)",ES
+4294,"Atazar, El",ES
+4295,Batres,ES
+4296,"Becerril de la Sierra",ES
+4297,"Belmonte de Tajo",ES
+4298,"Berrueco, El",ES
+4299,"Berzosa del Lozoya",ES
+4300,"Boadilla del Monte",ES
+4301,"Boalo, El",ES
+4302,Braojos,ES
+4303,"Brea de Tajo",ES
+4304,Brunete,ES
+4305,"Buitrago del Lozoya",ES
+4306,Bustarviejo,ES
+4307,"Cabanillas de la Sierra",ES
+4308,"Cabrera, La",ES
+4309,"Cadalso de los Vidrios",ES
+4310,"Camarma de Esteruelas",ES
+4311,"Campo Real",ES
+4312,Canencia,ES
+4313,Carabaña,ES
+4314,Casarrubuelos,ES
+4315,Cenicientos,ES
+4316,Cercedilla,ES
+4317,"Cervera de Buitrago",ES
+4318,Chapinería,ES
+4319,Chinchón,ES
+4320,Ciempozuelos,ES
+4321,Cobeña,ES
+4322,"Collado Mediano",ES
+4323,"Collado Villalba",ES
+4324,"Colmenar de Oreja",ES
+4325,"Colmenar del Arroyo",ES
+4326,"Colmenar Viejo",ES
+4327,Colmenarejo,ES
+4328,Corpa,ES
+4329,Coslada,ES
+4330,"Cubas de la Sagra",ES
+4331,"Daganzo de Arriba",ES
+4332,"Escorial, El",ES
+4333,Estremera,ES
+4334,"Fresnedillas de la Oliva",ES
+4335,"Fresno de Torote",ES
+4336,Fuenlabrada,ES
+4337,"Fuente el Saz de Jarama",ES
+4338,"Fuentidueña de Tajo",ES
+4339,Galapagar,ES
+4340,"Garganta de los Montes",ES
+4341,"Gargantilla del Lozoya y Pinilla de Buitrago",ES
+4342,Gascones,ES
+4343,Getafe,ES
+4344,Griñón,ES
+4345,"Guadalix de la Sierra",ES
+4346,Guadarrama,ES
+4347,"Hiruela, La",ES
+4348,"Horcajo de la Sierra-Aoslos",ES
+4349,"Horcajuelo de la Sierra",ES
+4350,"Hoyo de Manzanares",ES
+4351,"Humanes de Madrid",ES
+4352,Leganés,ES
+4353,Loeches,ES
+4354,Lozoya,ES
+4355,Lozoyuela-Navas-Sieteiglesias,ES
+4356,Madarcos,ES
+4357,Madrid,ES
+4358,Majadahonda,ES
+4359,"Manzanares el Real",ES
+4360,Meco,ES
+4361,"Mejorada del Campo",ES
+4362,"Miraflores de la Sierra",ES
+4363,"El Molar (Madrid)",ES
+4364,"Molinos, Los",ES
+4365,"Montejo de la Sierra",ES
+4366,"Moraleja de Enmedio",ES
+4367,Moralzarzal,ES
+4368,"Morata de Tajuña",ES
+4369,Móstoles,ES
+4370,Navacerrada,ES
+4371,Navalafuente,ES
+4372,Navalagamella,ES
+4373,Navalcarnero,ES
+4374,"Navarredonda y San Mamés",ES
+4375,"Navas del Rey",ES
+4376,"Nuevo Baztán",ES
+4377,"Olmeda de las Fuentes",ES
+4378,"Orusco de Tajuña",ES
+4379,"Paracuellos de Jarama",ES
+4380,Parla,ES
+4381,Patones,ES
+4382,Pedrezuela,ES
+4383,"Pelayos de la Presa",ES
+4384,"Perales de Tajuña",ES
+4385,"Pezuela de las Torres",ES
+4386,"Pinilla del Valle",ES
+4387,Pinto,ES
+4388,Piñuécar-Gandullas,ES
+4389,"Pozuelo de Alarcón",ES
+4390,"Pozuelo del Rey",ES
+4391,"Prádena del Rincón",ES
+4392,"Puebla de la Sierra",ES
+4393,"Puentes Viejas",ES
+4394,Quijorna,ES
+4395,Rascafría,ES
+4396,Redueña,ES
+4397,Ribatejada,ES
+4398,Rivas-Vaciamadrid,ES
+4399,"Robledillo de la Jara",ES
+4400,"Robledo de Chavela",ES
+4401,Robregordo,ES
+4402,"Rozas de Madrid, Las",ES
+4403,"Rozas de Puerto Real",ES
+4404,"San Agustín del Guadalix",ES
+4405,"San Fernando de Henares",ES
+4406,"San Lorenzo de El Escorial",ES
+4407,"San Martín de la Vega",ES
+4408,"San Martín de Valdeiglesias",ES
+4409,"San Sebastián de los Reyes",ES
+4410,"Santa María de la Alameda",ES
+4411,Santorcaz,ES
+4412,"Santos de la Humosa, Los",ES
+4413,"Serna del Monte, La",ES
+4414,"Serranillos del Valle",ES
+4415,"Sevilla la Nueva",ES
+4416,Somosierra,ES
+4417,"Soto del Real",ES
+4418,"Talamanca de Jarama",ES
+4419,Tielmes,ES
+4420,Titulcia,ES
+4421,"Torrejón de Ardoz",ES
+4422,"Torrejón de la Calzada",ES
+4423,"Torrejón de Velasco",ES
+4424,Torrelaguna,ES
+4425,Torrelodones,ES
+4426,"Torremocha de Jarama",ES
+4427,"Torres de la Alameda",ES
+4428,"Tres Cantos",ES
+4429,Valdaracete,ES
+4430,Valdeavero,ES
+4431,Valdelaguna,ES
+4432,Valdemanco,ES
+4433,Valdemaqueda,ES
+4434,Valdemorillo,ES
+4435,Valdemoro,ES
+4436,Valdeolmos-Alalpardo,ES
+4437,Valdepiélagos,ES
+4438,"Valdetorres de Jarama",ES
+4439,Valdilecha,ES
+4440,"Valverde de Alcalá",ES
+4441,"Velilla de San Antonio",ES
+4442,"Vellón, El",ES
+4443,Venturada,ES
+4444,"Villa del Prado",ES
+4445,Villaconejos,ES
+4446,Villalbilla,ES
+4447,"Villamanrique de Tajo",ES
+4448,Villamanta,ES
+4449,Villamantilla,ES
+4450,"Villanueva de la Cañada",ES
+4451,"Villanueva de Perales",ES
+4452,"Villanueva del Pardillo",ES
+4453,"Villar del Olmo",ES
+4454,"Villarejo de Salvanés",ES
+4455,"Villaviciosa de Odón",ES
+4456,"Villavieja del Lozoya",ES
+4457,Zarzalejo,ES
+4458,Alameda,ES
+4459,Alcaucín,ES
+4460,Alfarnate,ES
+4461,Alfarnatejo,ES
+4462,Algarrobo,ES
+4463,Algatocín,ES
+4464,"Alhaurín de la Torre",ES
+4465,"Alhaurín el Grande",ES
+4466,Almáchar,ES
+4467,Almargen,ES
+4468,Almogía,ES
+4469,Álora,ES
+4470,Alozaina,ES
+4471,Alpandeire,ES
+4472,Antequera,ES
+4473,Árchez,ES
+4474,Archidona,ES
+4475,Ardales,ES
+4476,Arenas,ES
+4477,Arriate,ES
+4478,Atajate,ES
+4479,Benadalid,ES
+4480,Benahavís,ES
+4481,Benalauría,ES
+4482,Benalmádena,ES
+4483,Benamargosa,ES
+4484,Benamocarra,ES
+4485,Benaoján,ES
+4486,Benarrabá,ES
+4487,"Borge, El",ES
+4488,"Burgo, El",ES
+4489,Campillos,ES
+4490,"Canillas de Aceituno",ES
+4491,"Canillas de Albaida",ES
+4492,"Cañete la Real",ES
+4493,Carratraca,ES
+4494,Cartajima,ES
+4495,Cártama,ES
+4496,Casabermeja,ES
+4497,Casarabonela,ES
+4498,Casares,ES
+4499,Coín,ES
+4500,Colmenar,ES
+4501,Comares,ES
+4502,Cómpeta,ES
+4503,"Cortes de la Frontera",ES
+4504,"Cuevas Bajas",ES
+4505,"Cuevas de San Marcos",ES
+4506,"Cuevas del Becerro",ES
+4507,Cútar,ES
+4508,Estepona,ES
+4509,Faraján,ES
+4510,Frigiliana,ES
+4511,Fuengirola,ES
+4512,"Fuente de Piedra",ES
+4513,Gaucín,ES
+4514,Genalguacil,ES
+4515,Guaro,ES
+4516,Humilladero,ES
+4517,Igualeja,ES
+4518,Istán,ES
+4519,Iznate,ES
+4520,"Jimera de Líbar",ES
+4521,Jubrique,ES
+4522,Júzcar,ES
+4523,Macharaviaya,ES
+4524,Málaga,ES
+4525,Manilva,ES
+4526,Marbella,ES
+4527,Mijas,ES
+4528,Moclinejo,ES
+4529,Mollina,ES
+4530,Monda,ES
+4531,Montejaque,ES
+4532,Nerja,ES
+4533,Ojén,ES
+4534,Parauta,ES
+4535,Periana,ES
+4536,Pizarra,ES
+4537,Pujerra,ES
+4538,"Rincón de la Victoria",ES
+4539,Riogordo,ES
+4540,Ronda,ES
+4541,Salares,ES
+4542,Sayalonga,ES
+4543,Sedella,ES
+4544,"Sierra de Yeguas",ES
+4545,Teba,ES
+4546,Tolox,ES
+4547,Torremolinos,ES
+4548,Torrox,ES
+4549,Totalán,ES
+4550,"Valle de Abdalajís",ES
+4551,Vélez-Málaga,ES
+4552,"Villanueva de Algaidas",ES
+4553,"Villanueva de la Concepción",ES
+4554,"Villanueva de Tapia",ES
+4555,"Villanueva del Rosario",ES
+4556,"Villanueva del Trabuco",ES
+4557,Viñuela,ES
+4558,Yunquera,ES
+4559,Abanilla,ES
+4560,Abarán,ES
+4561,Águilas,ES
+4562,Albudeite,ES
+4563,Alcantarilla,ES
+4564,"Alcázares, Los",ES
+4565,Aledo,ES
+4566,Alguazas,ES
+4567,"Alhama de Murcia",ES
+4568,Archena,ES
+4569,Beniel,ES
+4570,Blanca,ES
+4571,Bullas,ES
+4572,Calasparra,ES
+4573,"Campos del Río",ES
+4574,"Caravaca de la Cruz",ES
+4575,Cartagena,ES
+4576,Cehegín,ES
+4577,Ceutí,ES
+4578,"Cieza (Cantabria)",ES
+4579,Fortuna,ES
+4580,"Fuente Álamo de Murcia",ES
+4581,Jumilla,ES
+4582,Librilla,ES
+4583,Lorca,ES
+4584,Lorquí,ES
+4585,Mazarrón,ES
+4586,"Molina de Segura",ES
+4587,Moratalla,ES
+4588,Mula,ES
+4589,Murcia,ES
+4590,Ojós,ES
+4591,Pliego,ES
+4592,"Puerto Lumbreras",ES
+4593,Ricote,ES
+4594,"San Javier",ES
+4595,"San Pedro del Pinatar",ES
+4596,Santomera,ES
+4597,Torre-Pacheco,ES
+4598,"Torres de Cotillas, Las",ES
+4599,Totana,ES
+4600,Ulea,ES
+4601,"Unión, La",ES
+4602,"Villanueva del Río Segura",ES
+4603,Yecla,ES
+4604,Abáigar,ES
+4605,Abárzuza/Abartzuza,ES
+4606,"Abaurregaina/Abaurrea Alta",ES
+4607,"Abaurrepea/Abaurrea Baja",ES
+4608,Aberin,ES
+4609,Ablitas,ES
+4610,Adiós,ES
+4611,"Aguilar de Codés",ES
+4612,Aibar/Oibar,ES
+4613,Allín/Allin,ES
+4614,Allo,ES
+4615,Altsasu/Alsasua,ES
+4616,"Améscoa Baja",ES
+4617,Ancín/Antzin,ES
+4618,Andosilla,ES
+4619,Ansoáin/Antsoain,ES
+4620,Anue,ES
+4621,Añorbe,ES
+4622,Aoiz/Agoitz,ES
+4623,Araitz,ES
+4624,Arakil,ES
+4625,Aranarache/Aranaratxe,ES
+4626,Aranguren,ES
+4627,Arano,ES
+4628,Arantza,ES
+4629,Aras,ES
+4630,Arbizu,ES
+4631,Arce/Artzi,ES
+4632,"Arcos, Los",ES
+4633,Arellano,ES
+4634,Areso,ES
+4635,Arguedas,ES
+4636,Aria,ES
+4637,Aribe,ES
+4638,Armañanzas,ES
+4639,Arróniz,ES
+4640,Arruazu,ES
+4641,Artajona,ES
+4642,Artazu,ES
+4643,Atez/Atetz,ES
+4644,Auritz/Burguete,ES
+4645,Ayegui/Aiegi,ES
+4646,Azagra,ES
+4647,Azuelo,ES
+4648,Bakaiku,ES
+4649,Barañain,ES
+4650,Barásoain,ES
+4651,Barbarin,ES
+4652,Bargota,ES
+4653,Barillas,ES
+4654,Basaburua,ES
+4655,Baztan,ES
+4656,Beintza-Labaien,ES
+4657,Beire,ES
+4658,Belascoáin,ES
+4659,Bera,ES
+4660,Berbinzana,ES
+4661,Beriáin,ES
+4662,Berrioplano/Berriobeiti,ES
+4663,Berriozar,ES
+4664,Bertizarana,ES
+4665,Betelu,ES
+4666,Bidaurreta,ES
+4667,Biurrun-Olcoz,ES
+4668,Buñuel,ES
+4669,Burgui/Burgi,ES
+4670,Burlada/Burlata,ES
+4671,"Busto, El",ES
+4672,Cabanillas,ES
+4673,Cabredo,ES
+4674,Cadreita,ES
+4675,Caparroso,ES
+4676,Cárcar,ES
+4677,Carcastillo,ES
+4678,Cascante,ES
+4679,Cáseda,ES
+4680,"Castejón (Navarra)",ES
+4681,Castillonuevo,ES
+4682,"Cendea de Olza/Oltza Zendea",ES
+4683,Cintruénigo,ES
+4684,Cirauqui/Zirauki,ES
+4685,Ciriza/Ziritza,ES
+4686,Cizur,ES
+4687,Corella,ES
+4688,Cortes,ES
+4689,Desojo,ES
+4690,Dicastillo,ES
+4691,Donamaria,ES
+4692,Doneztebe/Santesteban,ES
+4693,Echarri,ES
+4694,Egüés,ES
+4695,Elgorriaga,ES
+4696,Enériz/Eneritz,ES
+4697,Eratsun,ES
+4698,Ergoiena,ES
+4699,Erro,ES
+4700,Eslava,ES
+4701,"Esparza de Salazar/Espartza Zaraitzu",ES
+4702,Espronceda,ES
+4703,Estella-Lizarra,ES
+4704,Esteribar,ES
+4705,Etayo,ES
+4706,Etxalar,ES
+4707,Etxarri-Aranatz,ES
+4708,Etxauri,ES
+4709,Eulate,ES
+4710,Ezcabarte,ES
+4711,Ezcároz/Ezkaroze,ES
+4712,Ezkurra,ES
+4713,Ezprogui,ES
+4714,Falces,ES
+4715,Fitero,ES
+4716,Fontellas,ES
+4717,Funes,ES
+4718,Fustiñana,ES
+4719,Galar,ES
+4720,Gallipienzo/Galipentzu,ES
+4721,Gallués/Galoze,ES
+4722,Garaioa,ES
+4723,Garde,ES
+4724,Garínoain,ES
+4725,Garralda,ES
+4726,Genevilla,ES
+4727,Goizueta,ES
+4728,Goñi,ES
+4729,Güesa/Gorza,ES
+4730,Guesálaz/Gesalatz,ES
+4731,Guirguillano,ES
+4732,"Hiriberri/Villanueva de Aezkoa",ES
+4733,Huarte/Uharte,ES
+4734,Ibargoiti,ES
+4735,Igantzi,ES
+4736,Igúzquiza,ES
+4737,Imotz,ES
+4738,Irañeta,ES
+4739,Irurtzun,ES
+4740,Isaba/Izaba,ES
+4741,Ituren,ES
+4742,Iturmendi,ES
+4743,Iza/Itza,ES
+4744,Izagaondoa,ES
+4745,Izalzu/Itzaltzu,ES
+4746,Jaurrieta,ES
+4747,Javier,ES
+4748,Juslapeña,ES
+4749,Lakuntza,ES
+4750,Lana,ES
+4751,Lantz,ES
+4752,Lapoblación,ES
+4753,Larraga,ES
+4754,Larraona,ES
+4755,Larraun,ES
+4756,Lazagurría,ES
+4757,Leache/Leatxe,ES
+4758,Legarda,ES
+4759,Legaria,ES
+4760,Leitza,ES
+4761,Lekunberri,ES
+4762,Leoz/Leotz,ES
+4763,Lerga,ES
+4764,Lerín,ES
+4765,Lesaka,ES
+4766,Lezáun,ES
+4767,Liédena,ES
+4768,Lizoáin-Arriasgoiti,ES
+4769,Lodosa,ES
+4770,Lónguida/Longida,ES
+4771,Lumbier,ES
+4772,Luquin,ES
+4773,Luzaide/Valcarlos,ES
+4774,Mañeru,ES
+4775,Marañón,ES
+4776,Marcilla,ES
+4777,Mélida,ES
+4778,Mendavia,ES
+4779,Mendaza,ES
+4780,Mendigorría,ES
+4781,Metauten,ES
+4782,Milagro,ES
+4783,Mirafuentes,ES
+4784,"Miranda de Arga",ES
+4785,Monreal/Elo,ES
+4786,Monteagudo,ES
+4787,Morentin,ES
+4788,Mues,ES
+4789,Murchante,ES
+4790,Murieta,ES
+4791,"Murillo el Cuende",ES
+4792,"Murillo el Fruto",ES
+4793,Muruzábal,ES
+4794,Navascués/Nabaskoze,ES
+4795,Nazar,ES
+4796,"Noáin (Valle de Elorz)/Noain (Elortzibar)",ES
+4797,Obanos,ES
+4798,Ochagavía/Otsagabia,ES
+4799,Oco,ES
+4800,Odieta,ES
+4801,Oitz,ES
+4802,Olaibar,ES
+4803,Olazti/Olazagutía,ES
+4804,Olejua,ES
+4805,Olite/Erriberri,ES
+4806,Ollo,ES
+4807,Olóriz/Oloritz,ES
+4808,Orbaizeta,ES
+4809,Orbara,ES
+4810,Orísoain,ES
+4811,Orkoien,ES
+4812,Oronz/Orontze,ES
+4813,Oroz-Betelu/Orotz-Betelu,ES
+4814,Orreaga/Roncesvalles,ES
+4815,Oteiza,ES
+4816,Pamplona/Iruña,ES
+4817,Peralta/Azkoien,ES
+4818,"Petilla de Aragón",ES
+4819,Piedramillera,ES
+4820,Pitillas,ES
+4821,"Puente la Reina/Gares",ES
+4822,Pueyo,ES
+4823,Ribaforada,ES
+4824,Romanzado,ES
+4825,Roncal/Erronkari,ES
+4826,"Sada (Navarra)",ES
+4827,Saldías,ES
+4828,"Salinas de Oro/Jaitz",ES
+4829,"San Adrián",ES
+4830,"San Martín de Unx",ES
+4831,Sangüesa/Zangoza,ES
+4832,Sansol,ES
+4833,Santacara,ES
+4834,Sarriés/Sartze,ES
+4835,Sartaguda,ES
+4836,Sesma,ES
+4837,Sorlada,ES
+4838,Sunbilla,ES
+4839,Tafalla,ES
+4840,"Tiebas-Muruarte de Reta",ES
+4841,Tirapu,ES
+4842,"Torralba del Río",ES
+4843,"Torres del Río",ES
+4844,Tudela,ES
+4845,Tulebras,ES
+4846,Ucar,ES
+4847,Uharte-Arakil,ES
+4848,Ujué,ES
+4849,Ultzama,ES
+4850,Unciti,ES
+4851,Unzué/Untzue,ES
+4852,Urdazubi/Urdax,ES
+4853,Urdiain,ES
+4854,"Urraul Alto",ES
+4855,"Urraul Bajo",ES
+4856,Urrotz,ES
+4857,Urroz-Villa,ES
+4858,Urzainqui/Urzainki,ES
+4859,Uterga,ES
+4860,Uztárroz/Uztarroze,ES
+4861,"Valle de Yerri/Deierri",ES
+4862,Valtierra,ES
+4863,Viana,ES
+4864,Vidángoz/Bidankoze,ES
+4865,Villafranca,ES
+4866,"Villamayor de Monjardín",ES
+4867,Villatuerta,ES
+4868,Villava/Atarrabia,ES
+4869,Yesa,ES
+4870,Zabalza/Zabaltza,ES
+4871,Ziordia,ES
+4872,"Zizur Mayor/Zizur Nagusia",ES
+4873,Zubieta,ES
+4874,Zugarramurdi,ES
+4875,Zúñiga,ES
+4876,Allariz,ES
+4877,Amoeiro,ES
+4878,"Arnoia, A",ES
+4879,Avión,ES
+4880,Baltar,ES
+4881,Bande,ES
+4882,"Baños de Molgas",ES
+4883,Barbadás,ES
+4884,"Barco de Valdeorras, O",ES
+4885,Beade,ES
+4886,Beariz,ES
+4887,"Blancos, Os",ES
+4888,Boborás,ES
+4889,"Bola, A",ES
+4890,"Bolo, O",ES
+4891,"Calvos de Randín",ES
+4892,"Carballeda de Avia",ES
+4893,"Carballeda de Valdeorras",ES
+4894,"Carballiño, O",ES
+4895,Cartelle,ES
+4896,"Castrelo de Miño",ES
+4897,"Castrelo do Val",ES
+4898,"Castro Caldelas",ES
+4899,Celanova,ES
+4900,Cenlle,ES
+4901,"Chandrexa de Queixa",ES
+4902,Coles,ES
+4903,Cortegada,ES
+4904,Cualedro,ES
+4905,Entrimo,ES
+4906,Esgos,ES
+4907,Gomesende,ES
+4908,"Gudiña, A",ES
+4909,"Irixo, O",ES
+4910,Larouco,ES
+4911,Laza,ES
+4912,Leiro,ES
+4913,Lobeira,ES
+4914,Lobios,ES
+4915,Maceda,ES
+4916,Manzaneda,ES
+4917,Maside,ES
+4918,Melón,ES
+4919,"Merca, A",ES
+4920,"Mezquita, A",ES
+4921,Montederramo,ES
+4922,Monterrei,ES
+4923,Muíños,ES
+4924,"Nogueira de Ramuín",ES
+4925,Oímbra,ES
+4926,Ourense,ES
+4927,"Paderne de Allariz",ES
+4928,Padrenda,ES
+4929,"Parada de Sil",ES
+4930,"Pereiro de Aguiar, O",ES
+4931,"Peroxa, A",ES
+4932,Petín,ES
+4933,Piñor,ES
+4934,"Pobra de Trives, A",ES
+4935,Pontedeva,ES
+4936,Porqueira,ES
+4937,Punxín,ES
+4938,"Quintela de Leirado",ES
+4939,"Rairiz de Veiga",ES
+4940,Ramirás,ES
+4941,Ribadavia,ES
+4942,Riós,ES
+4943,"Rúa, A",ES
+4944,Rubiá,ES
+4945,"San Amaro",ES
+4946,"San Cibrao das Viñas",ES
+4947,"San Cristovo de Cea",ES
+4948,"San Xoán de Río",ES
+4949,Sandiás,ES
+4950,Sarreaus,ES
+4951,Taboadela,ES
+4952,"Teixeira, A",ES
+4953,Toén,ES
+4954,Trasmiras,ES
+4955,"Veiga, A",ES
+4956,Verea,ES
+4957,Verín,ES
+4958,"Viana do Bolo",ES
+4959,Vilamarín,ES
+4960,"Vilamartín de Valdeorras",ES
+4961,"Vilar de Barrio",ES
+4962,"Vilar de Santos",ES
+4963,Vilardevós,ES
+4964,"Vilariño de Conso",ES
+4965,"Xinzo de Limia",ES
+4966,"Xunqueira de Ambía",ES
+4967,"Xunqueira de Espadanedo",ES
+4968,Allande,ES
+4969,Aller,ES
+4970,Amieva,ES
+4971,Avilés,ES
+4972,"Belmonte de Miranda",ES
+4973,Bimenes,ES
+4974,Boal,ES
+4975,Cabrales,ES
+4976,Cabranes,ES
+4977,Candamo,ES
+4978,"Cangas de Onís",ES
+4979,"Cangas del Narcea",ES
+4980,Caravia,ES
+4981,Carreño,ES
+4982,Caso,ES
+4983,Castrillón,ES
+4984,Castropol,ES
+4985,Coaña,ES
+4986,Colunga,ES
+4987,"Corvera de Asturias",ES
+4988,Cudillero,ES
+4989,Degaña,ES
+4990,"Franco, El",ES
+4991,Gijón,ES
+4992,Gozón,ES
+4993,Grado,ES
+4994,"Grandas de Salime",ES
+4995,Ibias,ES
+4996,Illano,ES
+4997,Illas,ES
+4998,Langreo,ES
+4999,Laviana,ES
+5000,Lena,ES
+5001,Llanera,ES
+5002,Llanes,ES
+5003,"Mieres (Asturias)",ES
+5004,Morcín,ES
+5005,"Muros de Nalón",ES
+5006,Nava,ES
+5007,Navia,ES
+5008,Noreña,ES
+5009,Onís,ES
+5010,Oviedo,ES
+5011,Parres,ES
+5012,"Peñamellera Alta",ES
+5013,"Peñamellera Baja",ES
+5014,Pesoz,ES
+5015,Piloña,ES
+5016,Ponga,ES
+5017,Pravia,ES
+5018,Proaza,ES
+5019,Quirós,ES
+5020,"Regueras, Las",ES
+5021,Ribadedeva,ES
+5022,Ribadesella,ES
+5023,"Ribera de Arriba",ES
+5024,Riosa,ES
+5025,Salas,ES
+5026,"San Martín de Oscos",ES
+5027,"San Martín del Rey Aurelio",ES
+5028,"San Tirso de Abres",ES
+5029,"Santa Eulalia de Oscos",ES
+5030,"Santo Adriano",ES
+5031,Sariego,ES
+5032,Siero,ES
+5033,Sobrescobio,ES
+5034,Somiedo,ES
+5035,"Soto del Barco",ES
+5036,"Tapia de Casariego",ES
+5037,Taramundi,ES
+5038,Teverga,ES
+5039,Tineo,ES
+5040,Valdés,ES
+5041,Vegadeo,ES
+5042,"Villanueva de Oscos",ES
+5043,Villaviciosa,ES
+5044,Villayón,ES
+5045,"Yernes y Tameza",ES
+5046,"Abarca de Campos",ES
+5047,"Abia de las Torres",ES
+5048,"Aguilar de Campoo",ES
+5049,"Alar del Rey",ES
+5050,"Alba de Cerrato",ES
+5051,"Amayuelas de Arriba",ES
+5052,Ampudia,ES
+5053,Amusco,ES
+5054,Antigüedad,ES
+5055,Arconada,ES
+5056,Astudillo,ES
+5057,"Autilla del Pino",ES
+5058,"Autillo de Campos",ES
+5059,Ayuela,ES
+5060,Baltanás,ES
+5061,"Baquerín de Campos",ES
+5062,"Bárcena de Campos",ES
+5063,"Barruelo de Santullán",ES
+5064,"Báscones de Ojeda",ES
+5065,"Becerril de Campos",ES
+5066,"Belmonte de Campos",ES
+5067,Berzosilla,ES
+5068,"Boada de Campos",ES
+5069,"Boadilla de Rioseco",ES
+5070,"Boadilla del Camino",ES
+5071,Brañosera,ES
+5072,"Buenavista de Valdavia",ES
+5073,"Bustillo de la Vega",ES
+5074,"Bustillo del Páramo de Carrión",ES
+5075,"Calahorra de Boedo",ES
+5076,"Calzada de los Molinos",ES
+5077,Capillas,ES
+5078,"Cardeñosa de Volpejera",ES
+5079,"Carrión de los Condes",ES
+5080,"Castil de Vela",ES
+5081,"Castrejón de la Peña",ES
+5082,"Castrillo de Don Juan",ES
+5083,"Castrillo de Onielo",ES
+5084,"Castrillo de Villavega",ES
+5085,Castromocho,ES
+5086,"Cervatos de la Cueza",ES
+5087,"Cervera de Pisuerga",ES
+5088,"Cevico de la Torre",ES
+5089,"Cevico Navero",ES
+5090,Cisneros,ES
+5091,"Cobos de Cerrato",ES
+5092,"Collazos de Boedo",ES
+5093,"Congosto de Valdavia",ES
+5094,"Cordovilla la Real",ES
+5095,"Cubillas de Cerrato",ES
+5096,"Dehesa de Montejo",ES
+5097,"Dehesa de Romanos",ES
+5098,Dueñas,ES
+5099,"Espinosa de Cerrato",ES
+5100,"Espinosa de Villagonzalo",ES
+5101,Frechilla,ES
+5102,"Fresno del Río",ES
+5103,Frómista,ES
+5104,"Fuentes de Nava",ES
+5105,"Fuentes de Valdepero",ES
+5106,Grijota,ES
+5107,Guardo,ES
+5108,"Guaza de Campos",ES
+5109,"Hérmedes de Cerrato",ES
+5110,"Herrera de Pisuerga",ES
+5111,"Herrera de Valdecañas",ES
+5112,"Hontoria de Cerrato",ES
+5113,"Hornillos de Cerrato",ES
+5114,Husillos,ES
+5115,"Itero de la Vega",ES
+5116,Lagartos,ES
+5117,Lantadilla,ES
+5118,Ledigos,ES
+5119,"Loma de Ucieza",ES
+5120,Lomas,ES
+5121,"Magaz de Pisuerga",ES
+5122,Manquillos,ES
+5123,Mantinos,ES
+5124,"Marcilla de Campos",ES
+5125,Mazariegos,ES
+5126,"Mazuecos de Valdeginate",ES
+5127,"Melgar de Yuso",ES
+5128,"Meneses de Campos",ES
+5129,"Micieces de Ojeda",ES
+5130,"Monzón de Campos",ES
+5131,Moratinos,ES
+5132,Mudá,ES
+5133,"Nogal de las Huertas",ES
+5134,"Olea de Boedo",ES
+5135,"Olmos de Ojeda",ES
+5136,Osornillo,ES
+5137,"Osorno la Mayor",ES
+5138,Palencia,ES
+5139,Palenzuela,ES
+5140,"Páramo de Boedo",ES
+5141,"Paredes de Nava",ES
+5142,"Payo de Ojeda",ES
+5143,"Pedraza de Campos",ES
+5144,"Pedrosa de la Vega",ES
+5145,Perales,ES
+5146,"Pernía, La",ES
+5147,"Pino del Río",ES
+5148,"Piña de Campos",ES
+5149,"Población de Arroyo",ES
+5150,"Población de Campos",ES
+5151,"Población de Cerrato",ES
+5152,Polentinos,ES
+5153,"Pomar de Valdivia",ES
+5154,"Poza de la Vega",ES
+5155,"Pozo de Urama",ES
+5156,"Prádanos de Ojeda",ES
+5157,"Puebla de Valdavia, La",ES
+5158,"Quintana del Puente",ES
+5159,"Quintanilla de Onsoña",ES
+5160,"Reinoso de Cerrato",ES
+5161,"Renedo de la Vega",ES
+5162,"Requena de Campos",ES
+5163,"Respenda de la Peña",ES
+5164,"Revenga de Campos",ES
+5165,"Revilla de Collazos",ES
+5166,"Ribas de Campos",ES
+5167,"Riberos de la Cueza",ES
+5168,Saldaña,ES
+5169,"Salinas de Pisuerga",ES
+5170,"San Cebrián de Campos",ES
+5171,"San Cebrián de Mudá",ES
+5172,"San Cristóbal de Boedo",ES
+5173,"San Mamés de Campos",ES
+5174,"San Román de la Cuba",ES
+5175,"Santa Cecilia del Alcor",ES
+5176,"Santa Cruz de Boedo",ES
+5177,"Santervás de la Vega",ES
+5178,"Santibáñez de Ecla",ES
+5179,"Santibáñez de la Peña",ES
+5180,Santoyo,ES
+5181,"Serna, La",ES
+5182,"Soto de Cerrato",ES
+5183,"Sotobañado y Priorato",ES
+5184,"Tabanera de Cerrato",ES
+5185,"Tabanera de Valdavia",ES
+5186,"Támara de Campos",ES
+5187,"Tariego de Cerrato",ES
+5188,Torquemada,ES
+5189,Torremormojón,ES
+5190,Triollo,ES
+5191,"Valbuena de Pisuerga",ES
+5192,Valdeolmillos,ES
+5193,Valderrábano,ES
+5194,Valde-Ucieza,ES
+5195,"Valle de Cerrato",ES
+5196,"Valle del Retortillo",ES
+5197,"Velilla del Río Carrión",ES
+5198,"Venta de Baños",ES
+5199,Vertavillo,ES
+5200,"Vid de Ojeda, La",ES
+5201,"Villabasta de Valdavia",ES
+5202,Villacidaler,ES
+5203,Villaconancio,ES
+5204,Villada,ES
+5205,"Villaeles de Valdavia",ES
+5206,Villahán,ES
+5207,Villaherreros,ES
+5208,Villalaco,ES
+5209,"Villalba de Guardo",ES
+5210,"Villalcázar de Sirga",ES
+5211,Villalcón,ES
+5212,Villalobón,ES
+5213,"Villaluenga de la Vega",ES
+5214,"Villamartín de Campos",ES
+5215,Villamediana,ES
+5216,Villameriel,ES
+5217,Villamoronta,ES
+5218,"Villamuera de la Cueza",ES
+5219,"Villamuriel de Cerrato",ES
+5220,"Villanueva del Rebollar",ES
+5221,"Villanuño de Valdavia",ES
+5222,Villaprovedo,ES
+5223,"Villarmentero de Campos",ES
+5224,Villarrabé,ES
+5225,Villarramiel,ES
+5226,Villasarracino,ES
+5227,"Villasila de Valdavia",ES
+5228,Villaturde,ES
+5229,Villaumbrales,ES
+5230,Villaviudas,ES
+5231,"Villerías de Campos",ES
+5232,Villodre,ES
+5233,Villodrigo,ES
+5234,Villoldo,ES
+5235,"Villota del Páramo",ES
+5236,Villovieco,ES
+5237,Agaete,ES
+5238,Agüimes,ES
+5239,"Aldea de San Nicolás, La",ES
+5240,Antigua,ES
+5241,Arrecife,ES
+5242,Artenara,ES
+5243,Arucas,ES
+5244,Betancuria,ES
+5245,Firgas,ES
+5246,Gáldar,ES
+5247,Haría,ES
+5248,Ingenio,ES
+5249,Mogán,ES
+5250,"Moya (Las Palmas)",ES
+5251,"Oliva, La",ES
+5252,Pájara,ES
+5253,"Palmas de Gran Canaria, Las",ES
+5254,"Puerto del Rosario",ES
+5255,"San Bartolomé",ES
+5256,"San Bartolomé de Tirajana",ES
+5257,"Santa Brígida",ES
+5258,"Santa Lucía de Tirajana",ES
+5259,"Santa María de Guía de Gran Canaria",ES
+5260,Teguise,ES
+5261,Tejeda,ES
+5262,Telde,ES
+5263,Teror,ES
+5264,Tías,ES
+5265,Tinajo,ES
+5266,Tuineje,ES
+5267,Valleseco,ES
+5268,"Valsequillo de Gran Canaria",ES
+5269,"Vega de San Mateo",ES
+5270,Yaiza,ES
+5271,Agolada,ES
+5272,Arbo,ES
+5273,Baiona,ES
+5274,Barro,ES
+5275,Bueu,ES
+5276,"Caldas de Reis",ES
+5277,Cambados,ES
+5278,"Campo Lameiro",ES
+5279,Cangas,ES
+5280,"Cañiza, A",ES
+5281,Catoira,ES
+5282,Cerdedo,ES
+5283,Cotobade,ES
+5284,Covelo,ES
+5285,Crecente,ES
+5286,Cuntis,ES
+5287,Dozón,ES
+5288,"Estrada, A",ES
+5289,Forcarei,ES
+5290,"Fornelos de Montes",ES
+5291,Gondomar,ES
+5292,"Grove, O",ES
+5293,"Guarda, A",ES
+5294,"Illa de Arousa, A",ES
+5295,Lalín,ES
+5296,"Lama, A",ES
+5297,Marín,ES
+5298,Meaño,ES
+5299,Meis,ES
+5300,Moaña,ES
+5301,Mondariz,ES
+5302,Mondariz-Balneario,ES
+5303,Moraña,ES
+5304,Mos,ES
+5305,"Neves, As",ES
+5306,Nigrán,ES
+5307,Oia,ES
+5308,"Pazos de Borbén",ES
+5309,Poio,ES
+5310,"Ponte Caldelas",ES
+5311,Ponteareas,ES
+5312,Pontecesures,ES
+5313,Pontevedra,ES
+5314,"Porriño, O",ES
+5315,Portas,ES
+5316,Redondela,ES
+5317,Ribadumia,ES
+5318,Rodeiro,ES
+5319,"Rosal, O",ES
+5320,"Salceda de Caselas",ES
+5321,"Salvaterra de Miño",ES
+5322,Sanxenxo,ES
+5323,Silleda,ES
+5324,Soutomaior,ES
+5325,Tomiño,ES
+5326,Tui,ES
+5327,Valga,ES
+5328,Vigo,ES
+5329,"Vila de Cruces",ES
+5330,Vilaboa,ES
+5331,"Vilagarcía de Arousa",ES
+5332,"Vilanova de Arousa",ES
+5333,Abusejo,ES
+5334,Agallas,ES
+5335,"Ahigal de los Aceiteros",ES
+5336,"Ahigal de Villarino",ES
+5337,"Alameda de Gardón, La",ES
+5338,"Alamedilla, La",ES
+5339,Alaraz,ES
+5340,"Alba de Tormes",ES
+5341,"Alba de Yeltes",ES
+5342,"Alberca, La",ES
+5343,"Alberguería de Argañán, La",ES
+5344,Alconada,ES
+5345,"Aldea del Obispo",ES
+5346,Aldeacipreste,ES
+5347,"Aldeadávila de la Ribera",ES
+5348,Aldealengua,ES
+5349,"Aldeanueva de Figueroa",ES
+5350,"Aldeanueva de la Sierra",ES
+5351,Aldearrodrigo,ES
+5352,Aldearrubia,ES
+5353,"Aldeaseca de Alba",ES
+5354,"Aldeaseca de la Frontera",ES
+5355,Aldeatejada,ES
+5356,"Aldeavieja de Tormes",ES
+5357,"Aldehuela de la Bóveda",ES
+5358,"Aldehuela de Yeltes",ES
+5359,"Almenara de Tormes",ES
+5360,Almendra,ES
+5361,"Anaya de Alba",ES
+5362,"Añover de Tormes",ES
+5363,"Arabayona de Mógica",ES
+5364,Arapiles,ES
+5365,Arcediano,ES
+5366,"Arco, El",ES
+5367,Armenteros,ES
+5368,"Atalaya, La",ES
+5369,Babilafuente,ES
+5370,Bañobárez,ES
+5371,Barbadillo,ES
+5372,Barbalos,ES
+5373,Barceo,ES
+5374,Barruecopardo,ES
+5375,"Bastida, La",ES
+5376,Béjar,ES
+5377,Beleña,ES
+5378,Bermellar,ES
+5379,"Berrocal de Huebra",ES
+5380,"Berrocal de Salvatierra",ES
+5381,Boada,ES
+5382,"Bodón, El",ES
+5383,Bogajo,ES
+5384,"Bouza, La",ES
+5385,"Bóveda del Río Almar",ES
+5386,Brincones,ES
+5387,Buenamadre,ES
+5388,Buenavista,ES
+5389,"Cabaco, El",ES
+5390,"Cabeza de Béjar, La",ES
+5391,"Cabeza del Caballo",ES
+5392,"Cabezabellosa de la Calzada",ES
+5393,Cabrerizos,ES
+5394,Cabrillas,ES
+5395,"Calvarrasa de Abajo",ES
+5396,"Calvarrasa de Arriba",ES
+5397,"Calzada de Béjar, La",ES
+5398,"Calzada de Don Diego",ES
+5399,"Calzada de Valdunciel",ES
+5400,"Campillo de Azaba",ES
+5401,"Campo de Peñaranda, El",ES
+5402,Candelario,ES
+5403,"Canillas de Abajo",ES
+5404,Cantagallo,ES
+5405,Cantalapiedra,ES
+5406,Cantalpino,ES
+5407,Cantaracillo,ES
+5408,"Carbajosa de la Sagrada",ES
+5409,"Carpio de Azaba",ES
+5410,"Carrascal de Barregas",ES
+5411,"Carrascal del Obispo",ES
+5412,Casafranca,ES
+5413,"Casas del Conde, Las",ES
+5414,"Casillas de Flores",ES
+5415,"Castellanos de Moriscos",ES
+5416,"Castellanos de Villiquera",ES
+5417,"Castillejo de Martín Viejo",ES
+5418,Castraz,ES
+5419,Cepeda,ES
+5420,"Cereceda de la Sierra",ES
+5421,"Cerezal de Peñahorcada",ES
+5422,Cerralbo,ES
+5423,"Cerro, El",ES
+5424,"Cespedosa de Tormes",ES
+5425,"Chagarcía Medianero",ES
+5426,"Cilleros de la Bastida",ES
+5427,Cipérez,ES
+5428,"Ciudad Rodrigo",ES
+5429,"Coca de Alba",ES
+5430,"Colmenar de Montemayor",ES
+5431,Cordovilla,ES
+5432,Cristóbal,ES
+5433,"Cubo de Don Sancho, El",ES
+5434,"Dios le Guarde",ES
+5435,"Doñinos de Ledesma",ES
+5436,"Doñinos de Salamanca",ES
+5437,Ejeme,ES
+5438,"Encina de San Silvestre",ES
+5439,"Encina, La",ES
+5440,"Encinas de Abajo",ES
+5441,"Encinas de Arriba",ES
+5442,"Encinasola de los Comendadores",ES
+5443,Endrinal,ES
+5444,"Escurial de la Sierra",ES
+5445,Espadaña,ES
+5446,Espeja,ES
+5447,"Espino de la Orbada",ES
+5448,"Florida de Liébana",ES
+5449,Forfoleda,ES
+5450,"Frades de la Sierra",ES
+5451,"Fregeneda, La",ES
+5452,Fresnedoso,ES
+5453,"Fresno Alhándiga",ES
+5454,"Fuente de San Esteban, La",ES
+5455,Fuenteguinaldo,ES
+5456,Fuenteliante,ES
+5457,"Fuenterroble de Salvatierra",ES
+5458,"Fuentes de Béjar",ES
+5459,"Fuentes de Oñoro",ES
+5460,Gajates,ES
+5461,"Galindo y Perahuy",ES
+5462,Galinduste,ES
+5463,Galisancho,ES
+5464,"Gallegos de Argañán",ES
+5465,"Gallegos de Solmirón",ES
+5466,Garcibuey,ES
+5467,Garcihernández,ES
+5468,Garcirrey,ES
+5469,"Gejuelo del Barro",ES
+5470,Golpejas,ES
+5471,Gomecello,ES
+5472,Guadramiro,ES
+5473,"Guijo de Ávila",ES
+5474,Guijuelo,ES
+5475,"Herguijuela de Ciudad Rodrigo",ES
+5476,"Herguijuela de la Sierra",ES
+5477,"Herguijuela del Campo",ES
+5478,"Hinojosa de Duero",ES
+5479,"Horcajo de Montemayor",ES
+5480,"Horcajo Medianero",ES
+5481,"Hoya, La",ES
+5482,Huerta,ES
+5483,Iruelos,ES
+5484,"Ituero de Azaba",ES
+5485,Juzbado,ES
+5486,Lagunilla,ES
+5487,Larrodrigo,ES
+5488,Ledesma,ES
+5489,Ledrada,ES
+5490,"Linares de Riofrío",ES
+5491,Lumbrales,ES
+5492,Machacón,ES
+5493,Macotera,ES
+5494,Madroñal,ES
+5495,"Maíllo, El",ES
+5496,Malpartida,ES
+5497,"Mancera de Abajo",ES
+5498,"Manzano, El",ES
+5499,Martiago,ES
+5500,"Martín de Yeltes",ES
+5501,Martinamor,ES
+5502,Masueco,ES
+5503,"Mata de Ledesma, La",ES
+5504,"Matilla de los Caños del Río",ES
+5505,"Maya, La",ES
+5506,"Membribe de la Sierra",ES
+5507,Mieza,ES
+5508,"Milano, El",ES
+5509,"Miranda de Azán",ES
+5510,"Miranda del Castañar",ES
+5511,Mogarraz,ES
+5512,Molinillo,ES
+5513,"Monforte de la Sierra",ES
+5514,Monleón,ES
+5515,Monleras,ES
+5516,Monsagro,ES
+5517,Montejo,ES
+5518,"Montemayor del Río",ES
+5519,"Monterrubio de Armuña",ES
+5520,"Monterrubio de la Sierra",ES
+5521,Morasverdes,ES
+5522,Morille,ES
+5523,Moríñigo,ES
+5524,Moriscos,ES
+5525,Moronta,ES
+5526,Mozárbez,ES
+5527,"Narros de Matalayegua",ES
+5528,"Nava de Béjar",ES
+5529,"Nava de Francia",ES
+5530,"Nava de Sotrobal",ES
+5531,Navacarros,ES
+5532,Navales,ES
+5533,"Navalmoral de Béjar",ES
+5534,Navamorales,ES
+5535,"Navarredonda de la Rinconada",ES
+5536,Navasfrías,ES
+5537,"Negrilla de Palencia",ES
+5538,"Olmedo de Camaces",ES
+5539,"Orbada, La",ES
+5540,"Pajares de la Laguna",ES
+5541,"Palacios del Arzobispo",ES
+5542,Palaciosrubios,ES
+5543,"Palencia de Negrilla",ES
+5544,"Parada de Arriba",ES
+5545,"Parada de Rubiales",ES
+5546,"Paradinas de San Juan",ES
+5547,Pastores,ES
+5548,"Payo, El",ES
+5549,"Pedraza de Alba",ES
+5550,"Pedrosillo de Alba",ES
+5551,"Pedrosillo de los Aires",ES
+5552,"Pedrosillo el Ralo",ES
+5553,"Pedroso de la Armuña, El",ES
+5554,Pelabravo,ES
+5555,Pelarrodríguez,ES
+5556,Pelayos,ES
+5557,"Peña, La",ES
+5558,Peñacaballera,ES
+5559,Peñaparda,ES
+5560,"Peñaranda de Bracamonte",ES
+5561,Peñarandilla,ES
+5562,"Peralejos de Abajo",ES
+5563,"Peralejos de Arriba",ES
+5564,"Pereña de la Ribera",ES
+5565,Peromingo,ES
+5566,Pinedas,ES
+5567,"Pino de Tormes, El",ES
+5568,Pitiegua,ES
+5569,Pizarral,ES
+5570,"Poveda de las Cintas",ES
+5571,"Pozos de Hinojo",ES
+5572,"Puebla de Azaba",ES
+5573,"Puebla de San Medel",ES
+5574,"Puebla de Yeltes",ES
+5575,"Puente del Congosto",ES
+5576,Puertas,ES
+5577,"Puerto de Béjar",ES
+5578,"Puerto Seguro",ES
+5579,Rágama,ES
+5580,"Redonda, La",ES
+5581,Retortillo,ES
+5582,"Rinconada de la Sierra, La",ES
+5583,Robleda,ES
+5584,"Robliza de Cojos",ES
+5585,Rollán,ES
+5586,"Saelices el Chico",ES
+5587,"Sagrada, La",ES
+5588,"Sahugo, El",ES
+5589,Salamanca,ES
+5590,Saldeana,ES
+5591,Salmoral,ES
+5592,"Salvatierra de Tormes",ES
+5593,"San Cristóbal de la Cuesta",ES
+5594,"San Esteban de la Sierra",ES
+5595,"San Felices de los Gallegos",ES
+5596,"San Martín del Castañar",ES
+5597,"San Miguel de Valero",ES
+5598,"San Miguel del Robledo",ES
+5599,"San Morales",ES
+5600,"San Muñoz",ES
+5601,"San Pedro de Rozados",ES
+5602,"San Pedro del Valle",ES
+5603,"San Pelayo de Guareña",ES
+5604,"Sanchón de la Ribera",ES
+5605,"Sanchón de la Sagrada",ES
+5606,Sanchotello,ES
+5607,"Sancti-Spíritus (Salamanca)",ES
+5608,Sando,ES
+5609,"Santa María de Sando",ES
+5610,"Santa Marta de Tormes",ES
+5611,"Santiago de la Puebla",ES
+5612,"Santibáñez de Béjar",ES
+5613,"Santibáñez de la Sierra",ES
+5614,Santiz,ES
+5615,"Santos, Los",ES
+5616,"Sardón de los Frailes",ES
+5617,Saucelle,ES
+5618,Sepulcro-Hilario,ES
+5619,Sequeros,ES
+5620,"Serradilla del Arroyo",ES
+5621,"Serradilla del Llano",ES
+5622,"Sierpe, La",ES
+5623,"Sieteiglesias de Tormes",ES
+5624,Sobradillo,ES
+5625,Sorihuela,ES
+5626,Sotoserrano,ES
+5627,"Tabera de Abajo",ES
+5628,"Tala, La",ES
+5629,Tamames,ES
+5630,"Tarazona de Guareña",ES
+5631,Tardáguila,ES
+5632,"Tejado, El",ES
+5633,"Tejeda y Segoyuela",ES
+5634,Tenebrón,ES
+5635,Terradillos,ES
+5636,Topas,ES
+5637,Tordillos,ES
+5638,"Tornadizo, El",ES
+5639,Torresmenudas,ES
+5640,Trabanca,ES
+5641,"Tremedal de Tormes",ES
+5642,Valdecarros,ES
+5643,"Valdefuentes de Sangusín",ES
+5644,Valdehijaderos,ES
+5645,Valdelacasa,ES
+5646,Valdelageve,ES
+5647,Valdelosa,ES
+5648,Valdemierque,ES
+5649,Valderrodrigo,ES
+5650,Valdunciel,ES
+5651,Valero,ES
+5652,"Vallejera de Riofrío",ES
+5653,Valsalabroso,ES
+5654,"Valverde de Valdelacasa",ES
+5655,Valverdón,ES
+5656,Vecinos,ES
+5657,"Vega de Tirados",ES
+5658,"Veguillas, Las",ES
+5659,"Vellés, La",ES
+5660,"Ventosa del Río Almar",ES
+5661,"Vídola, La",ES
+5662,Villaflores,ES
+5663,"Villagonzalo de Tormes",ES
+5664,"Villalba de los Llanos",ES
+5665,Villamayor,ES
+5666,"Villanueva del Conde",ES
+5667,"Villar de Argañán",ES
+5668,"Villar de Ciervo",ES
+5669,"Villar de Gallimazo",ES
+5670,"Villar de la Yegua",ES
+5671,"Villar de Peralonso",ES
+5672,"Villar de Samaniego",ES
+5673,"Villares de la Reina",ES
+5674,"Villares de Yeltes",ES
+5675,"Villarino de los Aires",ES
+5676,Villarmayor,ES
+5677,Villarmuerto,ES
+5678,Villasbuenas,ES
+5679,Villasdardo,ES
+5680,"Villaseco de los Gamitos",ES
+5681,"Villaseco de los Reyes",ES
+5682,Villasrubias,ES
+5683,"Villaverde de Guareña",ES
+5684,"Villavieja de Yeltes",ES
+5685,Villoria,ES
+5686,Villoruela,ES
+5687,Vilvestre,ES
+5688,Vitigudino,ES
+5689,"Yecla de Yeltes",ES
+5690,Zamarra,ES
+5691,Zamayón,ES
+5692,Zarapicos,ES
+5693,"Zarza de Pumareda, La",ES
+5694,"Zorita de la Frontera",ES
+5695,Adeje,ES
+5696,Agulo,ES
+5697,Alajeró,ES
+5698,Arafo,ES
+5699,Arico,ES
+5700,Arona,ES
+5701,Barlovento,ES
+5702,"Breña Alta",ES
+5703,"Breña Baja",ES
+5704,"Buenavista del Norte",ES
+5705,Candelaria,ES
+5706,Fasnia,ES
+5707,Frontera,ES
+5708,"Fuencaliente de la Palma",ES
+5709,Garachico,ES
+5710,Garafía,ES
+5711,"Granadilla de Abona",ES
+5712,"Guancha, La",ES
+5713,"Guía de Isora",ES
+5714,Güímar,ES
+5715,Hermigua,ES
+5716,"Icod de los Vinos",ES
+5717,"Llanos de Aridane, Los",ES
+5718,"Matanza de Acentejo, La",ES
+5719,"Orotava, La",ES
+5720,"Paso, El",ES
+5721,"Pinar de El Hierro, El",ES
+5722,"Puerto de la Cruz",ES
+5723,Puntagorda,ES
+5724,Puntallana,ES
+5725,"Realejos, Los",ES
+5726,"Rosario, El",ES
+5727,"San Andrés y Sauces",ES
+5728,"San Cristóbal de La Laguna",ES
+5729,"San Juan de la Rambla",ES
+5730,"San Miguel de Abona",ES
+5731,"San Sebastián de la Gomera",ES
+5732,"Santa Cruz de la Palma",ES
+5733,"Santa Cruz de Tenerife",ES
+5734,"Santa Úrsula",ES
+5735,"Santiago del Teide",ES
+5736,"Sauzal, El",ES
+5737,"Silos, Los",ES
+5738,Tacoronte,ES
+5739,"Tanque, El",ES
+5740,Tazacorte,ES
+5741,Tegueste,ES
+5742,Tijarafe,ES
+5743,"Valle Gran Rey",ES
+5744,Vallehermoso,ES
+5745,Valverde,ES
+5746,"Victoria de Acentejo, La",ES
+5747,Vilaflor,ES
+5748,"Villa de Mazo",ES
+5749,"Alfoz de Lloredo",ES
+5750,Ampuero,ES
+5751,Anievas,ES
+5752,"Arenas de Iguña",ES
+5753,Argoños,ES
+5754,Arnuero,ES
+5755,Arredondo,ES
+5756,"Astillero, El",ES
+5757,"Bárcena de Cicero",ES
+5758,"Bárcena de Pie de Concha",ES
+5759,Bareyo,ES
+5760,"Cabezón de la Sal",ES
+5761,"Cabezón de Liébana",ES
+5762,Cabuérniga,ES
+5763,Camaleño,ES
+5764,Camargo,ES
+5765,"Campoo de Enmedio",ES
+5766,"Campoo de Yuso",ES
+5767,Cartes,ES
+5768,Castañeda,ES
+5769,Castro-Urdiales,ES
+5770,"Cieza (Murcia)",ES
+5771,"Cillorigo de Liébana",ES
+5772,Colindres,ES
+5773,Comillas,ES
+5774,"Corrales de Buelna, Los",ES
+5775,"Corvera de Toranzo",ES
+5776,Entrambasaguas,ES
+5777,Escalante,ES
+5778,Guriezo,ES
+5779,"Hazas de Cesto",ES
+5780,"Hermandad de Campoo de Suso",ES
+5781,Herrerías,ES
+5782,Lamasón,ES
+5783,Laredo,ES
+5784,Liendo,ES
+5785,Liérganes,ES
+5786,Limpias,ES
+5787,Luena,ES
+5788,"Marina de Cudeyo",ES
+5789,Mazcuerras,ES
+5790,"Medio Cudeyo",ES
+5791,Meruelo,ES
+5792,Miengo,ES
+5793,Miera,ES
+5794,Molledo,ES
+5795,Noja,ES
+5796,Penagos,ES
+5797,Peñarrubia,ES
+5798,Pesaguero,ES
+5799,Pesquera,ES
+5800,Piélagos,ES
+5801,Polaciones,ES
+5802,Polanco,ES
+5803,Potes,ES
+5804,"Puente Viesgo",ES
+5805,"Ramales de la Victoria",ES
+5806,Rasines,ES
+5807,Reinosa,ES
+5808,Reocín,ES
+5809,"Ribamontán al Mar",ES
+5810,"Ribamontán al Monte",ES
+5811,Rionansa,ES
+5812,Riotuerto,ES
+5813,"Rozas de Valdearroyo, Las",ES
+5814,Ruente,ES
+5815,Ruesga,ES
+5816,Ruiloba,ES
+5817,"San Felices de Buelna",ES
+5818,"San Miguel de Aguayo",ES
+5819,"San Pedro del Romeral",ES
+5820,"San Roque de Riomiera",ES
+5821,"San Vicente de la Barquera",ES
+5822,"Santa Cruz de Bezana",ES
+5823,"Santa María de Cayón",ES
+5824,Santander,ES
+5825,"Santillana del Mar",ES
+5826,"Santiurde de Reinosa",ES
+5827,"Santiurde de Toranzo",ES
+5828,Santoña,ES
+5829,Saro,ES
+5830,Selaya,ES
+5831,Soba,ES
+5832,Solórzano,ES
+5833,Suances,ES
+5834,"Tojos, Los",ES
+5835,Torrelavega,ES
+5836,Tresviso,ES
+5837,Tudanca,ES
+5838,Udías,ES
+5839,"Val de San Vicente",ES
+5840,Valdáliga,ES
+5841,Valdeolea,ES
+5842,"Valdeprado del Río",ES
+5843,Valderredible,ES
+5844,"Valle de Villaverde",ES
+5845,"Vega de Liébana",ES
+5846,"Vega de Pas",ES
+5847,Villacarriedo,ES
+5848,"Villaescusa (Cantabria)",ES
+5849,Villafufre,ES
+5850,Voto,ES
+5851,Abades,ES
+5852,"Adrada de Pirón",ES
+5853,Adrados,ES
+5854,Aguilafuente,ES
+5855,"Alconada de Maderuelo",ES
+5856,"Aldea Real",ES
+5857,Aldealcorvo,ES
+5858,"Aldealengua de Pedraza",ES
+5859,"Aldealengua de Santa María",ES
+5860,"Aldeanueva de la Serrezuela",ES
+5861,"Aldeanueva del Codonal",ES
+5862,Aldeasoña,ES
+5863,Aldehorno,ES
+5864,"Aldehuela del Codonal",ES
+5865,Aldeonte,ES
+5866,Anaya,ES
+5867,Añe,ES
+5868,Arahuetes,ES
+5869,Arcones,ES
+5870,"Arevalillo de Cega",ES
+5871,Armuña,ES
+5872,Ayllón,ES
+5873,Barbolla,ES
+5874,Basardilla,ES
+5875,Bercial,ES
+5876,Bercimuel,ES
+5877,Bernardos,ES
+5878,"Bernuy de Porreros",ES
+5879,Boceguillas,ES
+5880,Brieva,ES
+5881,Caballar,ES
+5882,"Cabañas de Polendos",ES
+5883,Cabezuela,ES
+5884,"Calabazas de Fuentidueña",ES
+5885,"Campo de San Pedro",ES
+5886,Cantalejo,ES
+5887,Cantimpalos,ES
+5888,"Carbonero el Mayor",ES
+5889,"Carrascal del Río",ES
+5890,Casla,ES
+5891,"Castillejo de Mesleón",ES
+5892,"Castro de Fuentidueña",ES
+5893,Castrojimeno,ES
+5894,"Castroserna de Abajo",ES
+5895,Castroserracín,ES
+5896,"Cedillo de la Torre",ES
+5897,"Cerezo de Abajo",ES
+5898,"Cerezo de Arriba",ES
+5899,Chañe,ES
+5900,"Cilleruelo de San Mamés",ES
+5901,"Cobos de Fuentidueña",ES
+5902,Coca,ES
+5903,Codorniz,ES
+5904,"Collado Hermoso",ES
+5905,"Condado de Castilnovo",ES
+5906,"Corral de Ayllón",ES
+5907,"Cozuelos de Fuentidueña",ES
+5908,Cubillo,ES
+5909,Cuéllar,ES
+5910,"Cuevas de Provanco",ES
+5911,"Domingo García",ES
+5912,Donhierro,ES
+5913,Duruelo,ES
+5914,Encinas,ES
+5915,Encinillas,ES
+5916,"Escalona del Prado",ES
+5917,"Escarabajosa de Cabezas",ES
+5918,"Escobar de Polendos",ES
+5919,"Espinar, El",ES
+5920,Espirdo,ES
+5921,"Fresneda de Cuéllar",ES
+5922,"Fresno de Cantespino",ES
+5923,"Fresno de la Fuente",ES
+5924,Frumales,ES
+5925,"Fuente de Santa Cruz",ES
+5926,"Fuente el Olmo de Fuentidueña",ES
+5927,"Fuente el Olmo de Íscar",ES
+5928,Fuentepelayo,ES
+5929,Fuentepiñel,ES
+5930,Fuenterrebollo,ES
+5931,"Fuentesaúco de Fuentidueña",ES
+5932,Fuentesoto,ES
+5933,Fuentidueña,ES
+5934,Gallegos,ES
+5935,Garcillán,ES
+5936,Gomezserracín,ES
+5937,Grajera,ES
+5938,"Honrubia de la Cuesta",ES
+5939,Hontalbilla,ES
+5940,"Hontanares de Eresma",ES
+5941,"Huertos, Los",ES
+5942,"Ituero y Lama",ES
+5943,"Juarros de Riomoros",ES
+5944,"Juarros de Voltoya",ES
+5945,Labajos,ES
+5946,"Laguna de Contreras",ES
+5947,Languilla,ES
+5948,"Lastras de Cuéllar",ES
+5949,"Lastras del Pozo",ES
+5950,"Lastrilla, La",ES
+5951,"Losa, La",ES
+5952,Maderuelo,ES
+5953,Marazoleja,ES
+5954,Marazuela,ES
+5955,"Martín Miguel",ES
+5956,"Martín Muñoz de la Dehesa",ES
+5957,"Martín Muñoz de las Posadas",ES
+5958,Marugán,ES
+5959,"Mata de Cuéllar",ES
+5960,Matabuena,ES
+5961,"Matilla, La",ES
+5962,"Melque de Cercos",ES
+5963,"Membibre de la Hoz",ES
+5964,Migueláñez,ES
+5965,"Montejo de Arévalo",ES
+5966,"Montejo de la Vega de la Serrezuela",ES
+5967,Monterrubio,ES
+5968,"Moral de Hornuez",ES
+5969,Mozoncillo,ES
+5970,Muñopedro,ES
+5971,Muñoveros,ES
+5972,"Nava de la Asunción",ES
+5973,Navafría,ES
+5974,Navalilla,ES
+5975,Navalmanzano,ES
+5976,"Navares de Ayuso",ES
+5977,"Navares de Enmedio",ES
+5978,"Navares de las Cuevas",ES
+5979,"Navas de Oro",ES
+5980,"Navas de Riofrío",ES
+5981,"Navas de San Antonio",ES
+5982,Nieva,ES
+5983,Olombrada,ES
+5984,Orejana,ES
+5985,"Ortigosa de Pestaño",ES
+5986,"Ortigosa del Monte",ES
+5987,"Otero de Herreros",ES
+5988,Pajarejos,ES
+5989,"Palazuelos de Eresma",ES
+5990,Pedraza,ES
+5991,"Pelayos del Arroyo",ES
+5992,Perosillo,ES
+5993,Pinarejos,ES
+5994,Pinarnegrillo,ES
+5995,Pradales,ES
+5996,Prádena,ES
+5997,"Puebla de Pedraza",ES
+5998,Rapariegos,ES
+5999,"Real Sitio de San Ildefonso",ES
+6000,Rebollo,ES
+6001,Remondo,ES
+6002,"Riaguas de San Bartolomé",ES
+6003,Riaza,ES
+6004,Ribota,ES
+6005,"Riofrío de Riaza",ES
+6006,"Roda de Eresma",ES
+6007,Sacramenia,ES
+6008,Samboal,ES
+6009,"San Cristóbal de Cuéllar",ES
+6010,"San Cristóbal de la Vega",ES
+6011,"San Cristóbal de Segovia",ES
+6012,"San Martín y Mudrián",ES
+6013,"San Miguel de Bernuy",ES
+6014,"San Pedro de Gaíllos",ES
+6015,Sanchonuño,ES
+6016,Sangarcía,ES
+6017,"Santa María la Real de Nieva",ES
+6018,"Santa Marta del Cerro",ES
+6019,"Santiuste de Pedraza",ES
+6020,"Santiuste de San Juan Bautista",ES
+6021,"Santo Domingo de Pirón",ES
+6022,"Santo Tomé del Puerto",ES
+6023,"Sauquillo de Cabezas",ES
+6024,Sebúlcor,ES
+6025,Segovia,ES
+6026,Sepúlveda,ES
+6027,"Sequera de Fresno",ES
+6028,Sotillo,ES
+6029,Sotosalbos,ES
+6030,"Tabanera la Luenga",ES
+6031,Tolocirio,ES
+6032,"Torre Val de San Pedro",ES
+6033,Torreadrada,ES
+6034,Torrecaballeros,ES
+6035,"Torrecilla del Pinar",ES
+6036,Torreiglesias,ES
+6037,Trescasas,ES
+6038,Turégano,ES
+6039,Urueñas,ES
+6040,Valdeprados,ES
+6041,"Valdevacas de Montejo",ES
+6042,"Valdevacas y Guijar",ES
+6043,"Valle de Tabladillo",ES
+6044,Vallelado,ES
+6045,"Valleruela de Pedraza",ES
+6046,"Valleruela de Sepúlveda",ES
+6047,Valseca,ES
+6048,Valtiendas,ES
+6049,"Valverde del Majano",ES
+6050,Veganzones,ES
+6051,"Vegas de Matute",ES
+6052,"Ventosilla y Tejadilla",ES
+6053,Villacastín,ES
+6054,"Villaverde de Íscar",ES
+6055,"Villaverde de Montejo",ES
+6056,Villeguillo,ES
+6057,"Yanguas de Eresma",ES
+6058,"Zarzuela del Monte",ES
+6059,"Zarzuela del Pinar",ES
+6060,Aguadulce,ES
+6061,Alanís,ES
+6062,"Albaida del Aljarafe",ES
+6063,"Alcalá de Guadaíra",ES
+6064,"Alcalá del Río",ES
+6065,"Alcolea del Río",ES
+6066,"Algaba, La",ES
+6067,Algámitas,ES
+6068,"Almadén de la Plata",ES
+6069,Almensilla,ES
+6070,Arahal,ES
+6071,Aznalcázar,ES
+6072,Aznalcóllar,ES
+6073,Badolatosa,ES
+6074,Benacazón,ES
+6075,"Bollullos de la Mitación",ES
+6076,Bormujos,ES
+6077,Brenes,ES
+6078,Burguillos,ES
+6079,"Cabezas de San Juan, Las",ES
+6080,Camas,ES
+6081,"Campana, La",ES
+6082,Cantillana,ES
+6083,"Cañada Rosal",ES
+6084,Carmona,ES
+6085,"Carrión de los Céspedes",ES
+6086,Casariche,ES
+6087,"Castilblanco de los Arroyos",ES
+6088,"Castilleja de Guzmán",ES
+6089,"Castilleja de la Cuesta",ES
+6090,"Castilleja del Campo",ES
+6091,"Castillo de las Guardas, El",ES
+6092,"Cazalla de la Sierra",ES
+6093,Constantina,ES
+6094,"Coria del Río",ES
+6095,Coripe,ES
+6096,"Coronil, El",ES
+6097,"Corrales, Los",ES
+6098,"Cuervo de Sevilla, El",ES
+6099,"Dos Hermanas",ES
+6100,Écija,ES
+6101,Espartinas,ES
+6102,Estepa,ES
+6103,"Fuentes de Andalucía",ES
+6104,"Garrobo, El",ES
+6105,Gelves,ES
+6106,Gerena,ES
+6107,Gilena,ES
+6108,Gines,ES
+6109,Guadalcanal,ES
+6110,Guillena,ES
+6111,Herrera,ES
+6112,"Huévar del Aljarafe",ES
+6113,"Isla Mayor",ES
+6114,"Lantejuela, La",ES
+6115,Lebrija,ES
+6116,"Lora de Estepa",ES
+6117,"Lora del Río",ES
+6118,"Luisiana, La",ES
+6119,"Madroño, El",ES
+6120,"Mairena del Alcor",ES
+6121,"Mairena del Aljarafe",ES
+6122,Marchena,ES
+6123,Marinaleda,ES
+6124,"Martín de la Jara",ES
+6125,"Molares, Los",ES
+6126,Montellano,ES
+6127,"Morón de la Frontera",ES
+6128,"Navas de la Concepción, Las",ES
+6129,Olivares,ES
+6130,Osuna,ES
+6131,"Palacios y Villafranca, Los",ES
+6132,"Palomares del Río",ES
+6133,Paradas,ES
+6134,Pedrera,ES
+6135,"Pedroso, El",ES
+6136,Peñaflor,ES
+6137,Pilas,ES
+6138,Pruna,ES
+6139,"Puebla de Cazalla, La",ES
+6140,"Puebla de los Infantes, La",ES
+6141,"Puebla del Río, La",ES
+6142,"Real de la Jara, El",ES
+6143,"Rinconada, La",ES
+6144,"Roda de Andalucía, La",ES
+6145,"Ronquillo, El",ES
+6146,"Rubio, El",ES
+6147,Salteras,ES
+6148,"San Juan de Aznalfarache",ES
+6149,"San Nicolás del Puerto",ES
+6150,"Sanlúcar la Mayor",ES
+6151,Santiponce,ES
+6152,"Saucejo, El",ES
+6153,Sevilla,ES
+6154,Tocina,ES
+6155,Tomares,ES
+6156,Umbrete,ES
+6157,Utrera,ES
+6158,"Valencina de la Concepción",ES
+6159,"Villamanrique de la Condesa",ES
+6160,"Villanueva de San Juan",ES
+6161,"Villanueva del Ariscal",ES
+6162,"Villanueva del Río y Minas",ES
+6163,"Villaverde del Río",ES
+6164,"Viso del Alcor, El",ES
+6165,Abejar,ES
+6166,Adradas,ES
+6167,Ágreda,ES
+6168,Alconaba,ES
+6169,"Alcubilla de Avellaneda",ES
+6170,"Alcubilla de las Peñas",ES
+6171,Aldealafuente,ES
+6172,Aldealices,ES
+6173,Aldealpozo,ES
+6174,Aldealseñor,ES
+6175,"Aldehuela de Periáñez",ES
+6176,"Aldehuelas, Las",ES
+6177,Alentisque,ES
+6178,Aliud,ES
+6179,Almajano,ES
+6180,Almaluez,ES
+6181,Almarza,ES
+6182,Almazán,ES
+6183,Almazul,ES
+6184,"Almenar de Soria",ES
+6185,Alpanseque,ES
+6186,Arancón,ES
+6187,"Arcos de Jalón",ES
+6188,Arenillas,ES
+6189,"Arévalo de la Sierra",ES
+6190,"Ausejo de la Sierra",ES
+6191,Baraona,ES
+6192,Barca,ES
+6193,Barcones,ES
+6194,"Bayubas de Abajo",ES
+6195,"Bayubas de Arriba",ES
+6196,Beratón,ES
+6197,"Berlanga de Duero",ES
+6198,Blacos,ES
+6199,Bliecos,ES
+6200,Borjabad,ES
+6201,Borobia,ES
+6202,Buberos,ES
+6203,Buitrago,ES
+6204,"Burgo de Osma-Ciudad de Osma",ES
+6205,"Cabrejas del Campo",ES
+6206,"Cabrejas del Pinar",ES
+6207,Calatañazor,ES
+6208,Caltojar,ES
+6209,Candilichera,ES
+6210,Cañamaque,ES
+6211,Carabantes,ES
+6212,Caracena,ES
+6213,"Carrascosa de Abajo",ES
+6214,"Carrascosa de la Sierra",ES
+6215,Casarejos,ES
+6216,"Castilfrío de la Sierra",ES
+6217,"Castillejo de Robledo",ES
+6218,Castilruiz,ES
+6219,"Centenera de Andaluz",ES
+6220,Cerbón,ES
+6221,Cidones,ES
+6222,Cigudosa,ES
+6223,Cihuela,ES
+6224,Ciria,ES
+6225,"Cirujales del Río",ES
+6226,Coscurita,ES
+6227,Covaleda,ES
+6228,Cubilla,ES
+6229,"Cubo de la Solana",ES
+6230,"Cueva de Ágreda",ES
+6231,Dévanos,ES
+6232,Deza,ES
+6233,"Duruelo de la Sierra",ES
+6234,"Escobosa de Almazán",ES
+6235,"Espeja de San Marcelino",ES
+6236,Espejón,ES
+6237,"Estepa de San Juan",ES
+6238,"Frechilla de Almazán",ES
+6239,"Fresno de Caracena",ES
+6240,Fuentearmegil,ES
+6241,Fuentecambrón,ES
+6242,Fuentecantos,ES
+6243,Fuentelmonge,ES
+6244,"Fuentelsaz de Soria",ES
+6245,Fuentepinilla,ES
+6246,"Fuentes de Magaña",ES
+6247,Fuentestrún,ES
+6248,Garray,ES
+6249,Golmayo,ES
+6250,Gómara,ES
+6251,Gormaz,ES
+6252,"Herrera de Soria",ES
+6253,"Hinojosa del Campo",ES
+6254,"Langa de Duero",ES
+6255,Liceras,ES
+6256,"Losilla, La",ES
+6257,Magaña,ES
+6258,Maján,ES
+6259,Matalebreras,ES
+6260,"Matamala de Almazán",ES
+6261,Medinaceli,ES
+6262,"Miño de Medinaceli",ES
+6263,"Miño de San Esteban",ES
+6264,"Molinos de Duero",ES
+6265,Momblona,ES
+6266,"Monteagudo de las Vicarías",ES
+6267,"Montejo de Tiermes",ES
+6268,"Montenegro de Cameros",ES
+6269,"Morón de Almazán",ES
+6270,"Muriel de la Fuente",ES
+6271,"Muriel Viejo",ES
+6272,"Nafría de Ucero",ES
+6273,Narros,ES
+6274,Navaleno,ES
+6275,Nepas,ES
+6276,Nolay,ES
+6277,Noviercas,ES
+6278,Ólvega,ES
+6279,Oncala,ES
+6280,"Pinilla del Campo",ES
+6281,"Portillo de Soria",ES
+6282,"Póveda de Soria, La",ES
+6283,Pozalmuro,ES
+6284,"Quintana Redonda",ES
+6285,"Quintanas de Gormaz",ES
+6286,Quiñonería,ES
+6287,"Rábanos, Los",ES
+6288,"Rebollar (Soria)",ES
+6289,Recuerda,ES
+6290,Rello,ES
+6291,Renieblas,ES
+6292,"Retortillo de Soria",ES
+6293,Reznos,ES
+6294,"Riba de Escalote, La",ES
+6295,"Rioseco de Soria",ES
+6296,Rollamienta,ES
+6297,"Royo, El",ES
+6298,Salduero,ES
+6299,"San Esteban de Gormaz",ES
+6300,"San Felices",ES
+6301,"San Leonardo de Yagüe",ES
+6302,"San Pedro Manrique",ES
+6303,"Santa Cruz de Yanguas",ES
+6304,"Santa María de Huerta",ES
+6305,"Santa María de las Hoyas",ES
+6306,"Serón de Nágima",ES
+6307,Soliedra,ES
+6308,Soria,ES
+6309,"Sotillo del Rincón",ES
+6310,Suellacabras,ES
+6311,Tajahuerce,ES
+6312,Tajueco,ES
+6313,Talveila,ES
+6314,Tardelcuende,ES
+6315,Taroda,ES
+6316,Tejado,ES
+6317,Torlengua,ES
+6318,Torreblacos,ES
+6319,"Torrubia de Soria",ES
+6320,Trévago,ES
+6321,Ucero,ES
+6322,Vadillo,ES
+6323,"Valdeavellano de Tera",ES
+6324,Valdegeña,ES
+6325,"Valdelagua del Cerro",ES
+6326,Valdemaluque,ES
+6327,Valdenebro,ES
+6328,Valdeprado,ES
+6329,Valderrodilla,ES
+6330,Valtajeros,ES
+6331,Velamazán,ES
+6332,"Velilla de la Sierra",ES
+6333,"Velilla de los Ajos",ES
+6334,"Viana de Duero",ES
+6335,Villaciervos,ES
+6336,"Villanueva de Gormaz",ES
+6337,"Villar del Ala",ES
+6338,"Villar del Campo",ES
+6339,"Villar del Río",ES
+6340,"Villares de Soria, Los",ES
+6341,Villasayas,ES
+6342,"Villaseca de Arciel",ES
+6343,Vinuesa,ES
+6344,Vizmanos,ES
+6345,Vozmediano,ES
+6346,Yanguas,ES
+6347,Yelo,ES
+6348,Aiguamúrcia,ES
+6349,Albinyana,ES
+6350,"Albiol, L'",ES
+6351,Alcanar,ES
+6352,Alcover,ES
+6353,"Aldea, L'",ES
+6354,Aldover,ES
+6355,"Aleixar, L'",ES
+6356,"Alfara de Carles",ES
+6357,Alforja,ES
+6358,Alió,ES
+6359,Almoster,ES
+6360,Altafulla,ES
+6361,"Ametlla de Mar, L'",ES
+6362,"Ampolla, L'",ES
+6363,Amposta,ES
+6364,"Arboç, L'",ES
+6365,Arbolí,ES
+6366,"Argentera, L'",ES
+6367,Arnes,ES
+6368,Ascó,ES
+6369,"Banyeres del Penedès",ES
+6370,"Barberà de la Conca",ES
+6371,Batea,ES
+6372,"Bellmunt del Priorat",ES
+6373,Bellvei,ES
+6374,Benifallet,ES
+6375,Benissanet,ES
+6376,"Bisbal de Falset, La",ES
+6377,"Bisbal del Penedès, La",ES
+6378,Blancafort,ES
+6379,Bonastre,ES
+6380,"Borges del Camp, Les",ES
+6381,Bot,ES
+6382,Botarell,ES
+6383,Bràfim,ES
+6384,Cabacés,ES
+6385,"Cabra del Camp",ES
+6386,Calafell,ES
+6387,Camarles,ES
+6388,Cambrils,ES
+6389,"Canonja, La",ES
+6390,Capafonts,ES
+6391,Capçanes,ES
+6392,Caseres,ES
+6393,"Castellvell del Camp",ES
+6394,"Catllar, El",ES
+6395,Colldejou,ES
+6396,Conesa,ES
+6397,Constantí,ES
+6398,"Corbera d'Ebre",ES
+6399,"Cornudella de Montsant",ES
+6400,Creixell,ES
+6401,Cunit,ES
+6402,Deltebre,ES
+6403,Duesaigües,ES
+6404,"Espluga de Francolí, L'",ES
+6405,Falset,ES
+6406,"Fatarella, La",ES
+6407,"Febró, La",ES
+6408,"Figuera, La",ES
+6409,"Figuerola del Camp",ES
+6410,Flix,ES
+6411,Forès,ES
+6412,Freginals,ES
+6413,"Galera, La",ES
+6414,Gandesa,ES
+6415,Garcia,ES
+6416,"Garidells, Els",ES
+6417,Ginestar,ES
+6418,Godall,ES
+6419,Gratallops,ES
+6420,"Guiamets, Els",ES
+6421,"Horta de Sant Joan",ES
+6422,"Lloar, El",ES
+6423,Llorac,ES
+6424,"Llorenç del Penedès",ES
+6425,Marçà,ES
+6426,Margalef,ES
+6427,"Mas de Barberans",ES
+6428,Masdenverge,ES
+6429,Masllorenç,ES
+6430,"Masó, La",ES
+6431,Maspujols,ES
+6432,"Masroig, El",ES
+6433,"Milà, El",ES
+6434,Miravet,ES
+6435,"El Molar (Tarragona)",ES
+6436,Montblanc,ES
+6437,"Montbrió del Camp",ES
+6438,Montferri,ES
+6439,"Montmell, El",ES
+6440,Mont-ral,ES
+6441,"Mont-roig del Camp",ES
+6442,"Móra d'Ebre",ES
+6443,"Móra la Nova",ES
+6444,"Morell, El",ES
+6445,"Morera de Montsant, La",ES
+6446,"Nou de Gaià, La",ES
+6447,Nulles,ES
+6448,"Pallaresos, Els",ES
+6449,"Palma d'Ebre, La",ES
+6450,"Passanant i Belltall",ES
+6451,Paüls,ES
+6452,Perafort,ES
+6453,"Perelló, El",ES
+6454,"Piles, Les",ES
+6455,"Pinell de Brai, El",ES
+6456,Pira,ES
+6457,"Pla de Santa Maria, El",ES
+6458,"Pobla de Mafumet, La",ES
+6459,"Pobla de Massaluca, La",ES
+6460,"Pobla de Montornès, La",ES
+6461,Poboleda,ES
+6462,"Pont d'Armentera, El",ES
+6463,Pontils,ES
+6464,Porrera,ES
+6465,"Pradell de la Teixeta",ES
+6466,Prades,ES
+6467,"Prat de Comte",ES
+6468,Pratdip,ES
+6469,Puigpelat,ES
+6470,Querol,ES
+6471,Rasquera,ES
+6472,Renau,ES
+6473,Reus,ES
+6474,"Riba, La",ES
+6475,"Riba-roja d'Ebre",ES
+6476,"Riera de Gaià, La",ES
+6477,Riudecanyes,ES
+6478,Riudecols,ES
+6479,Riudoms,ES
+6480,"Rocafort de Queralt",ES
+6481,"Roda de Berà",ES
+6482,Rodonyà,ES
+6483,Roquetes,ES
+6484,"Rourell, El",ES
+6485,Salomó,ES
+6486,Salou,ES
+6487,"Sant Carles de la Ràpita",ES
+6488,"Sant Jaume dels Domenys",ES
+6489,"Sant Jaume d'Enveja",ES
+6490,"Santa Bàrbara",ES
+6491,"Santa Coloma de Queralt",ES
+6492,"Santa Oliva",ES
+6493,Sarral,ES
+6494,"Savallà del Comtat",ES
+6495,"Secuita, La",ES
+6496,"Selva del Camp, La",ES
+6497,Senan,ES
+6498,"Sénia, La",ES
+6499,Solivella,ES
+6500,Tarragona,ES
+6501,Tivenys,ES
+6502,Tivissa,ES
+6503,"Torre de Fontaubella, La",ES
+6504,"Torre de l'Espanyol, La",ES
+6505,Torredembarra,ES
+6506,"Torroja del Priorat",ES
+6507,Tortosa,ES
+6508,Ulldecona,ES
+6509,Ulldemolins,ES
+6510,Vallclara,ES
+6511,"Vallfogona de Riucorb",ES
+6512,Vallmoll,ES
+6513,Valls,ES
+6514,"Vandellòs i l'Hospitalet de l'Infant",ES
+6515,"Vendrell, El",ES
+6516,"Vespella de Gaià",ES
+6517,Vilabella,ES
+6518,"Vilalba dels Arcs",ES
+6519,"Vilallonga del Camp",ES
+6520,"Vilanova de Prades",ES
+6521,"Vilanova d'Escornalbou",ES
+6522,Vilaplana,ES
+6523,Vila-rodona,ES
+6524,Vila-seca,ES
+6525,Vilaverd,ES
+6526,"Vilella Alta, La",ES
+6527,"Vilella Baixa, La",ES
+6528,"Vimbodí i Poblet",ES
+6529,Vinebre,ES
+6530,"Vinyols i els Arcs",ES
+6531,Xerta,ES
+6532,Ababuj,ES
+6533,Abejuela,ES
+6534,Aguatón,ES
+6535,Aguaviva,ES
+6536,"Aguilar del Alfambra",ES
+6537,Alacón,ES
+6538,Alba,ES
+6539,"Albalate del Arzobispo",ES
+6540,Albarracín,ES
+6541,Albentosa,ES
+6542,Alcaine,ES
+6543,"Alcalá de la Selva",ES
+6544,Alcañiz,ES
+6545,Alcorisa,ES
+6546,Alfambra,ES
+6547,Aliaga,ES
+6548,Allepuz,ES
+6549,Alloza,ES
+6550,Allueva,ES
+6551,Almohaja,ES
+6552,Alobras,ES
+6553,Alpeñés,ES
+6554,Anadón,ES
+6555,Andorra,ES
+6556,"Arcos de las Salinas",ES
+6557,"Arens de Lledó",ES
+6558,Argente,ES
+6559,Ariño,ES
+6560,Azaila,ES
+6561,Bádenas,ES
+6562,Báguena,ES
+6563,Bañón,ES
+6564,Barrachina,ES
+6565,Bea,ES
+6566,Beceite,ES
+6567,Bello,ES
+6568,"Belmonte de San José",ES
+6569,Berge,ES
+6570,Bezas,ES
+6571,Blancas,ES
+6572,Blesa,ES
+6573,Bordón,ES
+6574,Bronchales,ES
+6575,Bueña,ES
+6576,Burbáguena,ES
+6577,"Cabra de Mora",ES
+6578,Calaceite,ES
+6579,Calamocha,ES
+6580,Calanda,ES
+6581,Calomarde,ES
+6582,Camañas,ES
+6583,"Camarena de la Sierra",ES
+6584,Camarillas,ES
+6585,Caminreal,ES
+6586,Cantavieja,ES
+6587,"Cañada de Benatanduz",ES
+6588,"Cañada de Verich, La",ES
+6589,"Cañada Vellida",ES
+6590,"Cañizar del Olivar",ES
+6591,"Cascante del Río",ES
+6592,"Castejón de Tornos",ES
+6593,"Castel de Cabra",ES
+6594,"Castellar, El",ES
+6595,Castellote,ES
+6596,Castelnou,ES
+6597,Castelserás,ES
+6598,Cedrillas,ES
+6599,Celadas,ES
+6600,Cella,ES
+6601,"Cerollera, La",ES
+6602,"Codoñera, La",ES
+6603,Corbalán,ES
+6604,"Cortes de Aragón",ES
+6605,Cosa,ES
+6606,Cretas,ES
+6607,Crivillén,ES
+6608,"Cuba, La",ES
+6609,Cubla,ES
+6610,Cucalón,ES
+6611,"Cuervo, El",ES
+6612,"Cuevas de Almudén",ES
+6613,"Cuevas Labradas",ES
+6614,Ejulve,ES
+6615,Escorihuela,ES
+6616,Escucha,ES
+6617,Estercuel,ES
+6618,"Ferreruela de Huerva",ES
+6619,"Fonfría (Zamora)",ES
+6620,"Formiche Alto",ES
+6621,Fórnoles,ES
+6622,Fortanete,ES
+6623,Foz-Calanda,ES
+6624,"Fresneda, La",ES
+6625,"Frías de Albarracín",ES
+6626,Fuenferrada,ES
+6627,"Fuentes Calientes",ES
+6628,"Fuentes Claras",ES
+6629,"Fuentes de Rubielos",ES
+6630,Fuentespalda,ES
+6631,Galve,ES
+6632,Gargallo,ES
+6633,"Gea de Albarracín",ES
+6634,"Ginebrosa, La",ES
+6635,Griegos,ES
+6636,Guadalaviar,ES
+6637,Gúdar,ES
+6638,Híjar,ES
+6639,"Hinojosa de Jarque",ES
+6640,"Hoz de la Vieja, La",ES
+6641,"Huesa del Común",ES
+6642,"Iglesuela del Cid, La",ES
+6643,Jabaloyas,ES
+6644,"Jarque de la Val",ES
+6645,Jatiel,ES
+6646,Jorcas,ES
+6647,Josa,ES
+6648,Lagueruela,ES
+6649,Lanzuela,ES
+6650,Libros,ES
+6651,Lidón,ES
+6652,"Linares de Mora",ES
+6653,Lledó,ES
+6654,Loscos,ES
+6655,Maicas,ES
+6656,Manzanera,ES
+6657,"Martín del Río",ES
+6658,"Mas de las Matas",ES
+6659,"Mata de los Olmos, La",ES
+6660,Mazaleón,ES
+6661,"Mezquita de Jarque",ES
+6662,Mirambel,ES
+6663,"Miravete de la Sierra",ES
+6664,Molinos,ES
+6665,"Monforte de Moyuela",ES
+6666,"Monreal del Campo",ES
+6667,Monroyo,ES
+6668,Montalbán,ES
+6669,"Monteagudo del Castillo",ES
+6670,"Monterde de Albarracín",ES
+6671,"Mora de Rubielos",ES
+6672,Moscardón,ES
+6673,Mosqueruela,ES
+6674,Muniesa,ES
+6675,"Noguera de Albarracín",ES
+6676,Nogueras,ES
+6677,Nogueruelas,ES
+6678,Obón,ES
+6679,Odón,ES
+6680,"Ojos Negros",ES
+6681,Olba,ES
+6682,Oliete,ES
+6683,"Olmos, Los",ES
+6684,"Orihuela del Tremedal",ES
+6685,Orrios,ES
+6686,"Palomar de Arroyos",ES
+6687,Pancrudo,ES
+6688,"Parras de Castellote, Las",ES
+6689,"Peñarroya de Tastavins",ES
+6690,Peracense,ES
+6691,Peralejos,ES
+6692,"Perales del Alfambra",ES
+6693,Pitarque,ES
+6694,Plou,ES
+6695,"Pobo, El",ES
+6696,"Portellada, La",ES
+6697,Pozondón,ES
+6698,"Pozuel del Campo",ES
+6699,"Puebla de Híjar, La",ES
+6700,"Puebla de Valverde, La",ES
+6701,Puertomingalvo,ES
+6702,Ráfales,ES
+6703,Rillo,ES
+6704,Riodeva,ES
+6705,Ródenas,ES
+6706,Royuela,ES
+6707,Rubiales,ES
+6708,"Rubielos de la Cérida",ES
+6709,"Rubielos de Mora",ES
+6710,Salcedillo,ES
+6711,Saldón,ES
+6712,"Samper de Calanda",ES
+6713,"San Agustín",ES
+6714,"San Martín del Río",ES
+6715,"Santa Cruz de Nogueras",ES
+6716,"Santa Eulalia",ES
+6717,Sarrión,ES
+6718,"Segura de los Baños",ES
+6719,Seno,ES
+6720,Singra,ES
+6721,Terriente,ES
+6722,Teruel,ES
+6723,"Toril y Masegoso",ES
+6724,Tormón,ES
+6725,Tornos,ES
+6726,"Torralba de los Sisones",ES
+6727,"Torre de Arcas",ES
+6728,"Torre de las Arcas",ES
+6729,"Torre del Compte",ES
+6730,"Torre los Negros",ES
+6731,"Torrecilla de Alcañiz",ES
+6732,"Torrecilla del Rebollar",ES
+6733,Torrelacárcel,ES
+6734,"Torremocha de Jiloca",ES
+6735,"Torres de Albarracín",ES
+6736,Torrevelilla,ES
+6737,Torrijas,ES
+6738,"Torrijo del Campo",ES
+6739,Tramacastiel,ES
+6740,Tramacastilla,ES
+6741,Tronchón,ES
+6742,"Urrea de Gaén",ES
+6743,Utrillas,ES
+6744,Valacloche,ES
+6745,Valbona,ES
+6746,Valdealgorfa,ES
+6747,Valdecuenca,ES
+6748,Valdelinares,ES
+6749,Valdeltormo,ES
+6750,Valderrobres,ES
+6751,Valjunquera,ES
+6752,"Vallecillo, El",ES
+6753,"Veguillas de la Sierra",ES
+6754,"Villafranca del Campo",ES
+6755,"Villahermosa del Campo",ES
+6756,"Villanueva del Rebollar de la Sierra",ES
+6757,"Villar del Cobo",ES
+6758,"Villar del Salz",ES
+6759,Villarluengo,ES
+6760,Villarquemado,ES
+6761,"Villarroya de los Pinares",ES
+6762,Villastar,ES
+6763,Villel,ES
+6764,Vinaceite,ES
+6765,Visiedo,ES
+6766,"Vivel del Río Martín",ES
+6767,"Zoma, La",ES
+6768,Ajofrín,ES
+6769,"Alameda de la Sagra",ES
+6770,"Albarreal de Tajo",ES
+6771,Alcabón,ES
+6772,Alcañizo,ES
+6773,"Alcaudete de la Jara",ES
+6774,"Alcolea de Tajo",ES
+6775,"Aldea en Cabo",ES
+6776,"Aldeanueva de Barbarroya",ES
+6777,"Aldeanueva de San Bartolomé",ES
+6778,"Almendral de la Cañada",ES
+6779,"Almonacid de Toledo",ES
+6780,Almorox,ES
+6781,"Añover de Tajo",ES
+6782,Arcicóllar,ES
+6783,Argés,ES
+6784,Azután,ES
+6785,Barcience,ES
+6786,Bargas,ES
+6787,"Belvís de la Jara",ES
+6788,Borox,ES
+6789,Buenaventura,ES
+6790,"Burguillos de Toledo",ES
+6791,Burujón,ES
+6792,"Cabañas de la Sagra",ES
+6793,"Cabañas de Yepes",ES
+6794,Cabezamesada,ES
+6795,"Calera y Chozas",ES
+6796,Caleruela,ES
+6797,"Calzada de Oropesa",ES
+6798,Camarena,ES
+6799,Camarenilla,ES
+6800,"Campillo de la Jara, El",ES
+6801,Camuñas,ES
+6802,"Cardiel de los Montes",ES
+6803,Carmena,ES
+6804,"Carpio de Tajo, El",ES
+6805,Carranque,ES
+6806,Carriches,ES
+6807,"Casar de Escalona, El",ES
+6808,"Casarrubios del Monte",ES
+6809,Casasbuenas,ES
+6810,"Castillo de Bayuela",ES
+6811,Cazalegas,ES
+6812,Cebolla,ES
+6813,"Cedillo del Condado",ES
+6814,"Cerralbos, Los",ES
+6815,"Cervera de los Montes",ES
+6816,"Chozas de Canales",ES
+6817,Chueca,ES
+6818,Ciruelos,ES
+6819,Cobeja,ES
+6820,Cobisa,ES
+6821,Consuegra,ES
+6822,"Corral de Almaguer",ES
+6823,Cuerva,ES
+6824,"Domingo Pérez",ES
+6825,Dosbarrios,ES
+6826,Erustes,ES
+6827,Escalona,ES
+6828,Escalonilla,ES
+6829,"Espinoso del Rey",ES
+6830,Esquivias,ES
+6831,"Estrella, La",ES
+6832,Fuensalida,ES
+6833,Gálvez,ES
+6834,Garciotum,ES
+6835,Gerindote,ES
+6836,Guadamur,ES
+6837,"Guardia, La",ES
+6838,"Herencias, Las",ES
+6839,"Herreruela de Oropesa",ES
+6840,"Hinojosa de San Vicente",ES
+6841,Hontanar,ES
+6842,Hormigos,ES
+6843,Huecas,ES
+6844,"Huerta de Valdecarábanos",ES
+6845,"Iglesuela, La",ES
+6846,"Illán de Vacas",ES
+6847,Illescas,ES
+6848,Lagartera,ES
+6849,Layos,ES
+6850,Lillo,ES
+6851,Lominchar,ES
+6852,Lucillos,ES
+6853,Madridejos,ES
+6854,Magán,ES
+6855,"Malpica de Tajo",ES
+6856,Manzaneque,ES
+6857,Maqueda,ES
+6858,Marjaliza,ES
+6859,Marrupe,ES
+6860,Mascaraque,ES
+6861,"Mata, La",ES
+6862,Mazarambroz,ES
+6863,Mejorada,ES
+6864,Menasalbas,ES
+6865,Méntrida,ES
+6866,"Mesegar de Tajo",ES
+6867,"Miguel Esteban",ES
+6868,Mocejón,ES
+6869,"Mohedas de la Jara",ES
+6870,Montearagón,ES
+6871,Montesclaros,ES
+6872,Mora,ES
+6873,Nambroca,ES
+6874,"Nava de Ricomalillo, La",ES
+6875,Navahermosa,ES
+6876,Navalcán,ES
+6877,Navalmoralejo,ES
+6878,"Navalmorales, Los",ES
+6879,"Navalucillos, Los",ES
+6880,Navamorcuende,ES
+6881,Noblejas,ES
+6882,Noez,ES
+6883,Nombela,ES
+6884,Novés,ES
+6885,"Numancia de la Sagra",ES
+6886,"Nuño Gómez",ES
+6887,Ocaña,ES
+6888,"Olías del Rey",ES
+6889,Ontígola,ES
+6890,Orgaz,ES
+6891,Oropesa,ES
+6892,Otero,ES
+6893,Palomeque,ES
+6894,Pantoja,ES
+6895,"Paredes de Escalona",ES
+6896,Parrillas,ES
+6897,Pelahustán,ES
+6898,Pepino,ES
+6899,Polán,ES
+6900,"Portillo de Toledo",ES
+6901,"Puebla de Almoradiel, La",ES
+6902,"Puebla de Montalbán, La",ES
+6903,"Pueblanueva, La",ES
+6904,"Puente del Arzobispo, El",ES
+6905,"Puerto de San Vicente",ES
+6906,Pulgar,ES
+6907,Quero,ES
+6908,"Quintanar de la Orden",ES
+6909,Quismondo,ES
+6910,"Real de San Vicente, El",ES
+6911,Recas,ES
+6912,"Retamoso de la Jara",ES
+6913,Rielves,ES
+6914,"Robledo del Mazo",ES
+6915,"Romeral, El",ES
+6916,"San Bartolomé de las Abiertas",ES
+6917,"San Martín de Montalbán",ES
+6918,"San Martín de Pusa",ES
+6919,"San Pablo de los Montes",ES
+6920,"San Román de los Montes",ES
+6921,"Santa Ana de Pusa",ES
+6922,"Santa Cruz de la Zarza",ES
+6923,"Santa Cruz del Retamar",ES
+6924,"Santa Olalla",ES
+6925,"Santo Domingo-Caudilla",ES
+6926,Sartajada,ES
+6927,Segurilla,ES
+6928,Seseña,ES
+6929,"Sevilleja de la Jara",ES
+6930,Sonseca,ES
+6931,"Sotillo de las Palomas",ES
+6932,"Talavera de la Reina",ES
+6933,Tembleque,ES
+6934,"Toboso, El",ES
+6935,Toledo,ES
+6936,"Torralba de Oropesa",ES
+6937,"Torre de Esteban Hambrán, La",ES
+6938,"Torrecilla de la Jara",ES
+6939,Torrico,ES
+6940,Torrijos,ES
+6941,Totanés,ES
+6942,Turleque,ES
+6943,Ugena,ES
+6944,Urda,ES
+6945,Valdeverdeja,ES
+6946,Valmojado,ES
+6947,Velada,ES
+6948,"Ventas con Peña Aguilera, Las",ES
+6949,"Ventas de Retamosa, Las",ES
+6950,"Ventas de San Julián, Las",ES
+6951,"Villa de Don Fadrique, La",ES
+6952,Villacañas,ES
+6953,"Villafranca de los Caballeros",ES
+6954,"Villaluenga de la Sagra",ES
+6955,"Villamiel de Toledo",ES
+6956,Villaminaya,ES
+6957,Villamuelas,ES
+6958,"Villanueva de Alcardete",ES
+6959,"Villanueva de Bogas",ES
+6960,"Villarejo de Montalbán",ES
+6961,"Villarrubia de Santiago",ES
+6962,"Villaseca de la Sagra",ES
+6963,Villasequilla,ES
+6964,Villatobas,ES
+6965,"Viso de San Juan, El",ES
+6966,"Yébenes, Los",ES
+6967,Yeles,ES
+6968,Yepes,ES
+6969,Yuncler,ES
+6970,Yunclillos,ES
+6971,Yuncos,ES
+6972,Ademuz,ES
+6973,Ador,ES
+6974,Agullent,ES
+6975,"Aielo de Malferit",ES
+6976,"Aielo de Rugat",ES
+6977,Alaquàs,ES
+6978,Albaida,ES
+6979,Albal,ES
+6980,"Albalat de la Ribera",ES
+6981,"Albalat dels Sorells",ES
+6982,"Albalat dels Tarongers",ES
+6983,Alberic,ES
+6984,Alborache,ES
+6985,Alboraya,ES
+6986,Albuixech,ES
+6987,"Alcàntera de Xúquer",ES
+6988,Alcàsser,ES
+6989,Alcublas,ES
+6990,"Alcúdia de Crespins, l'",ES
+6991,"Alcúdia, l'",ES
+6992,Aldaia,ES
+6993,Alfafar,ES
+6994,"Alfara de la Baronia",ES
+6995,"Alfara del Patriarca",ES
+6996,Alfarp,ES
+6997,Alfarrasí,ES
+6998,Alfauir,ES
+6999,"Algar de Palancia",ES
+7000,Algemesí,ES
+7001,"Algimia de Alfara",ES
+7002,Alginet,ES
+7003,Almàssera,ES
+7004,Almiserà,ES
+7005,Almoines,ES
+7006,Almussafes,ES
+7007,Alpuente,ES
+7008,"Alqueria de la Comtessa, l'",ES
+7009,Alzira,ES
+7010,Andilla,ES
+7011,Anna,ES
+7012,Antella,ES
+7013,"Aras de los Olmos",ES
+7014,"Atzeneta d'Albaida",ES
+7015,Ayora,ES
+7016,Barx,ES
+7017,Barxeta,ES
+7018,Bèlgida,ES
+7019,Bellreguard,ES
+7020,Bellús,ES
+7021,Benagéber,ES
+7022,Benaguasil,ES
+7023,Benavites,ES
+7024,Beneixida,ES
+7025,Benetússer,ES
+7026,Beniarjó,ES
+7027,Beniatjar,ES
+7028,Benicolet,ES
+7029,"Benicull de Xúquer",ES
+7030,Benifaió,ES
+7031,"Benifairó de la Valldigna",ES
+7032,"Benifairó de les Valls",ES
+7033,Beniflá,ES
+7034,Benigànim,ES
+7035,Benimodo,ES
+7036,Benimuslem,ES
+7037,Beniparrell,ES
+7038,Benirredrà,ES
+7039,Benisanó,ES
+7040,Benissoda,ES
+7041,Benisuera,ES
+7042,Bétera,ES
+7043,Bicorp,ES
+7044,Bocairent,ES
+7045,Bolbaite,ES
+7046,"Bonrepòs i Mirambell",ES
+7047,Bufali,ES
+7048,Bugarra,ES
+7049,Buñol,ES
+7050,Burjassot,ES
+7051,Calles,ES
+7052,Camporrobles,ES
+7053,Canals,ES
+7054,"Canet d'En Berenguer",ES
+7055,Carcaixent,ES
+7056,Càrcer,ES
+7057,Carlet,ES
+7058,Carrícola,ES
+7059,"Casas Altas",ES
+7060,"Casas Bajas",ES
+7061,Casinos,ES
+7062,"Castelló de Rugat",ES
+7063,"Castellonet de la Conquesta",ES
+7064,Castielfabib,ES
+7065,Catadau,ES
+7066,Catarroja,ES
+7067,"Caudete de las Fuentes",ES
+7068,Cerdà,ES
+7069,Chella,ES
+7070,Chelva,ES
+7071,Chera,ES
+7072,Cheste,ES
+7073,Chiva,ES
+7074,Chulilla,ES
+7075,Cofrentes,ES
+7076,Corbera,ES
+7077,"Cortes de Pallás",ES
+7078,Cotes,ES
+7079,Cullera,ES
+7080,Daimús,ES
+7081,Domeño,ES
+7082,"Dos Aguas",ES
+7083,"Eliana, l'",ES
+7084,Emperador,ES
+7085,Enguera,ES
+7086,"Ènova, l'",ES
+7087,Estivella,ES
+7088,Estubeny,ES
+7089,Faura,ES
+7090,Favara,ES
+7091,Foios,ES
+7092,"Font de la Figuera, la",ES
+7093,"Font d'En Carròs, la",ES
+7094,"Fontanars dels Alforins",ES
+7095,Fortaleny,ES
+7096,Fuenterrobles,ES
+7097,Gandia,ES
+7098,Gátova,ES
+7099,Gavarda,ES
+7100,Genovés,ES
+7101,Gestalgar,ES
+7102,Gilet,ES
+7103,Godella,ES
+7104,Godelleta,ES
+7105,"Granja de la Costera, la",ES
+7106,Guadasséquies,ES
+7107,Guadassuar,ES
+7108,"Guardamar de la Safor",ES
+7109,Higueruelas,ES
+7110,Jalance,ES
+7111,Jarafuel,ES
+7112,"Llanera de Ranes",ES
+7113,Llaurí,ES
+7114,Llíria,ES
+7115,"Llocnou de la Corona",ES
+7116,"Llocnou de Sant Jeroni",ES
+7117,"Llocnou d'En Fenollet",ES
+7118,Llombai,ES
+7119,"Llosa de Ranes, la",ES
+7120,Llutxent,ES
+7121,Loriguilla,ES
+7122,"Losa del Obispo",ES
+7123,Macastre,ES
+7124,Manises,ES
+7125,Manuel,ES
+7126,Marines,ES
+7127,Massalavés,ES
+7128,Massalfassar,ES
+7129,Massamagrell,ES
+7130,Massanassa,ES
+7131,Meliana,ES
+7132,Millares,ES
+7133,Miramar,ES
+7134,Mislata,ES
+7135,Mogente/Moixent,ES
+7136,Moncada,ES
+7137,Montaverner,ES
+7138,Montesa,ES
+7139,Montitxelvo/Montichelvo,ES
+7140,Montroi/Montroy,ES
+7141,Montserrat,ES
+7142,Museros,ES
+7143,Náquera,ES
+7144,Navarrés,ES
+7145,Novelé/Novetlè,ES
+7146,Oliva,ES
+7147,"Olleria, l'",ES
+7148,Olocau,ES
+7149,Ontinyent,ES
+7150,Otos,ES
+7151,Paiporta,ES
+7152,"Palma de Gandía",ES
+7153,Palmera,ES
+7154,"Palomar, el",ES
+7155,Paterna,ES
+7156,Pedralba,ES
+7157,Petrés,ES
+7158,Picanya,ES
+7159,Picassent,ES
+7160,Piles,ES
+7161,Pinet,ES
+7162,"Pobla de Farnals, la",ES
+7163,"Pobla de Vallbona, la",ES
+7164,"Pobla del Duc, la",ES
+7165,"Pobla Llarga, la",ES
+7166,"Polinyà de Xúquer",ES
+7167,Potríes,ES
+7168,Puçol,ES
+7169,"Puebla de San Miguel",ES
+7170,"Puig de Santa Maria, el",ES
+7171,"Quart de les Valls",ES
+7172,"Quart de Poblet",ES
+7173,Quartell,ES
+7174,Quatretonda,ES
+7175,Quesa,ES
+7176,Rafelbunyol,ES
+7177,Rafelcofer,ES
+7178,Rafelguaraf,ES
+7179,"Ráfol de Salem",ES
+7180,Real,ES
+7181,"Real de Gandía",ES
+7182,Requena,ES
+7183,"Riba-roja de Túria",ES
+7184,Riola,ES
+7185,Rocafort,ES
+7186,"Rotglà i Corberà",ES
+7187,Rótova,ES
+7188,Rugat,ES
+7189,Sagunto/Sagunt,ES
+7190,Salem,ES
+7191,"San Antonio de Benagéber",ES
+7192,"Sant Joanet",ES
+7193,Sedaví,ES
+7194,Segart,ES
+7195,Sellent,ES
+7196,Sempere,ES
+7197,Senyera,ES
+7198,Serra,ES
+7199,"Siete Aguas",ES
+7200,Silla,ES
+7201,"Simat de la Valldigna",ES
+7202,Sinarcas,ES
+7203,Sollana,ES
+7204,"Sot de Chera",ES
+7205,Sueca,ES
+7206,Sumacàrcer,ES
+7207,"Tavernes Blanques",ES
+7208,"Tavernes de la Valldigna",ES
+7209,"Teresa de Cofrentes",ES
+7210,Terrateig,ES
+7211,Titaguas,ES
+7212,Torrebaja,ES
+7213,Torrella,ES
+7214,"Torrent (Girona)",ES
+7215,"Torres Torres",ES
+7216,Tous,ES
+7217,Tuéjar,ES
+7218,Turís,ES
+7219,Utiel,ES
+7220,Valencia,ES
+7221,Vallada,ES
+7222,Vallanca,ES
+7223,Vallés,ES
+7224,"Venta del Moro",ES
+7225,Vilallonga/Villalonga,ES
+7226,Vilamarxant,ES
+7227,"Villanueva de Castellón",ES
+7228,"Villar del Arzobispo",ES
+7229,"Villargordo del Cabriel",ES
+7230,Vinalesa,ES
+7231,Xàtiva,ES
+7232,Xeraco,ES
+7233,Xeresa,ES
+7234,Xirivella,ES
+7235,Yátova,ES
+7236,"Yesa, La",ES
+7237,Zarra,ES
+7238,Adalia,ES
+7239,Aguasal,ES
+7240,"Aguilar de Campos",ES
+7241,Alaejos,ES
+7242,Alcazarén,ES
+7243,"Aldea de San Miguel",ES
+7244,"Aldeamayor de San Martín",ES
+7245,"Almenara de Adaja",ES
+7246,Amusquillo,ES
+7247,"Arroyo de la Encomienda",ES
+7248,Ataquines,ES
+7249,Bahabón,ES
+7250,"Barcial de la Loma",ES
+7251,"Barruelo del Valle",ES
+7252,"Becilla de Valderaduey",ES
+7253,Benafarces,ES
+7254,Bercero,ES
+7255,Berceruelo,ES
+7256,Berrueces,ES
+7257,"Bobadilla del Campo",ES
+7258,Bocigas,ES
+7259,"Bocos de Duero",ES
+7260,Boecillo,ES
+7261,"Bolaños de Campos",ES
+7262,"Brahojos de Medina",ES
+7263,"Bustillo de Chaves",ES
+7264,"Cabezón de Pisuerga",ES
+7265,"Cabezón de Valderaduey",ES
+7266,"Cabreros del Monte",ES
+7267,Campaspero,ES
+7268,"El Campillo (Valladolid)",ES
+7269,Camporredondo,ES
+7270,"Canalejas de Peñafiel",ES
+7271,"Canillas de Esgueva",ES
+7272,Carpio,ES
+7273,"Casasola de Arión",ES
+7274,"Castrejón de Trabancos",ES
+7275,"Castrillo de Duero",ES
+7276,Castrillo-Tejeriego,ES
+7277,Castrobol,ES
+7278,Castrodeza,ES
+7279,Castromembibre,ES
+7280,Castromonte,ES
+7281,"Castronuevo de Esgueva",ES
+7282,Castronuño,ES
+7283,Castroponce,ES
+7284,"Castroverde de Cerrato",ES
+7285,"Ceinos de Campos",ES
+7286,"Cervillego de la Cruz",ES
+7287,Cigales,ES
+7288,Ciguñuela,ES
+7289,Cistérniga,ES
+7290,"Cogeces de Íscar",ES
+7291,"Cogeces del Monte",ES
+7292,Corcos,ES
+7293,"Corrales de Duero",ES
+7294,"Cubillas de Santa Marta",ES
+7295,"Cuenca de Campos",ES
+7296,"Curiel de Duero",ES
+7297,"Encinas de Esgueva",ES
+7298,"Esguevillas de Esgueva",ES
+7299,Fombellida,ES
+7300,Fompedraza,ES
+7301,Fontihoyuelo,ES
+7302,"Fresno el Viejo",ES
+7303,Fuensaldaña,ES
+7304,"Fuente el Sol",ES
+7305,Fuente-Olmedo,ES
+7306,"Gallegos de Hornija",ES
+7307,"Gatón de Campos",ES
+7308,Geria,ES
+7309,"Herrín de Campos",ES
+7310,"Hornillos de Eresma",ES
+7311,Íscar,ES
+7312,"Laguna de Duero",ES
+7313,Langayo,ES
+7314,"Llano de Olmedo",ES
+7315,Lomoviejo,ES
+7316,Manzanillo,ES
+7317,Marzales,ES
+7318,Matapozuelos,ES
+7319,"Matilla de los Caños",ES
+7320,Mayorga,ES
+7321,"Medina de Rioseco",ES
+7322,"Medina del Campo",ES
+7323,Megeces,ES
+7324,"Melgar de Abajo",ES
+7325,"Melgar de Arriba",ES
+7326,Mojados,ES
+7327,"Monasterio de Vega",ES
+7328,"Montealegre de Campos",ES
+7329,"Montemayor de Pililla",ES
+7330,"Moral de la Reina",ES
+7331,"Moraleja de las Panaderas",ES
+7332,"Morales de Campos",ES
+7333,"Mota del Marqués",ES
+7334,Mucientes,ES
+7335,"Mudarra, La",ES
+7336,Muriel,ES
+7337,"Nava del Rey",ES
+7338,"Nueva Villa de las Torres",ES
+7339,"Olivares de Duero",ES
+7340,Olmedo,ES
+7341,"Olmos de Esgueva",ES
+7342,"Olmos de Peñafiel",ES
+7343,"Palazuelo de Vedija",ES
+7344,"Parrilla, La",ES
+7345,"Pedraja de Portillo, La",ES
+7346,"Pedrajas de San Esteban",ES
+7347,"Pedrosa del Rey",ES
+7348,Peñafiel,ES
+7349,"Peñaflor de Hornija",ES
+7350,"Pesquera de Duero",ES
+7351,"Piña de Esgueva",ES
+7352,"Piñel de Abajo",ES
+7353,"Piñel de Arriba",ES
+7354,Pollos,ES
+7355,Portillo,ES
+7356,"Pozal de Gallinas",ES
+7357,Pozaldez,ES
+7358,"Pozuelo de la Orden",ES
+7359,Puras,ES
+7360,"Quintanilla de Arriba",ES
+7361,"Quintanilla de Onésimo",ES
+7362,"Quintanilla de Trigueros",ES
+7363,"Quintanilla del Molar",ES
+7364,Rábano,ES
+7365,Ramiro,ES
+7366,"Renedo de Esgueva",ES
+7367,"Roales de Campos",ES
+7368,Robladillo,ES
+7369,Roturas,ES
+7370,"Rubí de Bracamonte",ES
+7371,Rueda,ES
+7372,"Saelices de Mayorga",ES
+7373,"Salvador de Zapardiel",ES
+7374,"San Cebrián de Mazote",ES
+7375,"San Llorente",ES
+7376,"San Martín de Valvení",ES
+7377,"San Miguel del Arroyo",ES
+7378,"San Miguel del Pino",ES
+7379,"San Pablo de la Moraleja",ES
+7380,"San Pedro de Latarce",ES
+7381,"San Pelayo",ES
+7382,"San Román de Hornija",ES
+7383,"San Salvador",ES
+7384,"San Vicente del Palacio",ES
+7385,"Santa Eufemia del Arroyo",ES
+7386,"Santervás de Campos",ES
+7387,"Santibáñez de Valcorba",ES
+7388,"Santovenia de Pisuerga",ES
+7389,"Sardón de Duero",ES
+7390,"Seca, La",ES
+7391,Serrada,ES
+7392,"Siete Iglesias de Trabancos",ES
+7393,Simancas,ES
+7394,"Tamariz de Campos",ES
+7395,Tiedra,ES
+7396,Tordehumos,ES
+7397,Tordesillas,ES
+7398,"Torre de Esgueva",ES
+7399,"Torre de Peñafiel",ES
+7400,"Torrecilla de la Abadesa",ES
+7401,"Torrecilla de la Orden",ES
+7402,"Torrecilla de la Torre",ES
+7403,Torrelobatón,ES
+7404,Torrescárcela,ES
+7405,Traspinedo,ES
+7406,"Trigueros del Valle",ES
+7407,"Tudela de Duero",ES
+7408,"Unión de Campos, La",ES
+7409,"Urones de Castroponce",ES
+7410,Urueña,ES
+7411,"Valbuena de Duero",ES
+7412,"Valdearcos de la Vega",ES
+7413,"Valdenebro de los Valles",ES
+7414,Valdestillas,ES
+7415,Valdunquillo,ES
+7416,Valladolid,ES
+7417,"Valoria la Buena",ES
+7418,"Valverde de Campos",ES
+7419,"Vega de Ruiponce",ES
+7420,"Vega de Valdetronco",ES
+7421,Velascálvaro,ES
+7422,Velilla,ES
+7423,Velliza,ES
+7424,"Ventosa de la Cuesta",ES
+7425,"Viana de Cega",ES
+7426,Villabáñez,ES
+7427,"Villabaruz de Campos",ES
+7428,Villabrágima,ES
+7429,Villacarralón,ES
+7430,"Villacid de Campos",ES
+7431,Villaco,ES
+7432,"Villafrades de Campos",ES
+7433,"Villafranca de Duero",ES
+7434,Villafrechós,ES
+7435,Villafuerte,ES
+7436,"Villagarcía de Campos",ES
+7437,"Villagómez la Nueva",ES
+7438,"Villalán de Campos",ES
+7439,"Villalar de los Comuneros",ES
+7440,"Villalba de la Loma",ES
+7441,"Villalba de los Alcores",ES
+7442,Villalbarba,ES
+7443,"Villalón de Campos",ES
+7444,"Villamuriel de Campos",ES
+7445,"Villán de Tordesillas",ES
+7446,Villanubla,ES
+7447,"Villanueva de Duero",ES
+7448,"Villanueva de la Condesa",ES
+7449,"Villanueva de los Caballeros",ES
+7450,"Villanueva de los Infantes (Ciudad Real)",ES
+7451,"Villanueva de San Mancio",ES
+7452,Villardefrades,ES
+7453,"Villarmentero de Esgueva",ES
+7454,Villasexmir,ES
+7455,Villavaquerín,ES
+7456,Villavellid,ES
+7457,"Villaverde de Medina",ES
+7458,"Villavicencio de los Caballeros",ES
+7459,Viloria,ES
+7460,Wamba,ES
+7461,Zaratán,ES
+7462,"La Zarza (Badajoz)",ES
+7463,Abadiño,ES
+7464,"Abanto y Ciérvana-Abanto Zierbena",ES
+7465,Ajangiz,ES
+7466,Alonsotegi,ES
+7467,Amorebieta-Etxano,ES
+7468,Amoroto,ES
+7469,Arakaldo,ES
+7470,Arantzazu,ES
+7471,Areatza,ES
+7472,Arrankudiaga,ES
+7473,Arratzu,ES
+7474,Arrieta,ES
+7475,Arrigorriaga,ES
+7476,Artea,ES
+7477,Artzentales,ES
+7478,Atxondo,ES
+7479,Aulesti,ES
+7480,Bakio,ES
+7481,Balmaseda,ES
+7482,Barakaldo,ES
+7483,Barrika,ES
+7484,Basauri,ES
+7485,Bedia,ES
+7486,Berango,ES
+7487,Bermeo,ES
+7488,Berriatua,ES
+7489,Berriz,ES
+7490,Bilbao,ES
+7491,Busturia,ES
+7492,Derio,ES
+7493,Dima,ES
+7494,Durango,ES
+7495,Ea,ES
+7496,Elantxobe,ES
+7497,Elorrio,ES
+7498,Erandio,ES
+7499,Ereño,ES
+7500,Ermua,ES
+7501,Errigoiti,ES
+7502,Etxebarri,ES
+7503,Etxebarria,ES
+7504,Forua,ES
+7505,Fruiz,ES
+7506,Galdakao,ES
+7507,Galdames,ES
+7508,Gamiz-Fika,ES
+7509,Garai,ES
+7510,Gatika,ES
+7511,"Gautegiz Arteaga",ES
+7512,Gernika-Lumo,ES
+7513,Getxo,ES
+7514,Gizaburuaga,ES
+7515,Gordexola,ES
+7516,Gorliz,ES
+7517,Güeñes,ES
+7518,Ibarrangelu,ES
+7519,Igorre,ES
+7520,Ispaster,ES
+7521,Iurreta,ES
+7522,Izurtza,ES
+7523,"Karrantza Harana/Valle de Carranza",ES
+7524,Kortezubi,ES
+7525,Lanestosa,ES
+7526,Larrabetzu,ES
+7527,Laukiz,ES
+7528,Leioa,ES
+7529,Lekeitio,ES
+7530,Lemoa,ES
+7531,Lemoiz,ES
+7532,Lezama,ES
+7533,Loiu,ES
+7534,Mallabia,ES
+7535,Mañaria,ES
+7536,Markina-Xemein,ES
+7537,Maruri-Jatabe,ES
+7538,Mendata,ES
+7539,Mendexa,ES
+7540,Meñaka,ES
+7541,Morga,ES
+7542,Mundaka,ES
+7543,Mungia,ES
+7544,"Munitibar-Arbatzegi Gerrikaitz",ES
+7545,Murueta,ES
+7546,Muskiz,ES
+7547,Muxika,ES
+7548,Nabarniz,ES
+7549,Ondarroa,ES
+7550,Orozko,ES
+7551,Ortuella,ES
+7552,Otxandio,ES
+7553,Plentzia,ES
+7554,Portugalete,ES
+7555,Santurtzi,ES
+7556,Sestao,ES
+7557,Sondika,ES
+7558,Sopelana,ES
+7559,Sopuerta,ES
+7560,Sukarrieta,ES
+7561,Trucios-Turtzioz,ES
+7562,Ubide,ES
+7563,Ugao-Miraballes,ES
+7564,Urduliz,ES
+7565,Urduña/Orduña,ES
+7566,"Valle de Trápaga-Trapagaran",ES
+7567,Zaldibar,ES
+7568,Zalla,ES
+7569,Zamudio,ES
+7570,Zaratamo,ES
+7571,Zeanuri,ES
+7572,Zeberio,ES
+7573,Zierbena,ES
+7574,Ziortza-Bolibar,ES
+7575,Abezames,ES
+7576,Alcañices,ES
+7577,"Alcubilla de Nogales",ES
+7578,"Alfaraz de Sayago",ES
+7579,Algodre,ES
+7580,"Almaraz de Duero",ES
+7581,"Almeida de Sayago",ES
+7582,Andavías,ES
+7583,Arcenillas,ES
+7584,"Arcos de la Polvorosa",ES
+7585,Argañín,ES
+7586,Argujillo,ES
+7587,Arquillinos,ES
+7588,Arrabalde,ES
+7589,Aspariegos,ES
+7590,Asturianos,ES
+7591,"Ayoó de Vidriales",ES
+7592,"Barcial del Barco",ES
+7593,"Belver de los Montes",ES
+7594,Benavente,ES
+7595,Benegiles,ES
+7596,"Bermillo de Sayago",ES
+7597,"Bóveda de Toro, La",ES
+7598,Bretó,ES
+7599,Bretocino,ES
+7600,"Brime de Sog",ES
+7601,"Brime de Urz",ES
+7602,"Burganes de Valverde",ES
+7603,"Bustillo del Oro",ES
+7604,"Cabañas de Sayago",ES
+7605,"Calzadilla de Tera",ES
+7606,"Camarzana de Tera",ES
+7607,Cañizal,ES
+7608,Cañizo,ES
+7609,"Carbajales de Alba",ES
+7610,Carbellino,ES
+7611,"Casaseca de Campeán",ES
+7612,"Casaseca de las Chanas",ES
+7613,"Castrillo de la Guareña",ES
+7614,Castrogonzalo,ES
+7615,Castronuevo,ES
+7616,"Castroverde de Campos",ES
+7617,Cazurra,ES
+7618,"Cerecinos de Campos",ES
+7619,"Cerecinos del Carrizal",ES
+7620,Cernadilla,ES
+7621,Cobreros,ES
+7622,Coomonte,ES
+7623,Coreses,ES
+7624,"Corrales del Vino",ES
+7625,"Cotanes del Monte",ES
+7626,Cubillos,ES
+7627,"Cubo de Benavente",ES
+7628,"Cubo de Tierra del Vino, El",ES
+7629,Cuelgamures,ES
+7630,Entrala,ES
+7631,Espadañedo,ES
+7632,"Faramontanos de Tábara",ES
+7633,Fariza,ES
+7634,Fermoselle,ES
+7635,"Ferreras de Abajo",ES
+7636,"Ferreras de Arriba",ES
+7637,Ferreruela,ES
+7638,"Figueruela de Arriba",ES
+7639,"Fonfría (Teruel)",ES
+7640,"Fresno de la Polvorosa",ES
+7641,"Fresno de la Ribera",ES
+7642,"Fresno de Sayago",ES
+7643,"Friera de Valverde",ES
+7644,"Fuente Encalada",ES
+7645,Fuentelapeña,ES
+7646,"Fuentes de Ropel",ES
+7647,Fuentesaúco,ES
+7648,Fuentesecas,ES
+7649,Fuentespreadas,ES
+7650,Galende,ES
+7651,"Gallegos del Pan",ES
+7652,"Gallegos del Río",ES
+7653,Gamones,ES
+7654,Gema,ES
+7655,"Granja de Moreruela",ES
+7656,Granucillo,ES
+7657,Guarrate,ES
+7658,Hermisende,ES
+7659,"Hiniesta, La",ES
+7660,Jambrina,ES
+7661,Justel,ES
+7662,Losacino,ES
+7663,Losacio,ES
+7664,Lubián,ES
+7665,Luelmo,ES
+7666,"Maderal, El",ES
+7667,Madridanos,ES
+7668,Mahide,ES
+7669,"Maire de Castroponce",ES
+7670,Malva,ES
+7671,"Manganeses de la Lampreana",ES
+7672,"Manganeses de la Polvorosa",ES
+7673,"Manzanal de Arriba",ES
+7674,"Manzanal de los Infantes",ES
+7675,"Manzanal del Barco",ES
+7676,"Matilla de Arzón",ES
+7677,"Matilla la Seca",ES
+7678,Mayalde,ES
+7679,"Melgar de Tera",ES
+7680,"Micereces de Tera",ES
+7681,"Milles de la Polvorosa",ES
+7682,Molacillos,ES
+7683,"Molezuelas de la Carballeda",ES
+7684,Mombuey,ES
+7685,Monfarracinos,ES
+7686,Montamarta,ES
+7687,"Moral de Sayago",ES
+7688,"Moraleja de Sayago",ES
+7689,"Moraleja del Vino",ES
+7690,"Morales de Rey",ES
+7691,"Morales de Toro",ES
+7692,"Morales de Valverde",ES
+7693,"Morales del Vino",ES
+7694,Moralina,ES
+7695,"Moreruela de los Infanzones",ES
+7696,"Moreruela de Tábara",ES
+7697,"Muelas de los Caballeros",ES
+7698,"Muelas del Pan",ES
+7699,"Muga de Sayago",ES
+7700,"Navianos de Valverde",ES
+7701,"Olmillos de Castro",ES
+7702,"Otero de Bodas",ES
+7703,"Pajares de la Lampreana",ES
+7704,"Palacios de Sanabria",ES
+7705,"Palacios del Pan",ES
+7706,"Pedralba de la Pradería",ES
+7707,"Pego, El",ES
+7708,Peleagonzalo,ES
+7709,"Peleas de Abajo",ES
+7710,Peñausende,ES
+7711,Peque,ES
+7712,"Perdigón, El",ES
+7713,Pereruela,ES
+7714,"Perilla de Castro",ES
+7715,Pías,ES
+7716,"Piedrahita de Castro",ES
+7717,"Pinilla de Toro",ES
+7718,"Pino del Oro",ES
+7719,"Piñero, El",ES
+7720,"Pobladura de Valderaduey",ES
+7721,"Pobladura del Valle",ES
+7722,Porto,ES
+7723,Pozoantiguo,ES
+7724,"Pozuelo de Tábara",ES
+7725,Prado,ES
+7726,"Puebla de Sanabria",ES
+7727,"Pueblica de Valverde",ES
+7728,"Quintanilla de Urz",ES
+7729,"Quintanilla del Monte",ES
+7730,"Quintanilla del Olmo",ES
+7731,"Quiruelas de Vidriales",ES
+7732,Rabanales,ES
+7733,"Rábano de Aliste",ES
+7734,Requejo,ES
+7735,Revellinos,ES
+7736,"Riofrío de Aliste",ES
+7737,"Rionegro del Puente",ES
+7738,Roales,ES
+7739,Robleda-Cervantes,ES
+7740,"Roelos de Sayago",ES
+7741,"Rosinos de la Requejada",ES
+7742,Salce,ES
+7743,"Samir de los Caños",ES
+7744,"San Agustín del Pozo",ES
+7745,"San Cebrián de Castro",ES
+7746,"San Cristóbal de Entreviñas",ES
+7747,"San Esteban del Molar",ES
+7748,"San Justo",ES
+7749,"San Martín de Valderaduey",ES
+7750,"San Miguel de la Ribera",ES
+7751,"San Miguel del Valle",ES
+7752,"San Pedro de Ceque",ES
+7753,"San Pedro de la Nave-Almendra",ES
+7754,"San Vicente de la Cabeza",ES
+7755,"San Vitero",ES
+7756,"Santa Clara de Avedillo",ES
+7757,"Santa Colomba de las Monjas",ES
+7758,"Santa Cristina de la Polvorosa",ES
+7759,"Santa Croya de Tera",ES
+7760,"Santa Eufemia del Barco",ES
+7761,"Santa María de la Vega",ES
+7762,"Santa María de Valverde",ES
+7763,"Santibáñez de Tera",ES
+7764,"Santibáñez de Vidriales",ES
+7765,Santovenia,ES
+7766,Sanzoles,ES
+7767,Tábara,ES
+7768,Tapioles,ES
+7769,Toro,ES
+7770,"Torre del Valle, La",ES
+7771,Torregamones,ES
+7772,"Torres del Carrizal",ES
+7773,Trabazos,ES
+7774,Trefacio,ES
+7775,"Uña de Quintana",ES
+7776,"Vadillo de la Guareña",ES
+7777,Valcabado,ES
+7778,Valdefinjas,ES
+7779,Valdescorriel,ES
+7780,"Vallesa de la Guareña",ES
+7781,"Vega de Tera",ES
+7782,"Vega de Villalobos",ES
+7783,Vegalatrave,ES
+7784,Venialbo,ES
+7785,Vezdemarbán,ES
+7786,Vidayanes,ES
+7787,Videmala,ES
+7788,Villabrázaro,ES
+7789,"Villabuena del Puente",ES
+7790,Villadepera,ES
+7791,"Villaescusa (Zamora)",ES
+7792,Villafáfila,ES
+7793,Villaferrueña,ES
+7794,Villageriz,ES
+7795,Villalazán,ES
+7796,"Villalba de la Lampreana",ES
+7797,Villalcampo,ES
+7798,Villalobos,ES
+7799,Villalonso,ES
+7800,Villalpando,ES
+7801,Villalube,ES
+7802,"Villamayor de Campos",ES
+7803,"Villamor de los Escuderos",ES
+7804,Villanázar,ES
+7805,"Villanueva de Azoague",ES
+7806,"Villanueva de Campeán",ES
+7807,"Villanueva de las Peras",ES
+7808,"Villanueva del Campo",ES
+7809,"Villar de Fallaves",ES
+7810,"Villar del Buey",ES
+7811,Villaralbo,ES
+7812,Villardeciervos,ES
+7813,"Villardiegua de la Ribera",ES
+7814,Villárdiga,ES
+7815,Villardondiego,ES
+7816,"Villarrín de Campos",ES
+7817,"Villaseco del Pan",ES
+7818,Villavendimio,ES
+7819,"Villaveza de Valverde",ES
+7820,"Villaveza del Agua",ES
+7821,Viñas,ES
+7822,Zamora,ES
+7823,Abanto,ES
+7824,Acered,ES
+7825,Agón,ES
+7826,Aguarón,ES
+7827,Aguilón,ES
+7828,Ainzón,ES
+7829,Aladrén,ES
+7830,Alagón,ES
+7831,Alarba,ES
+7832,"Alberite de San Juan",ES
+7833,Albeta,ES
+7834,Alborge,ES
+7835,"Alcalá de Ebro",ES
+7836,"Alcalá de Moncayo",ES
+7837,"Alconchel de Ariza",ES
+7838,"Aldehuela de Liestos",ES
+7839,Alfajarín,ES
+7840,Alfamén,ES
+7841,Alforque,ES
+7842,"Alhama de Aragón",ES
+7843,Almochuel,ES
+7844,"Almolda, La",ES
+7845,"Almonacid de la Cuba",ES
+7846,"Almonacid de la Sierra",ES
+7847,"Almunia de Doña Godina, La",ES
+7848,Alpartir,ES
+7849,Ambel,ES
+7850,Anento,ES
+7851,Aniñón,ES
+7852,"Añón de Moncayo",ES
+7853,"Aranda de Moncayo",ES
+7854,Arándiga,ES
+7855,Ardisa,ES
+7856,Ariza,ES
+7857,Artieda,ES
+7858,Asín,ES
+7859,Atea,ES
+7860,Ateca,ES
+7861,Azuara,ES
+7862,Badules,ES
+7863,Bagüés,ES
+7864,Balconchán,ES
+7865,Bárboles,ES
+7866,Bardallur,ES
+7867,Belchite,ES
+7868,"Belmonte de Gracián",ES
+7869,Berdejo,ES
+7870,Berrueco,ES
+7871,Biel,ES
+7872,Bijuesca,ES
+7873,Biota,ES
+7874,Bisimbre,ES
+7875,Boquiñeni,ES
+7876,Bordalba,ES
+7877,Borja,ES
+7878,Botorrita,ES
+7879,"Brea de Aragón",ES
+7880,Bubierca,ES
+7881,Bujaraloz,ES
+7882,Bulbuente,ES
+7883,Bureta,ES
+7884,"Burgo de Ebro, El",ES
+7885,"Buste, El",ES
+7886,"Cabañas de Ebro",ES
+7887,Cabolafuente,ES
+7888,Cadrete,ES
+7889,Calatayud,ES
+7890,Calatorao,ES
+7891,Calcena,ES
+7892,Calmarza,ES
+7893,"Campillo de Aragón",ES
+7894,Carenas,ES
+7895,Cariñena,ES
+7896,Caspe,ES
+7897,"Castejón de Alarba",ES
+7898,"Castejón de las Armas",ES
+7899,"Castejón de Valdejasa",ES
+7900,Castiliscar,ES
+7901,"Cervera de la Cañada",ES
+7902,Cerveruela,ES
+7903,Cetina,ES
+7904,Chiprana,ES
+7905,Chodes,ES
+7906,Cimballa,ES
+7907,"Cinco Olivas",ES
+7908,"Clarés de Ribota",ES
+7909,Codo,ES
+7910,Codos,ES
+7911,Contamina,ES
+7912,Cosuenda,ES
+7913,"Cuarte de Huerva",ES
+7914,Cubel,ES
+7915,"Cuerlas, Las",ES
+7916,Daroca,ES
+7917,"Ejea de los Caballeros",ES
+7918,"Embid de Ariza",ES
+7919,Encinacorba,ES
+7920,Épila,ES
+7921,Erla,ES
+7922,Escatrón,ES
+7923,Fabara,ES
+7924,Farlete,ES
+7925,Fayón,ES
+7926,"Fayos, Los",ES
+7927,Figueruelas,ES
+7928,Fombuena,ES
+7929,"Frago, El",ES
+7930,"Frasno, El",ES
+7931,Fréscano,ES
+7932,Fuendejalón,ES
+7933,Fuendetodos,ES
+7934,"Fuentes de Ebro",ES
+7935,"Fuentes de Jiloca",ES
+7936,Gallocanta,ES
+7937,Gallur,ES
+7938,Gelsa,ES
+7939,Godojos,ES
+7940,Gotor,ES
+7941,Grisel,ES
+7942,Grisén,ES
+7943,"Herrera de los Navarros",ES
+7944,Ibdes,ES
+7945,Illueca,ES
+7946,Isuerre,ES
+7947,Jaraba,ES
+7948,Jarque,ES
+7949,Jaulín,ES
+7950,"Joyosa, La",ES
+7951,Lagata,ES
+7952,"Langa del Castillo",ES
+7953,Layana,ES
+7954,Lécera,ES
+7955,Lechón,ES
+7956,Leciñena,ES
+7957,Letux,ES
+7958,Litago,ES
+7959,Lituénigo,ES
+7960,"Lobera de Onsella",ES
+7961,Longares,ES
+7962,Longás,ES
+7963,"Lucena de Jalón",ES
+7964,Luceni,ES
+7965,Luesia,ES
+7966,Luesma,ES
+7967,Lumpiaque,ES
+7968,Luna,ES
+7969,Maella,ES
+7970,Magallón,ES
+7971,Mainar,ES
+7972,Malanquilla,ES
+7973,Maleján,ES
+7974,Mallén,ES
+7975,Malón,ES
+7976,Maluenda,ES
+7977,Manchones,ES
+7978,Mara,ES
+7979,"María de Huerva",ES
+7980,Marracos,ES
+7981,"Mediana de Aragón",ES
+7982,Mequinenza,ES
+7983,"Mesones de Isuela",ES
+7984,Mezalocha,ES
+7985,Mianos,ES
+7986,"Miedes de Aragón",ES
+7987,Monegrillo,ES
+7988,Moneva,ES
+7989,"Monreal de Ariza",ES
+7990,Monterde,ES
+7991,Montón,ES
+7992,"Morata de Jalón",ES
+7993,"Morata de Jiloca",ES
+7994,Morés,ES
+7995,Moros,ES
+7996,Moyuela,ES
+7997,Mozota,ES
+7998,Muel,ES
+7999,"Muela, La",ES
+8000,Munébrega,ES
+8001,Murero,ES
+8002,"Murillo de Gállego",ES
+8003,Navardún,ES
+8004,Nigüella,ES
+8005,Nombrevilla,ES
+8006,Nonaspe,ES
+8007,Novallas,ES
+8008,Novillas,ES
+8009,Nuévalos,ES
+8010,"Nuez de Ebro",ES
+8011,Olvés,ES
+8012,Orcajo,ES
+8013,Orera,ES
+8014,Orés,ES
+8015,Oseja,ES
+8016,"Osera de Ebro",ES
+8017,Paniza,ES
+8018,"Paracuellos de Jiloca",ES
+8019,"Paracuellos de la Ribera",ES
+8020,Pastriz,ES
+8021,Pedrola,ES
+8022,"Pedrosas, Las",ES
+8023,Perdiguera,ES
+8024,Piedratajada,ES
+8025,"Pina de Ebro",ES
+8026,Pinseque,ES
+8027,"Pintanos, Los",ES
+8028,"Plasencia de Jalón",ES
+8029,Pleitas,ES
+8030,Plenas,ES
+8031,Pomer,ES
+8032,"Pozuel de Ariza",ES
+8033,"Pozuelo de Aragón",ES
+8034,"Pradilla de Ebro",ES
+8035,"Puebla de Albortón",ES
+8036,"Puebla de Alfindén, La",ES
+8037,Puendeluna,ES
+8038,Purujosa,ES
+8039,Quinto,ES
+8040,Remolinos,ES
+8041,Retascón,ES
+8042,Ricla,ES
+8043,Romanos,ES
+8044,"Rueda de Jalón",ES
+8045,Ruesca,ES
+8046,Sabiñán,ES
+8047,Sádaba,ES
+8048,"Salillas de Jalón",ES
+8049,"Salvatierra de Esca",ES
+8050,"Samper del Salz",ES
+8051,"San Martín de la Virgen de Moncayo",ES
+8052,"San Mateo de Gállego",ES
+8053,"Santa Cruz de Grío",ES
+8054,"Santa Cruz de Moncayo",ES
+8055,"Santa Eulalia de Gállego",ES
+8056,Santed,ES
+8057,Sástago,ES
+8058,Sediles,ES
+8059,Sestrica,ES
+8060,"Sierra de Luna",ES
+8061,Sigüés,ES
+8062,Sisamón,ES
+8063,Sobradiel,ES
+8064,"Sos del Rey Católico",ES
+8065,Tabuenca,ES
+8066,Talamantes,ES
+8067,Tarazona,ES
+8068,Tauste,ES
+8069,Terrer,ES
+8070,Tierga,ES
+8071,Tobed,ES
+8072,"Torralba de los Frailes",ES
+8073,"Torralba de Ribota",ES
+8074,Torralbilla,ES
+8075,Torrehermosa,ES
+8076,Torrelapaja,ES
+8077,Torrellas,ES
+8078,"Torres de Berrellén",ES
+8079,"Torrijo de la Cañada",ES
+8080,Tosos,ES
+8081,Trasmoz,ES
+8082,Trasobares,ES
+8083,Uncastillo,ES
+8084,"Undués de Lerda",ES
+8085,"Urrea de Jalón",ES
+8086,Urriés,ES
+8087,Used,ES
+8088,Utebo,ES
+8089,"Val de San Martín",ES
+8090,Valdehorna,ES
+8091,Valmadrid,ES
+8092,Valpalmas,ES
+8093,Valtorres,ES
+8094,"Velilla de Ebro",ES
+8095,"Velilla de Jiloca",ES
+8096,"Vera de Moncayo",ES
+8097,Vierlas,ES
+8098,Villadoz,ES
+8099,Villafeliche,ES
+8100,"Villafranca de Ebro",ES
+8101,"Villalba de Perejil",ES
+8102,Villalengua,ES
+8103,"Villamayor de Gállego",ES
+8104,"Villanueva de Gállego",ES
+8105,"Villanueva de Huerva",ES
+8106,"Villanueva de Jiloca",ES
+8107,"Villar de los Navarros",ES
+8108,"Villarreal de Huerva",ES
+8109,"Villarroya de la Sierra",ES
+8110,"Villarroya del Campo",ES
+8111,"Vilueña, La",ES
+8112,Vistabella,ES
+8113,"Zaida, La",ES
+8114,Zaragoza,ES
+8115,Zuera,ES
+8116,Ceuta,ES
+8117,Melilla,ES
